@@ -39,7 +39,7 @@ n
 n
 .
 
-Let $\displaystyle S(n) = \sum_{k=1}^n P(k)$.
+Let \displaystyle S(n) = \sum_{k=1}^n P(k).
 
 You are given P(1)=1, P(9) = 6, P(1000)=510, S(1000)=268271.
 

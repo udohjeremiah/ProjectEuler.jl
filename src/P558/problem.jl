@@ -61,7 +61,7 @@ More formally, for all positive integers
 n
 , we have:
 n
- = $\displaystyle \sum_{k=-\infty}^{\infty}$ 
+ = \displaystyle \sum_{k=-\infty}^{\infty} 
 b
 k
  r
@@ -89,13 +89,13 @@ k
 w
 (
 n
-) = $\displaystyle \sum_{k=-\infty}^{\infty}$ 
+) = \displaystyle \sum_{k=-\infty}^{\infty} 
 b
 k
  is finite.
 Let S(
 m
-) = $\displaystyle \sum_{j=1}^{m}$ 
+) = \displaystyle \sum_{j=1}^{m} 
 w
 (
 j

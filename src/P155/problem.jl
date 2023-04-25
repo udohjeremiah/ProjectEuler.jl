@@ -22,7 +22,7 @@ Find D(18).
 
 Reminder : When connecting capacitors C₁, C₂ etc in parallel, the total capacitance is C_T= C₁ + C₂ +...,
 
-whereas when connecting them in series, the overall capacitance is given by: $\dfrac{1}{C_T} = \dfrac{1}{C_1} + \dfrac{1}{C_2} + ...$
+whereas when connecting them in series, the overall capacitance is given by: \dfrac{1}{C_T} = \dfrac{1}{C_1} + \dfrac{1}{C_2} + ...
 """
 
 

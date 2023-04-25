@@ -19,7 +19,7 @@ M
 (5) = 15. It can also be verified that 
 M
 (100) = 10920.
-Find $\displaystyle \sum_{k=0}^{10^{18}} M(2^k + 1)$. Give your answer modulo 7
+Find \displaystyle \sum_{k=0}^{10^{18}} M(2^k + 1). Give your answer modulo 7
 9
 .
 """

@@ -9,7 +9,7 @@ content = """
 Two positive integers x and y (x > y) can generate a sequence in the following manner:
 
   • aₓ = y is the first term,
-  • $a_{z+1} = a_z^2 \bmod z$ for $z = x, x+1,x+2,\ldots$ and
+  • a_{z+1} = a_z^2 \bmod z for z = x, x+1,x+2,\ldots and
   • the generation stops when a term becomes 0 or 1.
 
 The number of terms in this sequence is denoted l(x,y).

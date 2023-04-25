@@ -10,7 +10,7 @@ A standard deck of 52 playing cards, which consists of thirteen ranks (Ace, Two,
 perfect
  if no two cards of that same rank appear next to each other after the shuffle.
 
-It can be seen that the expected number of ranks that are perfect after a random shuffle equals $\frac {4324} {425} \approx 10.1741176471$.
+It can be seen that the expected number of ranks that are perfect after a random shuffle equals \frac {4324} {425} \approx 10.1741176471.
 
 Find the probability that the number of perfect ranks is prime. Give your answer rounded to 10 decimal places.
 """

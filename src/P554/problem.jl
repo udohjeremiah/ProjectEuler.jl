@@ -62,7 +62,7 @@ i
  for 
 i
  > 2.
-Find $\displaystyle \left( \sum_{i=2}^{90} C(F_i) \right) \text{mod } (10^8+7)$.
+Find \displaystyle \left( \sum_{i=2}^{90} C(F_i) \right) \text{mod } (10^8+7).
 """
 
 

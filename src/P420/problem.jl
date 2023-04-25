@@ -13,7 +13,7 @@ positive integer matrix
 Some positive integer matrices can be expressed as a square of a positive integer matrix in two different ways. Here is an example:
 
 
-$$\begin{pmatrix}
+\begin{pmatrix}
 40 & 12\\
 48 & 40
 \end{pmatrix} =
@@ -25,7 +25,7 @@ $$\begin{pmatrix}
 6 & 1\\
 4 & 6
 \end{pmatrix}^2
-$$
+
 
 
 

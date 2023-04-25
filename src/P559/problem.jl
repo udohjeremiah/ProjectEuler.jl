@@ -45,7 +45,7 @@ For example, P(1, 2, 3) = 19, P(2, 4, 6) = 65508751 and  P(7, 5, 30) mod 1000000
 
 Let Q(
 n
-) =$\,  \displaystyle \sum_{k=1}^n\,$ P(
+) =\,  \displaystyle \sum_{k=1}^n\, P(
 k
 , 
 n

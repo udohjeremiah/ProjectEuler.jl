@@ -14,7 +14,7 @@ y
 n
  are positive integers.
 
-$$\dfrac{1}{x} + \dfrac{1}{y} = \dfrac{1}{n}$$
+\dfrac{1}{x} + \dfrac{1}{y} = \dfrac{1}{n}
 
 For a limit 
 L

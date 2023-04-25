@@ -11,13 +11,13 @@ f
 k
 (
 n
-) = $\sum_{i=0}^{n}$ 
+) = \sum_{i=0}^{n} 
 f
 k
-($\lfloor\frac{i}{k}\rfloor$) where 
+(\lfloor\frac{i}{k}\rfloor) where 
 f
 k
-(0) = 1 and $\lfloor x \rfloor$ denotes the floor function.
+(0) = 1 and \lfloor x \rfloor denotes the floor function.
 For example, 
 f
 5
@@ -30,12 +30,12 @@ f
 (10
 3
 ) = 264830889564.
-Find $(\sum_{k=2}^{10}$ 
+Find (\sum_{k=2}^{10} 
 f
 k
 (10
 14
-)$)$ mod (10
+)) mod (10
 9
 +7).
 """

@@ -22,7 +22,7 @@ n
 n
 .
 
-$H_n = \displaystyle \sum_{k=1}^n \frac 1 k = \frac {a_n} {b_n}$, with $\text {gcd}(a_n, b_n)=1$.
+H_n = \displaystyle \sum_{k=1}^n \frac 1 k = \frac {a_n} {b_n}, with \text {gcd}(a_n, b_n)=1.
 Let 
 M
 (
@@ -37,7 +37,7 @@ p
 .
 For example, 
 M
-(3) = 68 because $H_{68} = \frac {a_{68}} {b_{68}} = \frac {14094018321907827923954201611} {2933773379069966367528193600}$, 
+(3) = 68 because H_{68} = \frac {a_{68}} {b_{68}} = \frac {14094018321907827923954201611} {2933773379069966367528193600}, 
 b
 68
 =2933773379069966367528193600 is not divisible by 3, but all larger harmonic numbers have denominators divisible by 3.

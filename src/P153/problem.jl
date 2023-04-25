@@ -91,7 +91,7 @@ n
 
 If for example we divide 5 by 1+2
 i
- we can simplify $\dfrac{5}{1 + 2i}$ in the following manner:
+ we can simplify \dfrac{5}{1 + 2i} in the following manner:
 
 
 Multiply numerator and denominator by the complex conjugate of 1+2
@@ -101,7 +101,7 @@ i
 .
 
 
-The result is $\dfrac{5}{1 + 2i} = \dfrac{5}{1 + 2i}\dfrac{1 - 2i}{1 - 2i} = \dfrac{5(1 - 2i)}{1 - (2i)^2} = \dfrac{5(1 - 2i)}{1 - (-4)} = \dfrac{5(1 - 2i)}{5} = 1 - 2i$.
+The result is \dfrac{5}{1 + 2i} = \dfrac{5}{1 + 2i}\dfrac{1 - 2i}{1 - 2i} = \dfrac{5(1 - 2i)}{1 - (2i)^2} = \dfrac{5(1 - 2i)}{1 - (-4)} = \dfrac{5(1 - 2i)}{5} = 1 - 2i.
 
 
 So 1+2
@@ -111,7 +111,7 @@ i
 
 Note that 1+
 i
- is not a divisor of 5 because $\dfrac{5}{1 + i} = \dfrac{5}{2} - \dfrac{5}{2}i$.
+ is not a divisor of 5 because \dfrac{5}{1 + i} = \dfrac{5}{2} - \dfrac{5}{2}i.
 
 
 Note also that if the Gaussian Integer (
@@ -184,9 +184,9 @@ i
 i
 , 5
 12
-For divisors with positive real parts, then, we have: $\sum \limits_{n = 1}^{5} {s(n)} = 35$.
-For $\sum \limits_{n = 1}^{10^5} {s(n)} = 17924657155$.
-What is $\sum \limits_{n = 1}^{10^8} {s(n)}$?
+For divisors with positive real parts, then, we have: \sum \limits_{n = 1}^{5} {s(n)} = 35.
+For \sum \limits_{n = 1}^{10^5} {s(n)} = 17924657155.
+What is \sum \limits_{n = 1}^{10^8} {s(n)}?
 """
 
 

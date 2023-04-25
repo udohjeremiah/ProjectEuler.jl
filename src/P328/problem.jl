@@ -81,8 +81,8 @@ n
 
 Thus C(1) = 0, C(2) = 1, C(3) = 2 and C(8) = 12.
 
-Similarly, C(100) = 400 and $\sum \limits_{n = 1}^{100} {C(n)} = 17575$.
-Find $\sum \limits_{n = 1}^{200000} {C(n)}$ .
+Similarly, C(100) = 400 and \sum \limits_{n = 1}^{100} {C(n)} = 17575.
+Find \sum \limits_{n = 1}^{200000} {C(n)} .
 """
 
 

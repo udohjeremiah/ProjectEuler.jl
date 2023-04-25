@@ -82,9 +82,9 @@ k
 etc and we find that 
 g
 (535) = 1008.
-Given that $\sum \limits_{n = 2}^{999} {g \left ( \left \lfloor \dfrac{10^6}{n} \right \rfloor \right )} = 27280188$, find $\sum \limits_{n = 2}^{999999} {g \left ( \left \lfloor \dfrac{10^{16}}{n} \right \rfloor \right )}$.
+Given that \sum \limits_{n = 2}^{999} {g \left ( \left \lfloor \dfrac{10^6}{n} \right \rfloor \right )} = 27280188, find \sum \limits_{n = 2}^{999999} {g \left ( \left \lfloor \dfrac{10^{16}}{n} \right \rfloor \right )}.
 Note
-: $\lfloor x \rfloor$ represents the floor function.
+: \lfloor x \rfloor represents the floor function.
 
 """
 

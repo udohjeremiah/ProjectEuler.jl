@@ -37,7 +37,7 @@ A disk at (
 x
 ,
 y
-) satisfying $N - 1 \le \sqrt{x^2 + y^2} \lt N$, shows its black side; otherwise, it shows its white side. C
+) satisfying N - 1 \le \sqrt{x^2 + y^2} \lt N, shows its black side; otherwise, it shows its white side. C
 5
  is shown above.
 Let T(
@@ -49,7 +49,7 @@ N
  is unsolvable.
 
 We have shown that T(5)=3. You are also given that T(10)=29 and T(1 000)=395253.
-Find $\sum \limits_{i = 3}^{31} {T(2^i - i)}$.
+Find \sum \limits_{i = 3}^{31} {T(2^i - i)}.
 """
 
 

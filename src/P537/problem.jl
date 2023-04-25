@@ -45,7 +45,7 @@ x
 i
  is a positive integer;
 
-2. $\displaystyle \sum_{i=1}^k \pi(x_i)=n$
+2. \displaystyle \sum_{i=1}^k \pi(x_i)=n
 
 
 For example 

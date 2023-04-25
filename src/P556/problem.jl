@@ -74,7 +74,7 @@ z
 2
  is a Gaussian integer.
 
-$\frac {z_1} {z_2} = \frac {a_1 + b_1 i} {a_2 + b_2 i} = \frac {(a_1 + b_1 i)(a_2 - b_2 i)} {(a_2 + b_2 i)(a_2 - b_2 i)} = \frac {a_1 a_2 + b_1 b_2} {a_2^2 + b_2^2} + \frac  {a_2 b_1 - a_1 b_2}  {a_2^2 + b_2^2}i = a_3 + b_3 i$
+\frac {z_1} {z_2} = \frac {a_1 + b_1 i} {a_2 + b_2 i} = \frac {(a_1 + b_1 i)(a_2 - b_2 i)} {(a_2 + b_2 i)(a_2 - b_2 i)} = \frac {a_1 a_2 + b_1 b_2} {a_2^2 + b_2^2} + \frac  {a_2 b_1 - a_1 b_2}  {a_2^2 + b_2^2}i = a_3 + b_3 i
 
 So, 
 z
@@ -82,7 +82,7 @@ z
  is divisible by 
 z
 2
- if $\frac {a_1 a_2 + b_1 b_2} {a_2^2 + b_2^2}$ and $\frac  {a_2 b_1 - a_1 b_2}  {a_2^2 + b_2^2}$ are integers.
+ if \frac {a_1 a_2 + b_1 b_2} {a_2^2 + b_2^2} and \frac  {a_2 b_1 - a_1 b_2}  {a_2^2 + b_2^2} are integers.
 
 For example, 2 is divisible by 1 + i because 2/(1 + i) = 1 - i is a Gaussian integer.
 A 

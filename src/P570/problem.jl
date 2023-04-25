@@ -12,8 +12,8 @@ For an order n snowflake, let A(n) be the number of triangles that are one layer
 E.g. A(3) = 30, B(3) = 6, G(3)=6
 
 A(11) = 3027630, B(11) = 19862070, G(11) = 30
-Further, G(500) = 186 and  $\sum_{n=3}^{500}G(n)=5124$
-Find $\displaystyle \sum_{n=3}^{10^7}G(n)$.
+Further, G(500) = 186 and  \sum_{n=3}^{500}G(n)=5124
+Find \displaystyle \sum_{n=3}^{10^7}G(n).
 """
 
 

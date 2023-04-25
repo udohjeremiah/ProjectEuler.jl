@@ -40,8 +40,8 @@ k
 th
  mountain.  Hence P(3)=1 and P(9)=3.
 
-Also $\displaystyle \sum_{k=1}^{100} P(k) = 227$.
-Find $\displaystyle \sum_{k=1}^{2500000} P(k)$.
+Also \displaystyle \sum_{k=1}^{100} P(k) = 227.
+Find \displaystyle \sum_{k=1}^{2500000} P(k).
 """
 
 
