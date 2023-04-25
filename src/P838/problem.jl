@@ -4,7 +4,7 @@ module Problem838
 title = "Problem 838: Not Coprime"
 published_on = "Saturday, 8th April 2023, 08:00 pm"
 solved_by = 311
-difficulty_rating = """"
+difficulty_rating = ""
 content = """
 Let f(N) be the smallest positive integer that is not coprime to any positive integer n ≤ N whose least significant digit is 3.
 

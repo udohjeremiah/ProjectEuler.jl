@@ -4,7 +4,7 @@ module Problem836
 title = "Problem 836: A Bold Proposition"
 published_on = "Saturday, 1st April 2023, 05:00 pm"
 solved_by = 765
-difficulty_rating = """"
+difficulty_rating = ""
 content = """
 Let A be an \e[1maffine plane\e[0m over a \e[1mradically integral local field\e[0m F with residual characteristic p.
 

@@ -4,7 +4,7 @@ module Problem840
 title = "Problem 840: Sum of Products"
 published_on = "Sunday, 23rd April 2023, 02:00 am"
 solved_by = 163
-difficulty_rating = """"
+difficulty_rating = ""
 content = """
 A 
 partition
