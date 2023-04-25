@@ -1,5 +1,5 @@
 <div align="center">
-    <img algin="center" src="assets/project_logo.png">
+    <img algin="center" src="assets/project_logo.png"><br><br>
     <a href="https://img.shields.io/github/repo-size/udohjeremiah/ProjectEuler.jl">
         <img src="https://img.shields.io/github/repo-size/udohjeremiah/ProjectEuler.jl"/>
     </a>
