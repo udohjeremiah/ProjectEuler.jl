@@ -27,7 +27,7 @@ using HTTP, Gumbo, AbstractTrees
 # problems that have not been tackled before.
 function _update_struct_fields(question_id)
     if isdir("P1")
-        for id in 792:question_id-1
+        for id in 1:question_id-1
             req = HTTP.get("https://projecteuler.net/problem=$id")
             req_parsed = parsehtml(String(req.body))
             body = req_parsed.root[2]
