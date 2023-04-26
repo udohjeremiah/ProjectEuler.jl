@@ -29,12 +29,12 @@ julia> using ProjectEuler
 ```
 
 # Usage
-Currently, this package provides only one function: getquestion. However, there are plans to
+Currently, this package provides only one function: `getquestion`. However, there are plans to
 support two more important ones, as indicated [here](https://github.com/udohjeremiah/ProjectEuler.jl/blob/4137c80ac3778a93c8103ce794e98f3be9f7c8eb/src/problemutils.jl#L55-L58).
 
 ## getquestion
 The `getquestion` function takes only one argument, an `Integer` value, and then it returns
-a struct of type `Problem`. The `title` field of the returned `Problem` struct is edited to
+a struct of type `Problem`. The `content` field of the returned `Problem` struct is edited to
 render it as identical as possible to its appearance on https://projecteuler.net. An example
 is shown below:
 
