@@ -18,6 +18,8 @@ be shared:
 module ProjectEuler
 
 
+export question
+
 include("problemfiles.jl")
 include("problemutils.jl")
 

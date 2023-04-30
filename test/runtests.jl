@@ -21,8 +21,8 @@ using Test
             # hence it is unavailable for now.
             continue
         end
-        p = getquestion(problem_id)
+        p = question(problem_id)
         @test p == Problem
-        @test Base.show(p) == nothing
+        @test Base.show(p) === nothing
     end
 end

@@ -39,7 +39,7 @@ function Base.show(io::IO, ::MIME"text/plain", p::Problem)
     return nothing
 end
 
-function getquestion(ID::Integer)
+function question(ID::Integer)
     problem_module = eval(Symbol("Problem$ID"))
     p = Problem(
         src,
@@ -54,5 +54,5 @@ end
 
 # The functions below will be implemented in a later release of this package, if it does not
 # infringe on the copyright laws of https://projecteuler.net.
-# function submitanswer(ID::Integer, answer) end
-# function checkanswer(ID::Integer, answer) end
+# function submit(ID::Integer, answer) end
+# function check(ID::Integer, answer) end

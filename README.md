@@ -32,11 +32,11 @@ julia> using ProjectEuler
 ```
 
 # Usage
-Currently, this package provides only one function: `getquestion`. However, there are plans to
+Currently, this package provides only one function: `question`. However, there are plans to
 support two more important ones, as indicated [here](https://github.com/udohjeremiah/ProjectEuler.jl/blob/4137c80ac3778a93c8103ce794e98f3be9f7c8eb/src/problemutils.jl#L55-L58).
 
-## getquestion
-The `getquestion` function takes only one argument, an `Integer` value, and then it returns
+## question
+The `question` function takes only one argument, an `Integer` value, and then it returns
 a struct of type `Problem`. The `content` field of the returned `Problem` struct is edited to
 render it as identical as possible to its appearance on https://projecteuler.net. An example
 is shown below:
@@ -47,7 +47,7 @@ is shown below:
 
 Some problems have not been edited yet because they require an image or a complex
 mathematical equation (which, unfortunately, Julia's REPL cannot render at present).
-Therefore, passing certain values to `getquestion` will result in an error.
+Therefore, passing certain values to `question` will result in an error.
 
 ## Screen Size
 To fully experience all the questions, you may need to increase the width of your terminal
