@@ -1,7 +1,7 @@
 name = "ProjectEuler"
 uuid = "34942f61-84b4-43a8-8f7e-e317c275c964"
 authors = ["Udoh Jeremiah <udohjeremiah@icloud.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
