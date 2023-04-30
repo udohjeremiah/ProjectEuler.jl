@@ -17,9 +17,9 @@ Consider points (T_{2k−1}, T_{2k}), for integer k >= 1, generated in the f
 
 S_0 	=  	290797
  
-S_{n+1} 	=  	{S_n}^2 \:\: \rm{mod} \:\: 50515093
+S_{n+1} 	=  	{S_n}^2 \\:\\: \\rm{mod} \\:\\: 50515093
 
-T_n 	=  	( S_n \:\: \rm{mod} \:\: 2000 ) − 1000
+T_n 	=  	( S_n \\:\\: \\rm{mod} \\:\\: 2000 ) − 1000
 
 
 For example, the first three points are: (527, 144), (−488, 732), (−454, −947).  Given the first n points generated in this manner, let L_n be the set of 

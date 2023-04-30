@@ -7,7 +7,7 @@ solved_by = 98
 difficulty_rating = "75%"
 content = """
 
-Let \displaystyle S(n)=\sum\limits_{k=0}^{n}\binom{n}{k}k^n.
+Let \\displaystyle S(n)=\\sum\\limits_{k=0}^{n}\\binom{n}{k}k^n.
 
 You are given, S(10)=142469423360.
 

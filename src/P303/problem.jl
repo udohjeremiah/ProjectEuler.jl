@@ -27,9 +27,9 @@ f
 (42)=210, 
 f
 (89)=1121222.
-Also, \sum \limits_{n = 1}^{100} {\dfrac{f(n)}{n}} = 11363107.
+Also, \\sum \\limits_{n = 1}^{100} {\\dfrac{f(n)}{n}} = 11363107.
 
-Find \sum \limits_{n=1}^{10000} {\dfrac{f(n)}{n}}.
+Find \\sum \\limits_{n=1}^{10000} {\\dfrac{f(n)}{n}}.
 
 """
 

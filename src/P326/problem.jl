@@ -7,7 +7,7 @@ solved_by = 532
 difficulty_rating = "55%"
 content = """
 
-Let a_n be a sequence recursively defined by:\quad a_1=1,\quad\displaystyle a_n=\biggl(\sum_{k=1}^{n-1}k\cdot a_k\biggr)\bmod n.
+Let a_n be a sequence recursively defined by:\\quad a_1=1,\\quad\\displaystyle a_n=\\biggl(\\sum_{k=1}^{n-1}k\\cdot a_k\\biggr)\\bmod n.
 
 
 So the first 10 elements of a_n are: 1,1,0,3,0,3,5,4,1,9.
@@ -21,8 +21,8 @@ p,q
 ) such that: 
 
 
-\def\htmltext#1{\style{font-family:inherit;}{\text{#1}}}
-1\le p\le q\le N \quad\htmltext{and}\quad\biggl(\sum_{i=p}^qa_i\biggr)\bmod M=0
+\\def\\htmltext#1{\\style{font-family:inherit;}{\\text{#1}}}
+1\\le p\\le q\\le N \\quad\\htmltext{and}\\quad\\biggl(\\sum_{i=p}^qa_i\\biggr)\\bmod M=0
 
 
 

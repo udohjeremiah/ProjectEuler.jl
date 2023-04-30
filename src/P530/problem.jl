@@ -33,13 +33,13 @@ d
  of 
 n
 , that is
-f(n)=\displaystyle\sum\limits_{d|n}\, \text{gcd}(d,\frac n d).
+f(n)=\\displaystyle\\sum\\limits_{d|n}\\, \\text{gcd}(d,\\frac n d).
 Let 
 F
  be the summatory function of 
 f
 , that is
-F(k)=\displaystyle\sum\limits_{n=1}^k \, f(n).
+F(k)=\\displaystyle\\sum\\limits_{n=1}^k \\, f(n).
 You are given that 
 F
 (10)=32 and 

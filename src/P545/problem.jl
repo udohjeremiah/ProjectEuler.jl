@@ -17,7 +17,7 @@ k
 Faulhaber's Formulas
 :
 
-1^k + 2^k + ... + n^k = \sum_{i=1}^n i^k = \sum_{i=1}^{k+1} a_{i} n^i = a_{1} n + a_{2} n^2 + ... + a_{k} n^k + a_{k+1} n^{k + 1},
+1^k + 2^k + ... + n^k = \\sum_{i=1}^n i^k = \\sum_{i=1}^{k+1} a_{i} n^i = a_{1} n + a_{2} n^2 + ... + a_{k} n^k + a_{k+1} n^{k + 1},
 
 where 
 a
@@ -35,7 +35,7 @@ i
 q
 i
  = 1).
-For example, 1^4 + 2^4 + ... + n^4 = -\frac 1 {30} n + \frac 1 3 n^3 + \frac 1 2 n^4 + \frac 1 5 n^5.
+For example, 1^4 + 2^4 + ... + n^4 = -\\frac 1 {30} n + \\frac 1 3 n^3 + \\frac 1 2 n^4 + \\frac 1 5 n^5.
 Define D(
 k
 ) as the value of 

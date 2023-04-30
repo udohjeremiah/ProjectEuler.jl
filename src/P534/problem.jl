@@ -51,7 +51,7 @@ n
 ×
 n
  board so that no two queens threaten each other. It can be shown, for example, that Q(4,0)=2, Q(4,2)=16 and Q(4,3)=256.
-Let S(n)=\displaystyle\sum_{w=0}^{n-1} Q(n,w).
+Let S(n)=\\displaystyle\\sum_{w=0}^{n-1} Q(n,w).
 You are given that S(4)=276 and S(5)=3347.
 Find S(14).
 """

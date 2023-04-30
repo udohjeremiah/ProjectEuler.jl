@@ -15,12 +15,12 @@ SET
 
 For a collection C_n of n cards, let S(C_n) denote the number of 
 SET
-s in C_n. Then define F(n) = \sum\limits_{C_n} S(C_n)^4 where C_n ranges through all collections of n cards (among the 81 cards).
+s in C_n. Then define F(n) = \\sum\\limits_{C_n} S(C_n)^4 where C_n ranges through all collections of n cards (among the 81 cards).
 You are given F(3) = 1080 and F(6) = 159690960.
 
 Find F(12).
 
-\scriptsize{\text{SET is a registered trademark of Cannei, LLC.  All rights reserved.  
+\\scriptsize{\\text{SET is a registered trademark of Cannei, LLC.  All rights reserved.  
 Used with permission from PlayMonster, LLC.}}
 """
 

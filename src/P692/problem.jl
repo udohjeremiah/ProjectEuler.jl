@@ -23,7 +23,7 @@ Let H(N) be that minimal amount for a heap of N pebbles.
 H(1)=1, H(4)=1, H(17)=1, H(8)=8 and H(18)=5 .
 
 
-Let G(n) be \displaystyle{\sum_{k=1}^n H(k)}.
+Let G(n) be \\displaystyle{\\sum_{k=1}^n H(k)}.
 
 G(13)=43.
 

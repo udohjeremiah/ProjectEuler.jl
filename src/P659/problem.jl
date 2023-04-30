@@ -7,7 +7,7 @@ solved_by = 912
 difficulty_rating = "20%"
 content = """
 
-Consider the sequence  n^2+3 with n \ge 1. 
+Consider the sequence  n^2+3 with n \\ge 1. 
  
 If we write down the first terms of this sequence we get:
 
@@ -21,7 +21,7 @@ In fact 13 is the largest prime dividing any two successive terms of this sequen
 Let P(k) be the largest prime  that divides any two successive terms of the sequence n^2+k^2.
 
 
-Find the last 18 digits of \displaystyle \sum_{k=1}^{10\,000\,000} P(k).
+Find the last 18 digits of \\displaystyle \\sum_{k=1}^{10\\,000\\,000} P(k).
 
 """
 

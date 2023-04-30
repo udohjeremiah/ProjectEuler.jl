@@ -31,9 +31,9 @@ You are given f(1) = 1, f(2) = 6 and f(3) = 1008.
 Also define
 
 
-\displaystyle	S(n) = \sum_{k=1}^n f(k)
+\\displaystyle	S(n) = \\sum_{k=1}^n f(k)
 
-Find S(10^4) and give your answer modulo 1\,000\,000\,033.
+Find S(10^4) and give your answer modulo 1\\,000\\,000\\,033.
 
 """
 

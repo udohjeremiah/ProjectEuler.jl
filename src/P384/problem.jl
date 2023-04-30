@@ -22,7 +22,7 @@ a(n)
 This sequence is called the 
 Rudin-Shapiro
  sequence.
-Also consider the summatory sequence of b(n): s(n) = \sum \limits_{i = 0}^{n} {b(i)}.
+Also consider the summatory sequence of b(n): s(n) = \\sum \\limits_{i = 0}^{n} {b(i)}.
 The first couple of values of these sequences are:
 
 n        0     1     2     3     4     5     6     7
@@ -42,7 +42,7 @@ F(0)=F(1)=1 and
 
 F(n)=F(n-1)+F(n-2) for n>1.
 Define GF(t)=g(F(t),F(t-1)).
-Find \sum GF(t) for 2≤t≤45.
+Find \\sum GF(t) for 2≤t≤45.
 """
 
 

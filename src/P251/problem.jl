@@ -15,7 +15,7 @@ b
 c
 ) is called a Cardano Triplet if it satisfies the condition:
 
-\sqrt[3]{a + b \sqrt{c}} + \sqrt[3]{a - b \sqrt{c}} = 1
+\\sqrt[3]{a + b \\sqrt{c}} + \\sqrt[3]{a - b \\sqrt{c}} = 1
 
 
 

@@ -8,7 +8,7 @@ difficulty_rating = "100%"
 content = """
 
 The Collatz sequence is defined as:
-a_{i+1} = \left\{  \large{\frac {a_i} 2 \atop 3 a_i+1} {\text{if }a_i\text{ is even} \atop \text{if }a_i\text{ is odd}} \right..
+a_{i+1} = \\left\\{  \\large{\\frac {a_i} 2 \\atop 3 a_i+1} {\\text{if }a_i\\text{ is even} \\atop \\text{if }a_i\\text{ is odd}} \\right..
 
 
 The Collatz conjecture states that starting from any positive integer, the sequence eventually reaches the cycle 1,4,2,1....

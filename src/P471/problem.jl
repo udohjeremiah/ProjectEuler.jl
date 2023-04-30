@@ -6,7 +6,7 @@ published_on = "Saturday, 10th May 2014, 10:00 pm"
 solved_by = 222
 difficulty_rating = "75%"
 content = """
-The triangle ΔABC is inscribed in an ellipse with equation \frac {x^2} {a^2} + \frac {y^2} {b^2} = 1, 0 < 2
+The triangle ΔABC is inscribed in an ellipse with equation \\frac {x^2} {a^2} + \\frac {y^2} {b^2} = 1, 0 < 2
 b
  < 
 a
@@ -23,7 +23,7 @@ a
 b
 ) be the radius of the incircle of ΔABC when the incircle has center (2
 b
-, 0) and A has coordinates \left( \frac a 2, \frac {\sqrt 3} 2 b\right).
+, 0) and A has coordinates \\left( \\frac a 2, \\frac {\\sqrt 3} 2 b\\right).
 For example, 
 r
 (3,1) = ½, 
@@ -31,7 +31,7 @@ r
 (6,2) = 1, 
 r
 (12,3) = 2.
-Let G(n) = \sum_{a=3}^n \sum_{b=1}^{\lfloor \frac {a - 1} 2 \rfloor} r(a, b)
+Let G(n) = \\sum_{a=3}^n \\sum_{b=1}^{\\lfloor \\frac {a - 1} 2 \\rfloor} r(a, b)
 You are given 
 G
 (10) = 20.59722222, 

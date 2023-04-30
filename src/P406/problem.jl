@@ -88,13 +88,13 @@ Here are a few examples:
 
 C(5, 2, 3) = 5
 
-C(500, \sqrt 2, \sqrt 3) = 13.22073197\dots
+C(500, \\sqrt 2, \\sqrt 3) = 13.22073197\\dots
 
 C(20000, 5, 7) = 82
 
-C(2000000, \sqrt 5, \sqrt 7) = 49.63755955\dots
+C(2000000, \\sqrt 5, \\sqrt 7) = 49.63755955\\dots
 Let F_k be the Fibonacci numbers: F_k=F_{k-1}+F_{k-2} with base cases F_1=F_2= 1.
-Find \displaystyle \sum \limits_{k = 1}^{30} {C \left (10^{12}, \sqrt{k}, \sqrt{F_k} \right )}, and give your answer rounded to 8 decimal places behind the decimal point.
+Find \\displaystyle \\sum \\limits_{k = 1}^{30} {C \\left (10^{12}, \\sqrt{k}, \\sqrt{F_k} \\right )}, and give your answer rounded to 8 decimal places behind the decimal point.
 """
 
 

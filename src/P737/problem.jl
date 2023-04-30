@@ -24,7 +24,7 @@ The diagram below [not to scale] shows a possible placement of 8 coins where poi
 
 It is found that a minimum of 31 coins are needed to form a 
 coin loop
- around the line, i.e. if in the projection of the coins on the table the centre of the nth coin is rotated \theta_n, about the line, from the centre of the (n-1)th coin then the sum of \displaystyle\sum_{k=2}^n \theta_k is first larger than 360^\circ when n=31. In general, to loop k times, n is the smallest number for which the sum is greater than 360^\circ k.
+ around the line, i.e. if in the projection of the coins on the table the centre of the nth coin is rotated \\theta_n, about the line, from the centre of the (n-1)th coin then the sum of \\displaystyle\\sum_{k=2}^n \\theta_k is first larger than 360^\\circ when n=31. In general, to loop k times, n is the smallest number for which the sum is greater than 360^\\circ k.
 
 
 Also, 154 coins are needed to loop two times around the line, and 6947 coins to loop ten times.

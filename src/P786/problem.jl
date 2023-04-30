@@ -8,7 +8,7 @@ difficulty_rating = "95%"
 content = """
 
 The following diagram shows a billiard table of a special quadrilateral shape.
-The four angles A, B, C, D are 120^\circ, 90^\circ, 60^\circ, 90^\circ respectively, and the lengths AB and AD are equal.
+The four angles A, B, C, D are 120^\\circ, 90^\\circ, 60^\\circ, 90^\\circ respectively, and the lengths AB and AD are equal.
 
 
 The diagram on the left shows the trace of an infinitesimally small billiard ball, departing from point A, bouncing twice on the edges of the table, and finally returning back to point A. The diagram on the right shows another such trace, but this time bouncing eight times:
