@@ -9,6 +9,9 @@
     <a href="https://codecov.io/gh/udohjeremiah/ProjectEuler.jl/branch/main">
         <img src="https://codecov.io/gh/udohjeremiah/ProjectEuler.jl/branch/main/graph/badge.svg"/>
     </a>
+    <a href="https://juliahub.com/ui/Packages/ProjectEuler/8lUJP">
+        <img src="https://juliahub.com/docs/ProjectEuler/version.svg"/>
+    </a>
     <a href="https://github.com/udohjeremiah/Git-Plus-Hub-Flow">
         <img src="https://img.shields.io/badge/Workflow-Git+Hub%20Flow-F05032?logo=git&logoColor=red"/>
     </a>
