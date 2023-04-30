@@ -40,7 +40,7 @@ r
 r
 ).
 For example A(14) is 3.294040 rounded to six decimal places.
-Find \sum \limits_{r = 1}^{50} {A(r)}. Give your answer rounded to six decimal places.
+Find \\sum \\limits_{r = 1}^{50} {A(r)}. Give your answer rounded to six decimal places.
 """
 
 

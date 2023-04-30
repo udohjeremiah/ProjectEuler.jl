@@ -11,7 +11,7 @@ Now suppose that these circles are actually gears with perfectly meshing teeth a
 Note that "perfectly meshing" means that as the gears rotate, the ratio between their angular velocities remains constant, and the teeth of one gear perfectly align with the groves of the other gear and vice versa. Only for certain gear sizes and positions will it be possible for S and C each to mesh perfectly with all the planets. Arrangements where not all gears mesh perfectly are not valid.
 Define g(c,s,p,q) to be the number of such gear arrangements for given values of c, s, p, q: it turns out that this is finite as only certain discrete arrangements are possible satisfying the above conditions. For example, g(16,5,5,6)=9.
 Here is one such arrangement:
-Let G(n) = \sum_{s+p+q\le n} g(s+p+q,s,p,q) where the sum only includes cases with p<q, p\ge 5, and s\ge 5, all integers. You are given that G(16)=9 and G(20)=205.
+Let G(n) = \\sum_{s+p+q\\le n} g(s+p+q,s,p,q) where the sum only includes cases with p<q, p\\ge 5, and s\\ge 5, all integers. You are given that G(16)=9 and G(20)=205.
 Find G(500).
 """
 

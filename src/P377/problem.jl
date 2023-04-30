@@ -23,7 +23,7 @@ n
 .
 
 
-Find \displaystyle \sum_{i=1}^{17} f(13^i).
+Find \\displaystyle \\sum_{i=1}^{17} f(13^i).
 
 Give the last 9 digits as your answer.
 

@@ -24,15 +24,15 @@ n
 
 If 
 d
- is odd, set x_0 = 2 \times 10^{(d-1)/2}.
+ is odd, set x_0 = 2 \\times 10^{(d-1)/2}.
 
 If 
 d
- is even, set x_0 = 7 \times 10^{(d-2)/2}.
+ is even, set x_0 = 7 \\times 10^{(d-2)/2}.
 
 Repeat:
 
-x_{k+1} = \Biggl\lfloor{\dfrac{x_k + \lceil{n / x_k}\rceil}{2}}\Biggr\rfloor
+x_{k+1} = \\Biggl\\lfloor{\\dfrac{x_k + \\lceil{n / x_k}\\rceil}{2}}\\Biggr\\rfloor
 
 
 until x_{k+1} = x_k.
@@ -40,10 +40,10 @@ As an example, let us find the rounded-square-root of
 n
  = 4321.
 n
- has 4 digits, so x_0 = 7 \times 10^{(4-2)/2} = 70.
+ has 4 digits, so x_0 = 7 \\times 10^{(4-2)/2} = 70.
 
-x_1 = \Biggl\lfloor{\dfrac{70 + \lceil{4321 / 70}\rceil}{2}}\Biggr\rfloor = 66
-x_2 = \Biggl\lfloor{\dfrac{66 + \lceil{4321 / 66}\rceil}{2}}\Biggr\rfloor = 66
+x_1 = \\Biggl\\lfloor{\\dfrac{70 + \\lceil{4321 / 70}\\rceil}{2}}\\Biggr\\rfloor = 66
+x_2 = \\Biggl\\lfloor{\\dfrac{66 + \\lceil{4321 / 66}\\rceil}{2}}\\Biggr\\rfloor = 66
 
 Since x_2 = x_1, we stop here.
 
@@ -65,7 +65,7 @@ n
 
 Give your answer rounded to 10 decimal places.
 
-Note: The symbols \lfloor x \rfloor and \lceil x \rceil represent the 
+Note: The symbols \\lfloor x \\rfloor and \\lceil x \\rceil represent the 
 floor function
  and 
 ceiling function

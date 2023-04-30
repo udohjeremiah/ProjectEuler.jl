@@ -16,7 +16,7 @@ k
 
 We define the function S(
 N
-) = \sum_{i=1}^N \sum_{j=1}^Nd(i \cdot j).
+) = \\sum_{i=1}^N \\sum_{j=1}^Nd(i \\cdot j).
 
 For example, S(3) = 
 d

@@ -7,7 +7,7 @@ solved_by = 505
 difficulty_rating = "20%"
 content = """
 
-A=\sum_{i=1}^{\infty} \frac{1}{3^i 10^{3^i}}
+A=\\sum_{i=1}^{\\infty} \\frac{1}{3^i 10^{3^i}}
 
 
 Define A(n) to be the 10 decimal digits from the nth digit onward. 

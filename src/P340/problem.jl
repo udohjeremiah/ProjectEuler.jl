@@ -29,7 +29,7 @@ n
 n
  ≤ b.
 
-Also, define S(a, b, c) = \sum \limits_{n = 0}^{b} {F(n)}.
+Also, define S(a, b, c) = \\sum \\limits_{n = 0}^{b} {F(n)}.
 
 For example, if a = 50, b = 2000 and c = 40, then F(0) = 3240 and F(2000) = 2040.
 

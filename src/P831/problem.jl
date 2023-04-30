@@ -8,7 +8,7 @@ difficulty_rating = ""
 content = """
 Let g(m) be the integer defined by the following double sum of products of binomial coefficients:
 
-\sum_{j=0}^m\sum_{i = 0}^j (-1)^{j-i}\binom mj \binom ji \binom{j+5+6i}{j+5} 
+\\sum_{j=0}^m\\sum_{i = 0}^j (-1)^{j-i}\\binom mj \\binom ji \\binom{j+5+6i}{j+5} 
 
 
 You are given that g(10) = 127278262644918.

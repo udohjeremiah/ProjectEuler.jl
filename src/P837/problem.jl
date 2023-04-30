@@ -13,11 +13,11 @@ In the beginning, a number of parallel vertical lines are drawn, one for each ob
 
 For example, the following diagram depicts an Amidakuji with three objects (A, B, C) and six rungs:
 
-The coloured lines in the diagram illustrate how to form the permutation. For each object, starting from the top of its vertical line, trace downwards but follow any rung encountered along the way, and record which vertical we end up on. In this example, the resulting permutation happens to be the identity: A\mapsto A, B\mapsto B, C\mapsto C.
+The coloured lines in the diagram illustrate how to form the permutation. For each object, starting from the top of its vertical line, trace downwards but follow any rung encountered along the way, and record which vertical we end up on. In this example, the resulting permutation happens to be the identity: A\\mapsto A, B\\mapsto B, C\\mapsto C.
 
 Let a(m, n) be the number of different three-object Amidakujis that have m rungs between A and B, and n rungs between B and C, and whose outcome is the identity permutation. For example, a(3, 3) = 2, because the Amidakuji shown above and its mirror image are the only ones with the required property.
 
-You are also given that a(123, 321) \equiv 172633303 \pmod{1234567891}.
+You are also given that a(123, 321) \\equiv 172633303 \\pmod{1234567891}.
 
 Find a(123456789, 987654321). Give your answer modulo 1234567891.
 """
