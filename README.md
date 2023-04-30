@@ -33,7 +33,7 @@ julia> using ProjectEuler
 
 # Usage
 Currently, this package provides only one function: `question`. However, there are plans to
-support two more important ones, as indicated [here](https://github.com/udohjeremiah/ProjectEuler.jl/blob/4137c80ac3778a93c8103ce794e98f3be9f7c8eb/src/problemutils.jl#L55-L58).
+support two more important ones, as indicated [here](https://github.com/udohjeremiah/ProjectEuler.jl/blob/3272257a9046cdf153593690457793233e9ef2c6/src/problemutils.jl#L54C1-L58).
 
 ## question
 The `question` function takes only one argument, an `Integer` value, and then it returns
