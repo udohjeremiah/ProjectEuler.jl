@@ -12,7 +12,7 @@ as vertices. Two \$n\$-star polygons differing by a rotation/reflection are cons
 For example, there are twelve \$5\$-star polygons shown below.
 
 For an \$n\$-star polygon \$S\$, let \$I(S)\$ be the number of its self intersection points.
-Let \$T(n)\$ be the sum of \$I(S)\$ over all $n$-star polygons \$S\$.
+Let \$T(n)\$ be the sum of \$I(S)\$ over all \$n\$-star polygons \$S\$.
 For the example above \$T(5) = 20\$ because in total there are \$20\$ self intersection points.
 
 Some star polygons may have intersection points made from more than two lines. These are only counted once. For example,
