@@ -3,7 +3,7 @@ module Problem406
 
 title = "Problem 406: Guessing Game"
 published_on = "Sunday, 16th December 2012, 07:00 am"
-solved_by = 377
+solved_by = 379
 difficulty_rating = "50%"
 content = """
 We are trying to find a hidden number selected from the set of integers {1, 2, ..., 

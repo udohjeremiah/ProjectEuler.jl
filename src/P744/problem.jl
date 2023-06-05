@@ -3,7 +3,7 @@ module Problem744
 
 title = "Problem 744: What? Where? When?"
 published_on = "Sunday, 24th January 2021, 01:00 am"
-solved_by = 275
+solved_by = 282
 difficulty_rating = "35%"
 content = """
 "What? Where? When?" is a TV game show in which a team of experts attempt to answer questions. The following is a simplified version of the game.

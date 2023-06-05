@@ -3,7 +3,7 @@ module Problem436
 
 title = "Problem 436: Unfair wager"
 published_on = "Saturday, 14th September 2013, 07:00 pm"
-solved_by = 460
+solved_by = 466
 difficulty_rating = "55%"
 content = """
 Julie proposes the following wager to her sister Louise.

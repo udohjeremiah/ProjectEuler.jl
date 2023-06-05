@@ -3,7 +3,7 @@ module Problem204
 
 title = "Problem 204: Generalised Hamming Numbers"
 published_on = "Saturday, 6th September 2008, 02:00 pm"
-solved_by = 7513
+solved_by = 7531
 difficulty_rating = "30%"
 content = """
 A Hamming number is a positive number which has no prime factor larger than 5.

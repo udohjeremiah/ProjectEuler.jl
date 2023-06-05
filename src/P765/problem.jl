@@ -3,7 +3,7 @@ module Problem765
 
 title = "Problem 765: Trillionaire"
 published_on = "Saturday, 18th September 2021, 08:00 pm"
-solved_by = 192
+solved_by = 197
 difficulty_rating = "65%"
 content = """
 Starting with 1 gram of gold you play a game. Each round you bet a certain amount of your gold: if you have x grams you can

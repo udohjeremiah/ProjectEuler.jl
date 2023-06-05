@@ -3,7 +3,7 @@ module Problem228
 
 title = "Problem 228: Minkowski Sums"
 published_on = "Saturday, 17th January 2009, 05:00 am"
-solved_by = 1361
+solved_by = 1368
 difficulty_rating = "70%"
 content = """
 Let 

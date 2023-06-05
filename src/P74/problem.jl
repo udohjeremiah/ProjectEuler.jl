@@ -3,7 +3,7 @@ module Problem74
 
 title = "Problem 74: Digit factorial chains"
 published_on = "Friday, 16th July 2004, 06:00 pm"
-solved_by = 27890
+solved_by = 27950
 difficulty_rating = "15%"
 content = """
 The number 145 is well known for the property that the sum of the factorial of its digits is equal to 145:

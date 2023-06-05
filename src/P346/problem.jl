@@ -3,7 +3,7 @@ module Problem346
 
 title = "Problem 346: Strong Repunits"
 published_on = "Saturday, 3rd September 2011, 04:00 pm"
-solved_by = 4419
+solved_by = 4439
 difficulty_rating = "15%"
 content = """
 The number 7 is special, because 7 is 111 written in base 2, and 11 written in base 6 

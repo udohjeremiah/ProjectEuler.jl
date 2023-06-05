@@ -3,7 +3,7 @@ module Problem588
 
 title = "Problem 588: Quintinomial coefficients"
 published_on = "Sunday, 29th January 2017, 04:00 am"
-solved_by = 441
+solved_by = 447
 difficulty_rating = "40%"
 content = """
 The coefficients in the expansion of (x+1)ᵏ are called \e[1mbinomial coefficients.\e[0m

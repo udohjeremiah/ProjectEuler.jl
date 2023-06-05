@@ -3,7 +3,7 @@ module Problem298
 
 title = "Problem 298: Selective Amnesia"
 published_on = "Friday, 25th June 2010, 09:00 pm"
-solved_by = 682
+solved_by = 685
 difficulty_rating = "60%"
 content = """
 Larry and Robin play a memory game involving a sequence of random numbers between 1 and 10, inclusive, that are called

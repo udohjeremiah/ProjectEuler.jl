@@ -3,7 +3,7 @@ module Problem505
 
 title = "Problem 505: Bidirectional Recurrence"
 published_on = "Sunday, 1st March 2015, 01:00 am"
-solved_by = 208
+solved_by = 209
 difficulty_rating = "90%"
 content = """
 Let:

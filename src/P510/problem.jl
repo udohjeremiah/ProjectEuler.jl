@@ -3,7 +3,7 @@ module Problem510
 
 title = "Problem 510: Tangent Circles"
 published_on = "Saturday, 4th April 2015, 04:00 pm"
-solved_by = 1038
+solved_by = 1039
 difficulty_rating = "30%"
 content = """
 Circles A and B are tangent to each other and to line L at three distinct points.

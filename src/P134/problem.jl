@@ -3,7 +3,7 @@ module Problem134
 
 title = "Problem 134: Prime pair connection"
 published_on = "Friday, 15th December 2006, 06:00 pm"
-solved_by = 7254
+solved_by = 7277
 difficulty_rating = "45%"
 content = """
 Consider the consecutive primes p₁ = 19 and p₂ = 23. It can be verified that 1219 is the smallest number such that the last

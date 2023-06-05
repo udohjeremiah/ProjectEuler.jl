@@ -3,7 +3,7 @@ module Problem444
 
 title = "Problem 444: The Roundtable Lottery"
 published_on = "Saturday, 9th November 2013, 07:00 pm"
-solved_by = 307
+solved_by = 309
 difficulty_rating = "60%"
 content = """
 A group of p people decide to sit down at a round table and play a lottery-ticket trading game. Each person starts off with a randomly-assigned, unscratched lottery ticket. Each ticket, when scratched, reveals a whole-pound prize ranging anywhere from £1 to £p, with no two tickets alike. The goal of the game is for all of the players to maximize the winnings of the ticket they hold upon leaving the game.

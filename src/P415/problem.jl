@@ -3,7 +3,7 @@ module Problem415
 
 title = "Problem 415: Titanic sets"
 published_on = "Sunday, 17th February 2013, 10:00 am"
-solved_by = 312
+solved_by = 313
 difficulty_rating = "100%"
 content = """
 A set of lattice points S is called a titanic set if there exists a line passing through exactly two points in S.

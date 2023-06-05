@@ -3,7 +3,7 @@ module Problem710
 
 title = "Problem 710: One Million Members"
 published_on = "Saturday, 11th April 2020, 08:00 pm"
-solved_by = 1124
+solved_by = 1145
 difficulty_rating = "10%"
 content = """
 \e[1mOn Sunday 5 April 2020 the Project Euler membership first exceeded one million members. We

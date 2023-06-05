@@ -3,7 +3,7 @@ module Problem21
 
 title = "Problem 21: Amicable numbers"
 published_on = "Friday, 5th July 2002, 06:00 pm"
-solved_by = 150988
+solved_by = 151163
 difficulty_rating = "5%"
 content = """
 Let d(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).

@@ -3,7 +3,7 @@ module Problem729
 
 title = "Problem 729: Range of periodic sequence"
 published_on = "Sunday, 11th October 2020, 05:00 am"
-solved_by = 155
+solved_by = 159
 difficulty_rating = "65%"
 content = """
 Consider the sequence of real numbers a_n defined by the starting value a_0 and the recurrence

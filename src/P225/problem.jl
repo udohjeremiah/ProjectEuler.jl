@@ -3,7 +3,7 @@ module Problem225
 
 title = "Problem 225: Tribonacci non-divisors"
 published_on = "Friday, 26th December 2008, 05:00 pm"
-solved_by = 4559
+solved_by = 4571
 difficulty_rating = "45%"
 content = """
 

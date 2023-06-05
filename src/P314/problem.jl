@@ -3,7 +3,7 @@ module Problem314
 
 title = "Problem 314: The Mouse on the Moon"
 published_on = "Sunday, 12th December 2010, 07:00 am"
-solved_by = 522
+solved_by = 524
 difficulty_rating = "80%"
 content = """
 

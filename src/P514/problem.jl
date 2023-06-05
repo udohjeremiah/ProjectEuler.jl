@@ -3,7 +3,7 @@ module Problem514
 
 title = "Problem 514: Geoboard Shapes"
 published_on = "Sunday, 3rd May 2015, 04:00 am"
-solved_by = 212
+solved_by = 214
 difficulty_rating = "90%"
 content = """
 A 

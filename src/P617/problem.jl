@@ -3,7 +3,7 @@ module Problem617
 
 title = "Problem 617: Mirror Power Sequence"
 published_on = "Saturday, 30th December 2017, 04:00 pm"
-solved_by = 378
+solved_by = 379
 difficulty_rating = "40%"
 content = """
 For two integers n,e > 1, we define a (n,e)-

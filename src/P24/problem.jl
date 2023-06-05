@@ -3,7 +3,7 @@ module Problem24
 
 title = "Problem 24: Lexicographic permutations"
 published_on = "Friday, 16th August 2002, 06:00 pm"
-solved_by = 118646
+solved_by = 118781
 difficulty_rating = "5%"
 content = """
 A permutation is an ordered arrangement of objects. For example, 3124 is one possible permutation of the digits 1, 2, 3 and 4.

@@ -3,7 +3,7 @@ module Problem781
 
 title = "Problem 781: Feynman Diagrams"
 published_on = "Saturday, 15th January 2022, 07:00 pm"
-solved_by = 117
+solved_by = 118
 difficulty_rating = "95%"
 content = """
 Let F(n) be the number of connected graphs with blue edges (directed) and red edges (undirected) containing:

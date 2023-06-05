@@ -3,7 +3,7 @@ module Problem79
 
 title = "Problem 79: Passcode derivation"
 published_on = "Friday, 17th September 2004, 06:00 pm"
-solved_by = 42413
+solved_by = 42486
 difficulty_rating = "5%"
 content = """
 A common security method used for online banking is to ask the user for three random characters from a passcode. For

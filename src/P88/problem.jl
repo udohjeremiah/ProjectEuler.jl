@@ -3,7 +3,7 @@ module Problem88
 
 title = "Problem 88: Product-sum numbers"
 published_on = "Friday, 4th February 2005, 06:00 pm"
-solved_by = 10610
+solved_by = 10650
 difficulty_rating = "40%"
 content = """
 A natural number, N, that can be written as the sum and product of a given set of at least two natural numbers, {a₁, a₂, ... , aₖ}

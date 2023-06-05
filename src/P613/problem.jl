@@ -3,7 +3,7 @@ module Problem613
 
 title = "Problem 613: Pythagorean Ant"
 published_on = "Sunday, 5th November 2017, 04:00 am"
-solved_by = 1799
+solved_by = 1803
 difficulty_rating = "20%"
 content = """
 Dave is doing his homework on the balcony and, preparing a presentation about Pythagorean triangles, has just cut out a

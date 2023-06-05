@@ -3,7 +3,7 @@ module Problem687
 
 title = "Problem 687: Shuffling Cards"
 published_on = "Saturday, 2nd November 2019, 10:00 pm"
-solved_by = 297
+solved_by = 300
 difficulty_rating = "45%"
 content = """
 A standard deck of 52 playing cards, which consists of thirteen ranks (Ace, Two, ..., Ten, King, Queen and Jack) each in four suits (Clubs, Diamonds, Hearts and Spades), is randomly shuffled.  Let us call a rank 

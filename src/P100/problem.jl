@@ -3,7 +3,7 @@ module Problem100
 
 title = "Problem 100: Arranged probability"
 published_on = "Friday, 15th July 2005, 06:00 pm"
-solved_by = 17044
+solved_by = 17092
 difficulty_rating = "30%"
 content = """
 If a box contains twenty-one coloured discs, composed of fifteen blue discs and six red discs, and two discs were taken at

@@ -3,7 +3,7 @@ module Problem511
 
 title = "Problem 511: Sequences with nice divisibility properties"
 published_on = "Saturday, 11th April 2015, 07:00 pm"
-solved_by = 411
+solved_by = 417
 difficulty_rating = "55%"
 content = """
 Let Seq(n,k) be the number of positive-integer sequences {aᵢ}₁≤ᵢ≤ₙ of length n such that:

@@ -3,7 +3,7 @@ module Problem637
 
 title = "Problem 637: Flexible digit sum"
 published_on = "Sunday, 23rd September 2018, 01:00 am"
-solved_by = 319
+solved_by = 324
 difficulty_rating = "45%"
 content = """
 Given any positive integer n, we can construct a new integer by inserting plus signs between some of the digits of the base B

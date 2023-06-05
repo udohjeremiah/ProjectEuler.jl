@@ -3,7 +3,7 @@ module Problem334
 
 title = "Problem 334: Spilling the beans"
 published_on = "Saturday, 23rd April 2011, 04:00 pm"
-solved_by = 485
+solved_by = 489
 difficulty_rating = "65%"
 content = """
 In Plato's heaven, there exist an infinite number of bowls in a straight line.

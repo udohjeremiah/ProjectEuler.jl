@@ -3,7 +3,7 @@ module Problem404
 
 title = "Problem 404: Crisscross Ellipses"
 published_on = "Sunday, 2nd December 2012, 01:00 am"
-solved_by = 324
+solved_by = 326
 difficulty_rating = "60%"
 content = """
 

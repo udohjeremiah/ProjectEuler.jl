@@ -3,7 +3,7 @@ module Problem376
 
 title = "Problem 376: Nontransitive sets of dice"
 published_on = "Sunday, 18th March 2012, 01:00 am"
-solved_by = 282
+solved_by = 284
 difficulty_rating = "70%"
 content = """
 Consider the following set of dice with nonstandard pips:

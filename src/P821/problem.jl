@@ -3,7 +3,7 @@ module Problem821
 
 title = "Problem 821: 123-Separable"
 published_on = "Saturday, 17th December 2022, 07:00 pm"
-solved_by = 119
+solved_by = 127
 difficulty_rating = "65%"
 content = """
 A set, S, of integers is called 123-separable if S, 2S and 3S are disjoint. Here 2S and 3S are obtained by multiplying all the

@@ -3,7 +3,7 @@ module Problem430
 
 title = "Problem 430: Range flips"
 published_on = "Sunday, 2nd June 2013, 07:00 am"
-solved_by = 872
+solved_by = 873
 difficulty_rating = "35%"
 content = """
 N

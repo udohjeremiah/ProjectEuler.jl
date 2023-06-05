@@ -3,7 +3,7 @@ module Problem120
 
 title = "Problem 120: Square remainders"
 published_on = "Friday, 21st April 2006, 06:00 pm"
-solved_by = 14280
+solved_by = 14318
 difficulty_rating = "25%"
 content = """
 Let r be the remainder when (a-1)ⁿ + (a+1)ⁿ is divided by a².

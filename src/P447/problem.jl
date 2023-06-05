@@ -3,7 +3,7 @@ module Problem447
 
 title = "Problem 447: Retractions C"
 published_on = "Saturday, 16th November 2013, 10:00 pm"
-solved_by = 295
+solved_by = 297
 difficulty_rating = "95%"
 content = """
 

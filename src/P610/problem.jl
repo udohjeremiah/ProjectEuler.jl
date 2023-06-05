@@ -3,7 +3,7 @@ module Problem610
 
 title = "Problem 610: Roman Numerals II"
 published_on = "Saturday, 23rd September 2017, 07:00 pm"
-solved_by = 574
+solved_by = 580
 difficulty_rating = "35%"
 content = """
 A random generator produces a sequence of symbols drawn from the set {I, V, X, L, C, D, M, #}. Each item in the sequence is

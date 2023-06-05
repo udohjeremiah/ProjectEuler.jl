@@ -3,8 +3,8 @@ module Problem835
 
 title = "Problem 835: Supernatural Triangles"
 published_on = "Saturday, 25th March 2023, 01:00 pm"
-solved_by = 231
-difficulty_rating = ""
+solved_by = 265
+difficulty_rating = "25%"
 content = """
 A \e[1mPythagorean triangle\e[0m is called supernatural if two of its three sides are consecutive integers.
 

@@ -3,7 +3,7 @@ module Problem310
 
 title = "Problem 310: Nim Square"
 published_on = "Saturday, 13th November 2010, 07:00 pm"
-solved_by = 1174
+solved_by = 1181
 difficulty_rating = "40%"
 content = """
 Alice and Bob play the game Nim Square.

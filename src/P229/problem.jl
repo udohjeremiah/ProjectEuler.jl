@@ -3,7 +3,7 @@ module Problem229
 
 title = "Problem 229: Four Representations using Squares"
 published_on = "Saturday, 24th January 2009, 09:00 am"
-solved_by = 1509
+solved_by = 1510
 difficulty_rating = "70%"
 content = """
 Consider the number 3600. It is very special, because

@@ -3,7 +3,7 @@ module Problem238
 
 title = "Problem 238: Infinite string tour"
 published_on = "Sunday, 29th March 2009, 03:00 pm"
-solved_by = 983
+solved_by = 989
 difficulty_rating = "75%"
 content = """
 Create a sequence of numbers using the "Blum Blum Shub" pseudo-random number generator:

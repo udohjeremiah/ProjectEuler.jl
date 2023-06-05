@@ -3,7 +3,7 @@ module Problem454
 
 title = "Problem 454: Diophantine reciprocals III"
 published_on = "Saturday, 11th January 2014, 07:00 pm"
-solved_by = 474
+solved_by = 476
 difficulty_rating = "50%"
 content = """
 In the following equation 

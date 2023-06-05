@@ -3,7 +3,7 @@ module Problem587
 
 title = "Problem 587: Concave triangle"
 published_on = "Sunday, 22nd January 2017, 01:00 am"
-solved_by = 3148
+solved_by = 3161
 difficulty_rating = "20%"
 content = """
 

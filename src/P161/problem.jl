@@ -3,7 +3,7 @@ module Problem161
 
 title = "Problem 161: Triominoes"
 published_on = "Friday, 21st September 2007, 06:00 pm"
-solved_by = 2195
+solved_by = 2207
 difficulty_rating = "70%"
 content = """
 A triomino is a shape consisting of three squares joined via the edges.

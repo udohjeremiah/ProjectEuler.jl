@@ -3,7 +3,7 @@ module Problem764
 
 title = "Problem 764: Asymmetric Diophantine Equation"
 published_on = "Saturday, 11th September 2021, 05:00 pm"
-solved_by = 321
+solved_by = 331
 difficulty_rating = "40%"
 content = """
 Consider the following Diophantine equation:

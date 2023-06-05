@@ -3,7 +3,7 @@ module Problem554
 
 title = "Problem 554: Centaurs on a chess board"
 published_on = "Sunday, 3rd April 2016, 01:00 am"
-solved_by = 242
+solved_by = 243
 difficulty_rating = "80%"
 content = """
 On a chess board, a centaur moves like a king or a knight. The diagram below shows the valid moves of a centaur (represented by an inverted king) on an 8x8 board.

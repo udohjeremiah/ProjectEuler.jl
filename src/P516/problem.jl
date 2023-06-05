@@ -3,7 +3,7 @@ module Problem516
 
 title = "Problem 516: 5-smooth totients"
 published_on = "Sunday, 17th May 2015, 10:00 am"
-solved_by = 1588
+solved_by = 1592
 difficulty_rating = "20%"
 content = """
 5-smooth numbers are numbers whose largest prime factor doesn't exceed 5.

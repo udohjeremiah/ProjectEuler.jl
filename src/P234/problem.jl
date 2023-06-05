@@ -3,7 +3,7 @@ module Problem234
 
 title = "Problem 234: Semidivisible numbers"
 published_on = "Saturday, 28th February 2009, 01:00 am"
-solved_by = 3329
+solved_by = 3338
 difficulty_rating = "50%"
 content = """
 For an integer n ≥ 4, we define the lower prime square root of n, denoted by lps(n), as the largest prime ≤ √n and the upper

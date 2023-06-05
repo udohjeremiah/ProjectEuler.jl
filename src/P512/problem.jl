@@ -3,7 +3,7 @@ module Problem512
 
 title = "Problem 512: Sums of totients of powers"
 published_on = "Saturday, 18th April 2015, 10:00 pm"
-solved_by = 1524
+solved_by = 1530
 difficulty_rating = "25%"
 content = """
 Let φ(n) be Euler's totient function.

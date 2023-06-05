@@ -3,7 +3,7 @@ module Problem236
 
 title = "Problem 236: Luxury Hampers"
 published_on = "Saturday, 14th March 2009, 09:00 am"
-solved_by = 958
+solved_by = 964
 difficulty_rating = "80%"
 content = """
 Suppliers 'A' and 'B' provided the following numbers of products for the luxury hamper market:

@@ -3,7 +3,7 @@ module Problem93
 
 title = "Problem 93: Arithmetic expressions"
 published_on = "Friday, 15th April 2005, 06:00 pm"
-solved_by = 12380
+solved_by = 12421
 difficulty_rating = "35%"
 content = """
 By using each of the digits from the set, {1, 2, 3, 4}, exactly once, and making use of the four arithmetic operations (+, -, *, /)

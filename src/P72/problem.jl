@@ -3,7 +3,7 @@ module Problem72
 
 title = "Problem 72: Counting fractions"
 published_on = "Friday, 18th June 2004, 06:00 pm"
-solved_by = 23384
+solved_by = 23439
 difficulty_rating = "20%"
 content = """
 Consider the fraction, n/d, where n and d are positive integers. If n<d and HCF(n,d)=1, it is called a reduced proper fraction.

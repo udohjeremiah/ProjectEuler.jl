@@ -3,7 +3,7 @@ module Problem618
 
 title = "Problem 618: Numbers with a given prime factor sum"
 published_on = "Saturday, 13th January 2018, 07:00 pm"
-solved_by = 1040
+solved_by = 1046
 difficulty_rating = "20%"
 content = """
 Consider the numbers 15, 16 and 18:

@@ -3,7 +3,7 @@ module Problem638
 
 title = "Problem 638: Weighted lattice paths"
 published_on = "Sunday, 7th October 2018, 04:00 am"
-solved_by = 371
+solved_by = 375
 difficulty_rating = "40%"
 content = """
 

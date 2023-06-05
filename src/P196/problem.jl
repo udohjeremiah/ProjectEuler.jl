@@ -3,7 +3,7 @@ module Problem196
 
 title = "Problem 196: Prime triplets"
 published_on = "Friday, 30th May 2008, 06:00 pm"
-solved_by = 2653
+solved_by = 2661
 difficulty_rating = "65%"
 content = """
 Build a triangle from all positive integers in the following way:

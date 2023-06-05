@@ -3,7 +3,7 @@ module Problem669
 
 title = "Problem 669: The King's Banquet"
 published_on = "Saturday, 11th May 2019, 10:00 pm"
-solved_by = 308
+solved_by = 312
 difficulty_rating = "45%"
 content = """
 The Knights of the Order of Fibonacci are preparing a grand feast for their king. There are n knights, and each knight is assigned a distinct number from 1 to n.

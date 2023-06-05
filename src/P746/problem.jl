@@ -3,7 +3,7 @@ module Problem746
 
 title = "Problem 746: A Messy Dinner"
 published_on = "Sunday, 7th February 2021, 07:00 am"
-solved_by = 258
+solved_by = 260
 difficulty_rating = "35%"
 content = """
 n families, each with four members, a father, a mother, a son and a daughter, were invited to a restaurant. They were all seated at a large circular table with 4n seats such that men and women alternate.

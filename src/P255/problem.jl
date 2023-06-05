@@ -3,7 +3,7 @@ module Problem255
 
 title = "Problem 255: Rounded Square Roots"
 published_on = "Friday, 11th September 2009, 09:00 pm"
-solved_by = 881
+solved_by = 886
 difficulty_rating = "75%"
 content = """
 We define the 

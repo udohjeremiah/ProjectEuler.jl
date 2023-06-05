@@ -3,7 +3,7 @@ module Problem694
 
 title = "Problem 694: Cube-full Divisors"
 published_on = "Saturday, 21st December 2019, 07:00 pm"
-solved_by = 931
+solved_by = 940
 difficulty_rating = "15%"
 content = """
 

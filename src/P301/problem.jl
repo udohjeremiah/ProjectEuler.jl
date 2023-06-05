@@ -3,7 +3,7 @@ module Problem301
 
 title = "Problem 301: Nim"
 published_on = "Saturday, 11th September 2010, 04:00 pm"
-solved_by = 6642
+solved_by = 6661
 difficulty_rating = "15%"
 content = """
 Nim is a game played with heaps of stones, where two players take it in turn to remove any number of stones from any heap

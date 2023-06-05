@@ -3,7 +3,7 @@ module Problem338
 
 title = "Problem 338: Cutting Rectangular Grid Paper"
 published_on = "Sunday, 15th May 2011, 01:00 am"
-solved_by = 333
+solved_by = 334
 difficulty_rating = "95%"
 content = """
 A rectangular sheet of grid paper with integer dimensions 

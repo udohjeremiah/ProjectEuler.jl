@@ -3,7 +3,7 @@ module Problem36
 
 title = "Problem 36: Double-base palindromes"
 published_on = "Friday, 31st January 2003, 06:00 pm"
-solved_by = 91923
+solved_by = 92046
 difficulty_rating = "5%"
 content = """
 The decimal number, 585 = 1001001001₂ (binary), is palindromic in both bases.

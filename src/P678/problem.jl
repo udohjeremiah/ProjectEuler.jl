@@ -3,7 +3,7 @@ module Problem678
 
 title = "Problem 678: Fermat-like Equations"
 published_on = "Saturday, 7th September 2019, 10:00 pm"
-solved_by = 229
+solved_by = 231
 difficulty_rating = "55%"
 content = """
 If a triple of positive integers (a, b, c) satisfies a² + b² = c², it is called a Pythagorean triple. No triple (a, b, c) satisfies

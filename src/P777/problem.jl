@@ -3,7 +3,7 @@ module Problem777
 
 title = "Problem 777: Lissajous Curves"
 published_on = "Sunday, 19th December 2021, 07:00 am"
-solved_by = 110
+solved_by = 112
 difficulty_rating = "95%"
 content = """
 For coprime positive integers a and b, let C_{a,b} be the curve defined by:

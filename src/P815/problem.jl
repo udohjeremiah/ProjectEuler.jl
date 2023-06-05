@@ -3,7 +3,7 @@ module Problem815
 
 title = "Problem 815: Group by Value"
 published_on = "Sunday, 6th November 2022, 01:00 am"
-solved_by = 342
+solved_by = 352
 difficulty_rating = "25%"
 content = """
 A pack of cards contains 4n cards with four identical cards of each value. The pack is shuffled and cards are dealt one at a

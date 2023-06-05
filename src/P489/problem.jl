@@ -3,7 +3,7 @@ module Problem489
 
 title = "Problem 489: Common factors between two sequences"
 published_on = "Sunday, 16th November 2014, 04:00 am"
-solved_by = 244
+solved_by = 245
 difficulty_rating = "100%"
 content = """
 Let G(a, b) be the smallest non-negative integer n for which gcd(n³ + b, (n + a)³ + b) is maximized.

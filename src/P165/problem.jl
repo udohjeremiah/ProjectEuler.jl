@@ -3,7 +3,7 @@ module Problem165
 
 title = "Problem 165: Intersections"
 published_on = "Saturday, 27th October 2007, 10:00 am"
-solved_by = 2686
+solved_by = 2697
 difficulty_rating = "65%"
 content = """
 A segment is uniquely defined by its two endpoints.

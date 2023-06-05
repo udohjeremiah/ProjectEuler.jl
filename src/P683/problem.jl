@@ -3,7 +3,7 @@ module Problem683
 
 title = "Problem 683: The Chase II"
 published_on = "Saturday, 12th October 2019, 01:00 pm"
-solved_by = 319
+solved_by = 320
 difficulty_rating = "40%"
 content = """
 Consider the following variant of "The Chase" game. This game is played between n players sitting around a circular table

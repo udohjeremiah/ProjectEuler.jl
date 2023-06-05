@@ -3,7 +3,7 @@ module Problem745
 
 title = "Problem 745: Sum of Squares II"
 published_on = "Sunday, 31st January 2021, 04:00 am"
-solved_by = 992
+solved_by = 1013
 difficulty_rating = "10%"
 content = """
 

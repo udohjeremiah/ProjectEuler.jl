@@ -3,7 +3,7 @@ module Problem276
 
 title = "Problem 276: Primitive Triangles"
 published_on = "Friday, 29th January 2010, 09:00 pm"
-solved_by = 1116
+solved_by = 1120
 difficulty_rating = "75%"
 content = """
 Consider the triangles with integer sides a, b and c with a ≤ b ≤ c.

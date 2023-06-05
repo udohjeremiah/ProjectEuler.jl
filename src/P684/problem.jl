@@ -3,7 +3,7 @@ module Problem684
 
 title = "Problem 684: Inverse Digit Sum"
 published_on = "Saturday, 19th October 2019, 04:00 pm"
-solved_by = 2528
+solved_by = 2558
 difficulty_rating = "5%"
 content = """
 Define s(n) to be the smallest number that has a digit sum of n. For example s(10) = 19.

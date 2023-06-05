@@ -3,7 +3,7 @@ module Problem403
 
 title = "Problem 403: Lattice points enclosed by parabola and line"
 published_on = "Saturday, 24th November 2012, 10:00 pm"
-solved_by = 361
+solved_by = 362
 difficulty_rating = "55%"
 content = """
 For integers a and b, we define D(a, b) as the domain enclosed by the parabola y = x² and the line y = a·x + b:

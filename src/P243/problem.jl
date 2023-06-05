@@ -3,7 +3,7 @@ module Problem243
 
 title = "Problem 243: Resilience"
 published_on = "Saturday, 2nd May 2009, 10:00 am"
-solved_by = 9771
+solved_by = 9802
 difficulty_rating = "35%"
 content = """
 A positive fraction whose numerator is less than its denominator is called a proper fraction.

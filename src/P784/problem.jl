@@ -3,7 +3,7 @@ module Problem784
 
 title = "Problem 784: Reciprocal Pairs"
 published_on = "Sunday, 6th February 2022, 04:00 am"
-solved_by = 347
+solved_by = 357
 difficulty_rating = "30%"
 content = """
 

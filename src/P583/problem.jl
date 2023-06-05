@@ -3,7 +3,7 @@ module Problem583
 
 title = "Problem 583: Heron Envelopes"
 published_on = "Saturday, 24th December 2016, 01:00 pm"
-solved_by = 371
+solved_by = 372
 difficulty_rating = "50%"
 content = """
 

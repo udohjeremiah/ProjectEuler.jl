@@ -3,7 +3,7 @@ module Problem214
 
 title = "Problem 214: Totient Chains"
 published_on = "Saturday, 25th October 2008, 02:00 pm"
-solved_by = 5333
+solved_by = 5345
 difficulty_rating = "40%"
 content = """
 Let φ be Euler's totient function, i.e. for a natural number n,φ(n) is the number of k, 1 ≤ k ≤ n, for which gcd(k,n) = 1.

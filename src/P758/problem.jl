@@ -3,7 +3,7 @@ module Problem758
 
 title = "Problem 758: Buckets of Water"
 published_on = "Saturday, 29th May 2021, 08:00 pm"
-solved_by = 217
+solved_by = 218
 difficulty_rating = "50%"
 content = """
 

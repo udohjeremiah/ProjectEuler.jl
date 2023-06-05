@@ -3,7 +3,7 @@ module Problem421
 
 title = "Problem 421: Prime factors of n¹⁵+1"
 published_on = "Sunday, 31st March 2013, 04:00 am"
-solved_by = 659
+solved_by = 665
 difficulty_rating = "50%"
 content = """
 Numbers of the form n¹⁵+1 are composite for every integer n > 1.

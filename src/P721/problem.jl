@@ -3,7 +3,7 @@ module Problem721
 
 title = "Problem 721: High powers of irrational numbers"
 published_on = "Sunday, 21st June 2020, 02:00 am"
-solved_by = 396
+solved_by = 401
 difficulty_rating = "30%"
 content = """
 

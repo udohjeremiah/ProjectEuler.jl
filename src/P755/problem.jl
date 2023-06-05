@@ -3,7 +3,7 @@ module Problem755
 
 title = "Problem 755: Not Zeckendorf"
 published_on = "Sunday, 18th April 2021, 11:00 am"
-solved_by = 769
+solved_by = 781
 difficulty_rating = "15%"
 content = """
 

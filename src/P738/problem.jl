@@ -3,7 +3,7 @@ module Problem738
 
 title = "Problem 738: Counting Ordered Factorisations"
 published_on = "Sunday, 13th December 2020, 07:00 am"
-solved_by = 252
+solved_by = 258
 difficulty_rating = "35%"
 content = """
 Define d(n,k) to be the number of ways to write n as a product of k ordered integers

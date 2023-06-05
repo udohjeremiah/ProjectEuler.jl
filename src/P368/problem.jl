@@ -3,7 +3,7 @@ module Problem368
 
 title = "Problem 368: A Kempner-like series"
 published_on = "Sunday, 22nd January 2012, 01:00 am"
-solved_by = 562
+solved_by = 566
 difficulty_rating = "45%"
 content = """
 The 

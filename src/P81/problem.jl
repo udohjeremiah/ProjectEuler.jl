@@ -3,7 +3,7 @@ module Problem81
 
 title = "Problem 81: Path sum: two ways"
 published_on = "Friday, 22nd October 2004, 06:00 pm"
-solved_by = 35634
+solved_by = 35718
 difficulty_rating = "10%"
 content = """
 In the 5 by 5 matrix below, the minimal path sum from the top left to the bottom right, by \e[1monly moving to the right and down,\e[0m

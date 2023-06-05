@@ -3,7 +3,7 @@ module Problem820
 
 title = "Problem 820: Nth digit of Reciprocals"
 published_on = "Saturday, 10th December 2022, 04:00 pm"
-solved_by = 569
+solved_by = 621
 difficulty_rating = "10%"
 content = """
 Let d_n(x) be the n

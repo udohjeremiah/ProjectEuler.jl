@@ -3,7 +3,7 @@ module Problem180
 
 title = "Problem 180: Rational zeros of a function of three variables"
 published_on = "Saturday, 2nd February 2008, 09:00 am"
-solved_by = 1624
+solved_by = 1631
 difficulty_rating = "75%"
 content = """
 For any integer n, consider the three functions

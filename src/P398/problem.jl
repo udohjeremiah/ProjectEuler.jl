@@ -3,7 +3,7 @@ module Problem398
 
 title = "Problem 398: Cutting rope"
 published_on = "Sunday, 14th October 2012, 08:00 am"
-solved_by = 385
+solved_by = 388
 difficulty_rating = "55%"
 content = """
 Inside a rope of length n, n-1 points are placed with distance 1 from each other and from the endpoints. Among these points,

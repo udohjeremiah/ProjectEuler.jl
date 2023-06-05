@@ -3,7 +3,7 @@ module Problem104
 
 title = "Problem 104: Pandigital Fibonacci ends"
 published_on = "Friday, 9th September 2005, 06:00 pm"
-solved_by = 16805
+solved_by = 16838
 difficulty_rating = "25%"
 content = """
 The Fibonacci sequence is defined by the recurrence relation:

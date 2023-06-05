@@ -3,7 +3,7 @@ module Problem377
 
 title = "Problem 377: Sum of digits - experience #13"
 published_on = "Sunday, 25th March 2012, 05:00 am"
-solved_by = 729
+solved_by = 734
 difficulty_rating = "45%"
 content = """
 

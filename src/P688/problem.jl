@@ -3,7 +3,7 @@ module Problem688
 
 title = "Problem 688: Piles of Plates"
 published_on = "Sunday, 10th November 2019, 01:00 am"
-solved_by = 729
+solved_by = 737
 difficulty_rating = "20%"
 content = """
 

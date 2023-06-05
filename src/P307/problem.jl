@@ -3,7 +3,7 @@ module Problem307
 
 title = "Problem 307: Chip Defects"
 published_on = "Sunday, 24th October 2010, 10:00 am"
-solved_by = 1693
+solved_by = 1700
 difficulty_rating = "40%"
 content = """
 k defects are randomly distributed amongst n integrated-circuit chips produced by a factory (any number of defects may be

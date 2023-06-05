@@ -3,7 +3,7 @@ module Problem440
 
 title = "Problem 440: GCD and Tiling"
 published_on = "Sunday, 13th October 2013, 07:00 am"
-solved_by = 380
+solved_by = 381
 difficulty_rating = "60%"
 content = """
 We want to tile a board of length n and height 1 completely, with either 1 × 2 blocks or 1 × 1 blocks with a single decimal digit

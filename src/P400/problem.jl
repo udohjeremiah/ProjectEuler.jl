@@ -3,7 +3,7 @@ module Problem400
 
 title = "Problem 400: Fibonacci tree game"
 published_on = "Saturday, 27th October 2012, 02:00 pm"
-solved_by = 477
+solved_by = 480
 difficulty_rating = "55%"
 content = """
 

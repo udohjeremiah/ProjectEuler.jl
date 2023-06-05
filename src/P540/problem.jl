@@ -3,7 +3,7 @@ module Problem540
 
 title = "Problem 540: Counting primitive Pythagorean triples"
 published_on = "Sunday, 27th December 2015, 07:00 am"
-solved_by = 651
+solved_by = 655
 difficulty_rating = "30%"
 content = """
 A \e[1mPythagorean triple\e[0m consists of three positive integers a, b and c satisfying a²+b²=c².

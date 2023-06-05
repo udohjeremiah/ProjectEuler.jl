@@ -3,7 +3,7 @@ module Problem185
 
 title = "Problem 185: Number Mind"
 published_on = "Saturday, 8th March 2008, 01:00 am"
-solved_by = 3212
+solved_by = 3225
 difficulty_rating = "55%"
 content = """
 The game Number Mind is a variant of the well known game Master Mind.

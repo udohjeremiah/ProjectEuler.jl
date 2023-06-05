@@ -3,7 +3,7 @@ module Problem40
 
 title = "Problem 40: Champernowne's constant"
 published_on = "Friday, 28th March 2003, 06:00 pm"
-solved_by = 82991
+solved_by = 83113
 difficulty_rating = "5%"
 content = """
 An irrational decimal fraction is created by concatenating the positive integers:

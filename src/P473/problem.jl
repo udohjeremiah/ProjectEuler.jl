@@ -3,7 +3,7 @@ module Problem473
 
 title = "Problem 473: Phigital number base"
 published_on = "Sunday, 25th May 2014, 04:00 am"
-solved_by = 743
+solved_by = 746
 difficulty_rating = "35%"
 content = """
 

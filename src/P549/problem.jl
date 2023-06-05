@@ -3,7 +3,7 @@ module Problem549
 
 title = "Problem 549: Divisibility of factorials"
 published_on = "Sunday, 28th February 2016, 10:00 am"
-solved_by = 2762
+solved_by = 2775
 difficulty_rating = "15%"
 content = """
 The smallest number m such that 10 divides m! is m=5.

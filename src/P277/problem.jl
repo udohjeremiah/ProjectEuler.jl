@@ -3,7 +3,7 @@ module Problem277
 
 title = "Problem 277: A Modified Collatz sequence"
 published_on = "Saturday, 6th February 2010, 01:00 am"
-solved_by = 3300
+solved_by = 3314
 difficulty_rating = "35%"
 content = """
 

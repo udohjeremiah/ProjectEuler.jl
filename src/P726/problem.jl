@@ -3,7 +3,7 @@ module Problem726
 
 title = "Problem 726: Falling bottles"
 published_on = "Saturday, 19th September 2020, 08:00 pm"
-solved_by = 187
+solved_by = 191
 difficulty_rating = "50%"
 content = """
 

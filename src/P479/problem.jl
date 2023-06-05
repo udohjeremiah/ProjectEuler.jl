@@ -3,7 +3,7 @@ module Problem479
 
 title = "Problem 479: Roots on the Rise"
 published_on = "Saturday, 6th September 2014, 10:00 pm"
-solved_by = 1309
+solved_by = 1315
 difficulty_rating = "25%"
 content = """
 Let a_k, b_k, and c_k represent the three solutions (real or complex numbers) to the equation

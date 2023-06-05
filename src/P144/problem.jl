@@ -3,7 +3,7 @@ module Problem144
 
 title = "Problem 144: Investigating multiple reflections of a laser beam"
 published_on = "Friday, 9th March 2007, 05:00 pm"
-solved_by = 6473
+solved_by = 6494
 difficulty_rating = "50%"
 content = """
 In laser physics, a "white cell" is a mirror system that acts as a delay line for the laser beam. The beam enters the cell, bounces around on the mirrors, and eventually works its way back out.

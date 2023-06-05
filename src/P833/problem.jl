@@ -3,8 +3,8 @@ module Problem833
 
 title = "Problem 833: Square Triangle Products"
 published_on = "Sunday, 12th March 2023, 07:00 am"
-solved_by = 128
-difficulty_rating = ""
+solved_by = 142
+difficulty_rating = "65%"
 content = """
 Triangle numbers T_k are integers of the form \\frac{k(k+1)} 2.
 

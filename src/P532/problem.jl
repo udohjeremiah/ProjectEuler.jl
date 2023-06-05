@@ -3,7 +3,7 @@ module Problem532
 
 title = "Problem 532: Nanobots on Geodesics"
 published_on = "Sunday, 1st November 2015, 07:00 am"
-solved_by = 310
+solved_by = 312
 difficulty_rating = "55%"
 content = """
 Bob is a manufacturer of nanobots and wants to impress his customers by giving them a ball coloured by his new nanobots as a present.

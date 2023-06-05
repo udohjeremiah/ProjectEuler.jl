@@ -3,7 +3,7 @@ module Problem362
 
 title = "Problem 362: Squarefree factors"
 published_on = "Sunday, 11th December 2011, 07:00 am"
-solved_by = 480
+solved_by = 482
 difficulty_rating = "70%"
 content = """
 Consider the number 54.

@@ -3,7 +3,7 @@ module Problem699
 
 title = "Problem 699: Triffle Numbers"
 published_on = "Sunday, 26th January 2020, 10:00 am"
-solved_by = 180
+solved_by = 181
 difficulty_rating = "80%"
 content = """
 

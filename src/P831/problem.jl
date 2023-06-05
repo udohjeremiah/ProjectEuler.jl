@@ -3,8 +3,8 @@ module Problem831
 
 title = "Problem 831: Triple Product"
 published_on = "Sunday, 26th February 2023, 01:00 am"
-solved_by = 138
-difficulty_rating = ""
+solved_by = 153
+difficulty_rating = "60%"
 content = """
 Let g(m) be the integer defined by the following double sum of products of binomial coefficients:
 

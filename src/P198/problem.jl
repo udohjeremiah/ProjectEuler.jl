@@ -3,7 +3,7 @@ module Problem198
 
 title = "Problem 198: Ambiguous Numbers"
 published_on = "Saturday, 14th June 2008, 02:00 am"
-solved_by = 1154
+solved_by = 1161
 difficulty_rating = "80%"
 content = """
 A best approximation to a real number x for the denominator bound d is a rational number \\frac r s (in reduced form) with s \\le d, so that any rational number \\frac p q which is closer to x than \\frac r s has q > d.

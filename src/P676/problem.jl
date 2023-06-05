@@ -3,7 +3,7 @@ module Problem676
 
 title = "Problem 676: Matching Digit Sums"
 published_on = "Saturday, 22nd June 2019, 04:00 pm"
-solved_by = 229
+solved_by = 230
 difficulty_rating = "50%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem551
 
 title = "Problem 551: Sum of digits sequence"
 published_on = "Saturday, 12th March 2016, 04:00 pm"
-solved_by = 466
+solved_by = 469
 difficulty_rating = "50%"
 content = """
 Let a₀, a₁, a₂, ... be an integer sequence defined by:

@@ -3,7 +3,7 @@ module Problem497
 
 title = "Problem 497: Drunken Tower of Hanoi"
 published_on = "Sunday, 11th January 2015, 04:00 am"
-solved_by = 550
+solved_by = 553
 difficulty_rating = "40%"
 content = """
 Bob is very familiar with the famous mathematical puzzle/game, "Tower of Hanoi," which consists of three upright rods and disks of different sizes that can slide onto any of the rods. The game begins with a stack of 

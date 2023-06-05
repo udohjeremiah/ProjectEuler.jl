@@ -3,7 +3,7 @@ module Problem435
 
 title = "Problem 435: Polynomials of Fibonacci numbers"
 published_on = "Saturday, 7th September 2013, 04:00 pm"
-solved_by = 1140
+solved_by = 1143
 difficulty_rating = "30%"
 content = """
 The 

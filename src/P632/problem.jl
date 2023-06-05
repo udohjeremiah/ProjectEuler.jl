@@ -3,7 +3,7 @@ module Problem632
 
 title = "Problem 632: Square prime factors"
 published_on = "Saturday, 28th July 2018, 01:00 pm"
-solved_by = 473
+solved_by = 479
 difficulty_rating = "35%"
 content = """
 For an integer n, we define the square prime factors of n to be the primes whose square divides n. For example, the square

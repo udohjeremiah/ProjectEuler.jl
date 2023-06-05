@@ -3,7 +3,7 @@ module Problem563
 
 title = "Problem 563: Robot Welders"
 published_on = "Sunday, 5th June 2016, 04:00 am"
-solved_by = 326
+solved_by = 330
 difficulty_rating = "45%"
 content = """
 A company specialises in producing large rectangular metal sheets, starting from unit square metal plates.  The welding is

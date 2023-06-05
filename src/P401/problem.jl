@@ -3,7 +3,7 @@ module Problem401
 
 title = "Problem 401: Sum of squares of divisors"
 published_on = "Saturday, 10th November 2012, 04:00 pm"
-solved_by = 2607
+solved_by = 2616
 difficulty_rating = "25%"
 content = """
 The divisors of 6 are 1,2,3 and 6.

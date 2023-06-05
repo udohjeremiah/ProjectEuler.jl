@@ -3,7 +3,7 @@ module Problem656
 
 title = "Problem 656: Palindromic sequences"
 published_on = "Sunday, 17th February 2019, 10:00 am"
-solved_by = 235
+solved_by = 240
 difficulty_rating = "50%"
 content = """
 Given an irrational number α, let S_α(n) be the sequence S_α(n) = ⌊α ⋅ n⌋ - ⌊α ⋅ (n-1)⌋ for n ≥ 1.

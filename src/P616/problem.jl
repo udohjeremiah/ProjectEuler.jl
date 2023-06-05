@@ -3,7 +3,7 @@ module Problem616
 
 title = "Problem 616: Creative numbers"
 published_on = "Saturday, 16th December 2017, 01:00 pm"
-solved_by = 481
+solved_by = 482
 difficulty_rating = "40%"
 content = """
 Alice plays the following game, she starts with a list of integers L and on each step she can either:

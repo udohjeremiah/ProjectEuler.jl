@@ -3,7 +3,7 @@ module Problem262
 
 title = "Problem 262: Mountain Range"
 published_on = "Friday, 30th October 2009, 09:00 pm"
-solved_by = 741
+solved_by = 742
 difficulty_rating = "80%"
 content = """
 The following equation represents the 

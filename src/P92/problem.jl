@@ -3,7 +3,7 @@ module Problem92
 
 title = "Problem 92: Square digit chains"
 published_on = "Friday, 1st April 2005, 06:00 pm"
-solved_by = 43086
+solved_by = 43174
 difficulty_rating = "5%"
 content = """
 A number chain is created by continuously adding the square of the digits in a number to form a new number until it has been seen before.

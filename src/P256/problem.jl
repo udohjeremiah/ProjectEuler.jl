@@ -3,7 +3,7 @@ module Problem256
 
 title = "Problem 256: Tatami-Free Rooms"
 published_on = "Saturday, 19th September 2009, 01:00 am"
-solved_by = 749
+solved_by = 750
 difficulty_rating = "80%"
 content = """
 Tatami are rectangular mats, used to completely cover the floor of a room, without overlap.

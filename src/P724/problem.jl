@@ -3,7 +3,7 @@ module Problem724
 
 title = "Problem 724: Drone Delivery"
 published_on = "Saturday, 5th September 2020, 02:00 pm"
-solved_by = 367
+solved_by = 370
 difficulty_rating = "30%"
 content = """
 A depot uses n drones to disperse packages containing essential supplies along a long straight road.

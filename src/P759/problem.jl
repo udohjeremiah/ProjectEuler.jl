@@ -3,7 +3,7 @@ module Problem759
 
 title = "Problem 759: A squared recurrence relation"
 published_on = "Saturday, 12th June 2021, 11:00 pm"
-solved_by = 489
+solved_by = 502
 difficulty_rating = "25%"
 content = """
 The function f is defined for all positive integers as follows:

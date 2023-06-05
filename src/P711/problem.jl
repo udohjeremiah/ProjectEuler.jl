@@ -3,7 +3,7 @@ module Problem711
 
 title = "Problem 711: Binary Blackboard"
 published_on = "Saturday, 11th April 2020, 08:00 pm"
-solved_by = 307
+solved_by = 309
 difficulty_rating = "35%"
 content = """
 Oscar and Eric play the following game. First, they agree on a positive integer n, and they begin by writing its binary

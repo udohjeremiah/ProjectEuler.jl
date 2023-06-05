@@ -3,7 +3,7 @@ module Problem385
 
 title = "Problem 385: Ellipses inside triangles"
 published_on = "Sunday, 20th May 2012, 05:00 am"
-solved_by = 283
+solved_by = 284
 difficulty_rating = "70%"
 content = """
 

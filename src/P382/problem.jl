@@ -3,7 +3,7 @@ module Problem382
 
 title = "Problem 382: Generating polygons"
 published_on = "Saturday, 28th April 2012, 08:00 pm"
-solved_by = 340
+solved_by = 341
 difficulty_rating = "60%"
 content = """
 A \e[1mpolygon\e[0m is a flat shape consisting of straight line segments that are joined to form a closed chain or circuit. A polygon

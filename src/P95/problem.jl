@@ -3,7 +3,7 @@ module Problem95
 
 title = "Problem 95: Amicable chains"
 published_on = "Friday, 13th May 2005, 06:00 pm"
-solved_by = 14994
+solved_by = 15043
 difficulty_rating = "30%"
 content = """
 The proper divisors of a number are all the divisors excluding the number itself. For example, the proper divisors of 28 are 1, 2,

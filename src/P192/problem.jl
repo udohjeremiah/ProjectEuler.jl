@@ -3,7 +3,7 @@ module Problem192
 
 title = "Problem 192: Best Approximations"
 published_on = "Saturday, 3rd May 2008, 05:00 am"
-solved_by = 1673
+solved_by = 1683
 difficulty_rating = "75%"
 content = """
 Let x be a real number.

@@ -3,7 +3,7 @@ module Problem87
 
 title = "Problem 87: Prime power triples"
 published_on = "Friday, 21st January 2005, 06:00 pm"
-solved_by = 21774
+solved_by = 21831
 difficulty_rating = "20%"
 content = """
 The smallest number expressible as the sum of a prime square, prime cube, and prime fourth power is 28. In fact, there are

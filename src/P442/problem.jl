@@ -3,7 +3,7 @@ module Problem442
 
 title = "Problem 442: Eleven-free integers"
 published_on = "Saturday, 26th October 2013, 01:00 pm"
-solved_by = 398
+solved_by = 399
 difficulty_rating = "60%"
 content = """
 An integer is called eleven-free if its decimal expansion does not contain any substring representing a power of 11 except 1.

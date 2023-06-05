@@ -3,7 +3,7 @@ module Problem714
 
 title = "Problem 714: Duodigits"
 published_on = "Sunday, 3rd May 2020, 05:00 am"
-solved_by = 681
+solved_by = 692
 difficulty_rating = "25%"
 content = """
 We call a natural number a 

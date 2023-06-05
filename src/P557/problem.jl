@@ -3,7 +3,7 @@ module Problem557
 
 title = "Problem 557: Cutting triangles"
 published_on = "Sunday, 24th April 2016, 10:00 am"
-solved_by = 288
+solved_by = 292
 difficulty_rating = "55%"
 content = """
 

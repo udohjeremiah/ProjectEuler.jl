@@ -3,7 +3,7 @@ module Problem14
 
 title = "Problem 14: Longest Collatz sequence"
 published_on = "Friday, 5th April 2002, 06:00 pm"
-solved_by = 232764
+solved_by = 232970
 difficulty_rating = "5%"
 content = """
 The following iterative sequence is defined for the set of positive integers:

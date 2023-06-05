@@ -3,7 +3,7 @@ module Problem775
 
 title = "Problem 775: Saving Paper"
 published_on = "Sunday, 5th December 2021, 01:00 am"
-solved_by = 222
+solved_by = 227
 difficulty_rating = "40%"
 content = """
 When wrapping several cubes in paper, it is more efficient to wrap them all together than to wrap each one individually. For example, with 10 cubes of unit edge length, it would take 30 units of paper to wrap them in the arrangement shown below, but 60 units to wrap them separately.

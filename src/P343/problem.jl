@@ -3,7 +3,7 @@ module Problem343
 
 title = "Problem 343: Fractional Sequences"
 published_on = "Saturday, 18th June 2011, 04:00 pm"
-solved_by = 1433
+solved_by = 1439
 difficulty_rating = "35%"
 content = """
 For any positive integer k, a finite sequence aᵢ of fractions xᵢ/yᵢ is defined by:

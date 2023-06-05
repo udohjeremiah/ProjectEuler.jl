@@ -3,7 +3,7 @@ module Problem138
 
 title = "Problem 138: Special isosceles triangles"
 published_on = "Saturday, 20th January 2007, 11:00 am"
-solved_by = 6029
+solved_by = 6054
 difficulty_rating = "45%"
 content = """
 Consider the isosceles triangle with base length, b = 16, and legs, L = 17.

@@ -3,7 +3,7 @@ module Problem722
 
 title = "Problem 722: Slowly converging series"
 published_on = "Sunday, 28th June 2020, 05:00 am"
-solved_by = 481
+solved_by = 489
 difficulty_rating = "25%"
 content = """
 For a non-negative integer k, define

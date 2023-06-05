@@ -3,7 +3,7 @@ module Problem552
 
 title = "Problem 552: Chinese leftovers II"
 published_on = "Saturday, 19th March 2016, 07:00 pm"
-solved_by = 438
+solved_by = 440
 difficulty_rating = "40%"
 content = """
 Let Aₙ be the smallest positive integer satisfying  Aₙ mod pᵢ = i for all 1 ≤ i ≤ n, where pᵢ is the i-th prime.

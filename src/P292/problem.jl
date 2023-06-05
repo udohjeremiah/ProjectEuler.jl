@@ -3,7 +3,7 @@ module Problem292
 
 title = "Problem 292: Pythagorean Polygons"
 published_on = "Saturday, 15th May 2010, 01:00 am"
-solved_by = 580
+solved_by = 584
 difficulty_rating = "65%"
 content = """
 We shall define a pythagorean polygon to be a \e[1mconvex polygon\e[0m with the following properties:

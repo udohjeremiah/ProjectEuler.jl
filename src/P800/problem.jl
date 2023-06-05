@@ -3,7 +3,7 @@ module Problem800
 
 title = "Problem 800: Hybrid Integers"
 published_on = "Sunday, 29th May 2022, 05:00 am"
-solved_by = 1307
+solved_by = 1364
 difficulty_rating = "5%"
 content = """
 An integer of the form p^q q^p with prime numbers p ≠ q is called a hybrid-integer.

@@ -3,7 +3,7 @@ module Problem692
 
 title = "Problem 692: Siegbert and Jo"
 published_on = "Saturday, 7th December 2019, 01:00 pm"
-solved_by = 1252
+solved_by = 1270
 difficulty_rating = "10%"
 content = """
 

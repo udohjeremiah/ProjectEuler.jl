@@ -3,7 +3,7 @@ module Problem35
 
 title = "Problem 35: Circular primes"
 published_on = "Friday, 17th January 2003, 06:00 pm"
-solved_by = 87808
+solved_by = 87929
 difficulty_rating = "5%"
 content = """
 The number, 197, is called a circular prime because all rotations of the digits: 197, 971, and 719, are themselves prime.

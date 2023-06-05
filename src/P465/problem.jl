@@ -3,7 +3,7 @@ module Problem465
 
 title = "Problem 465: Polar polygons"
 published_on = "Sunday, 30th March 2014, 05:00 am"
-solved_by = 218
+solved_by = 220
 difficulty_rating = "85%"
 content = """
 The 

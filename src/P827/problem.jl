@@ -3,7 +3,7 @@ module Problem827
 
 title = "Problem 827: Pythagorean Triple Occurrence"
 published_on = "Saturday, 28th January 2023, 01:00 pm"
-solved_by = 145
+solved_by = 158
 difficulty_rating = "50%"
 content = """
 

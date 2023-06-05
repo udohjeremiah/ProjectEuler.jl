@@ -3,7 +3,7 @@ module Problem190
 
 title = "Problem 190: Maximising a weighted product"
 published_on = "Friday, 18th April 2008, 10:00 pm"
-solved_by = 4262
+solved_by = 4276
 difficulty_rating = "50%"
 content = """
 Let Sₘ = (x₁, x₂, ... , xₘ) be the m-tuple of positive real numbers with x₁ + x₂ + ... + xₘ = m for which Pₘ = x₁ * x₂² * ... * xₘᵐ is

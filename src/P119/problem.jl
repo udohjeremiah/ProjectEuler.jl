@@ -3,7 +3,7 @@ module Problem119
 
 title = "Problem 119: Digit power sum"
 published_on = "Friday, 7th April 2006, 06:00 pm"
-solved_by = 12810
+solved_by = 12846
 difficulty_rating = "30%"
 content = """
 The number 512 is interesting because it is equal to the sum of its digits raised to some power: 5 + 1 + 2 = 8, and 8³ = 512.

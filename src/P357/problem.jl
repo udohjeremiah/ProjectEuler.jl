@@ -3,7 +3,7 @@ module Problem357
 
 title = "Problem 357: Prime generating integers"
 published_on = "Saturday, 5th November 2011, 04:00 pm"
-solved_by = 8342
+solved_by = 8365
 difficulty_rating = "10%"
 content = """
 Consider the divisors of 30: 1,2,3,5,6,10,15,30.

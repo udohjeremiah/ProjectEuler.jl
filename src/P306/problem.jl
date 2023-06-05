@@ -3,7 +3,7 @@ module Problem306
 
 title = "Problem 306: Paper-strip Game"
 published_on = "Sunday, 17th October 2010, 07:00 am"
-solved_by = 1231
+solved_by = 1239
 difficulty_rating = "55%"
 content = """
 The following game is a classic example of Combinatorial Game Theory:

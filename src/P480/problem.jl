@@ -3,7 +3,7 @@ module Problem480
 
 title = "Problem 480: The Last Question"
 published_on = "Sunday, 14th September 2014, 01:00 am"
-solved_by = 584
+solved_by = 586
 difficulty_rating = "45%"
 content = """
 Consider all the words which can be formed by selecting letters, in any order, from the phrase:

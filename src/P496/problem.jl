@@ -3,7 +3,7 @@ module Problem496
 
 title = "Problem 496: Incenter and circumcenter of triangle"
 published_on = "Sunday, 4th January 2015, 01:00 am"
-solved_by = 307
+solved_by = 309
 difficulty_rating = "50%"
 content = """
 Given an integer sided triangle ABC:

@@ -3,7 +3,7 @@ module Problem709
 
 title = "Problem 709: Even Stevens"
 published_on = "Saturday, 4th April 2020, 05:00 pm"
-solved_by = 793
+solved_by = 803
 difficulty_rating = "15%"
 content = """
 Every day for the past n days Even Stevens brings home his groceries in a plastic bag. He stores these plastic bags in a

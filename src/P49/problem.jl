@@ -3,7 +3,7 @@ module Problem49
 
 title = "Problem 49: Prime permutations"
 published_on = "Friday, 1st August 2003, 06:00 pm"
-solved_by = 60299
+solved_by = 60390
 difficulty_rating = "5%"
 content = """
 The arithmetic sequence, 1487, 4817, 8147, in which each of the terms increases by 3330, is unusual in two ways: (i) each of

@@ -3,7 +3,7 @@ module Problem691
 
 title = "Problem 691: Long substring with many repetitions"
 published_on = "Sunday, 1st December 2019, 10:00 am"
-solved_by = 257
+solved_by = 261
 difficulty_rating = "40%"
 content = """
 Given a character string s, we define L(k,s) to be the length of the longest substring of s which appears at least k times in s, or 0 if such a substring does not exist. For example, L(3,\\text{“bbabcabcabcacba”})=4 because of the three occurrences of the substring \\text{“abca”}, and L(2,\\text{“bbabcabcabcacba”})=7 because of the repeated substring \\text{“abcabca”}. Note that the occurrences can overlap.

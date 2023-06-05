@@ -3,7 +3,7 @@ module Problem801
 
 title = "Problem 801: xʸ ≡ yˣ"
 published_on = "Sunday, 5th June 2022, 08:00 am"
-solved_by = 223
+solved_by = 229
 difficulty_rating = "50%"
 content = """
 The positive integral solutions of the equation xʸ = yˣ are (2,4), (4,2) and (k,k) for all k > 0.

@@ -3,7 +3,7 @@ module Problem757
 
 title = "Problem 757: Stealthy Numbers"
 published_on = "Saturday, 15th May 2021, 05:00 pm"
-solved_by = 1031
+solved_by = 1052
 difficulty_rating = "10%"
 content = """
 A positive integer N is stealthy, if there exist positive integers a, b, c, d such that ab = cd = N and a + b = c + d + 1.

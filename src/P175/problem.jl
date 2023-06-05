@@ -3,7 +3,7 @@ module Problem175
 
 title = "Problem 175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2"
 published_on = "Friday, 28th December 2007, 01:00 pm"
-solved_by = 1842
+solved_by = 1847
 difficulty_rating = "70%"
 content = """
 Define f(0)=1 and f(n) to be the number of ways to write n as a sum of powers of 2 where no power occurs more than twice. 

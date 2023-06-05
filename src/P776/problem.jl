@@ -3,7 +3,7 @@ module Problem776
 
 title = "Problem 776: Digit Sum Division"
 published_on = "Sunday, 12th December 2021, 04:00 am"
-solved_by = 475
+solved_by = 487
 difficulty_rating = "25%"
 content = """
 

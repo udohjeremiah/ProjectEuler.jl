@@ -3,7 +3,7 @@ module Problem538
 
 title = "Problem 538: Maximum quadrilaterals"
 published_on = "Sunday, 13th December 2015, 01:00 am"
-solved_by = 327
+solved_by = 329
 difficulty_rating = "40%"
 content = """
 Consider a positive integer sequence S = (s₁, s₂, ..., sₙ).

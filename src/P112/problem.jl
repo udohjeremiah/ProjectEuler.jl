@@ -3,7 +3,7 @@ module Problem112
 
 title = "Problem 112: Bouncy numbers"
 published_on = "Friday, 30th December 2005, 06:00 pm"
-solved_by = 25462
+solved_by = 25512
 difficulty_rating = "15%"
 content = """
 Working from left-to-right if no digit is exceeded by the digit to its left it is called an increasing number; for example, 134468.

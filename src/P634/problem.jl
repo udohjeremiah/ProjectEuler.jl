@@ -3,7 +3,7 @@ module Problem634
 
 title = "Problem 634: Numbers of the form a²b³"
 published_on = "Saturday, 11th August 2018, 04:00 pm"
-solved_by = 607
+solved_by = 611
 difficulty_rating = "40%"
 content = """
 Define F(n) to be the number of integers x ≤ n that can be written in the form x = a²b³, where a and b are integers not

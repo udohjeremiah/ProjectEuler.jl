@@ -3,7 +3,7 @@ module Problem418
 
 title = "Problem 418: Factorisation triples"
 published_on = "Saturday, 9th March 2013, 07:00 pm"
-solved_by = 698
+solved_by = 700
 difficulty_rating = "40%"
 content = """
 Let n be a positive integer. An integer triple (a, b, c) is called a factorisation triple of n if:

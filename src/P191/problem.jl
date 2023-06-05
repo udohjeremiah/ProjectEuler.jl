@@ -3,7 +3,7 @@ module Problem191
 
 title = "Problem 191: Prize Strings"
 published_on = "Saturday, 26th April 2008, 01:00 am"
-solved_by = 7259
+solved_by = 7279
 difficulty_rating = "35%"
 content = """
 A particular school offers cash rewards to children with good attendance and punctuality. If they are absent for three

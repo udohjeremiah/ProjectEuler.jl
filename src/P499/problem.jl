@@ -3,7 +3,7 @@ module Problem499
 
 title = "Problem 499: St. Petersburg Lottery"
 published_on = "Sunday, 25th January 2015, 10:00 am"
-solved_by = 335
+solved_by = 336
 difficulty_rating = "100%"
 content = """
 A gambler decides to participate in a special lottery. In this lottery the gambler plays a series of one or more games.

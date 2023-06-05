@@ -3,7 +3,7 @@ module Problem245
 
 title = "Problem 245: Coresilience"
 published_on = "Friday, 15th May 2009, 02:00 pm"
-solved_by = 829
+solved_by = 837
 difficulty_rating = "80%"
 content = """
 We shall call a fraction that cannot be cancelled down a resilient fraction.

@@ -3,7 +3,7 @@ module Problem64
 
 title = "Problem 64: Odd period square roots"
 published_on = "Friday, 27th February 2004, 06:00 pm"
-solved_by = 23227
+solved_by = 23276
 difficulty_rating = "20%"
 content = """
 All square roots are periodic when written as continued fractions and can be written in the form:

@@ -3,7 +3,7 @@ module Problem117
 
 title = "Problem 117: Red, green, and blue tiles"
 published_on = "Friday, 10th March 2006, 06:00 pm"
-solved_by = 11529
+solved_by = 11566
 difficulty_rating = "35%"
 content = """
 Using a combination of grey square tiles and oblong tiles chosen from: red tiles (measuring two units), green tiles (measuring

@@ -3,7 +3,7 @@ module Problem609
 
 title = "Problem 609: π sequences"
 published_on = "Saturday, 9th September 2017, 04:00 pm"
-solved_by = 932
+solved_by = 941
 difficulty_rating = "20%"
 content = """
 For every n ≥ 1 the \e[1mprime-counting\e[0m function π(n) is equal to the number of primes not exceeding n.

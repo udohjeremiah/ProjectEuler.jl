@@ -3,7 +3,7 @@ module Problem681
 
 title = "Problem 681: Maximal Area"
 published_on = "Sunday, 29th September 2019, 07:00 am"
-solved_by = 227
+solved_by = 228
 difficulty_rating = "50%"
 content = """
 Given positive integers a ≤ b ≤ c ≤ d, it may be possible to form quadrilaterals with edge lengths a,b,c,d (in any order).

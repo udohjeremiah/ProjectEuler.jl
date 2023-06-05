@@ -3,7 +3,7 @@ module Problem605
 
 title = "Problem 605: Pairwise Coin-Tossing Game"
 published_on = "Sunday, 28th May 2017, 07:00 am"
-solved_by = 851
+solved_by = 857
 difficulty_rating = "25%"
 content = """
 Consider an n-player game played in consecutive pairs: Round 1 takes place between players 1 and 2, round 2 takes place between players 2 and 3, and so on and so forth, all the way up to round n, which takes place between players n and 1. Then round n+1 takes place between players 1 and 2 as the entire cycle starts again.

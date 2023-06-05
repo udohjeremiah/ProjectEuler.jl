@@ -3,7 +3,7 @@ module Problem69
 
 title = "Problem 69: Totient maximum"
 published_on = "Friday, 7th May 2004, 06:00 pm"
-solved_by = 36295
+solved_by = 36377
 difficulty_rating = "10%"
 content = """
 Euler's Totient function, ϕ(n) [sometimes called the phi function], is defined as the number of positive integers not exceeding n

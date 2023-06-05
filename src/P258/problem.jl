@@ -3,7 +3,7 @@ module Problem258
 
 title = "Problem 258: A lagged Fibonacci sequence"
 published_on = "Saturday, 3rd October 2009, 09:00 am"
-solved_by = 1640
+solved_by = 1645
 difficulty_rating = "70%"
 content = """
 A sequence is defined as:

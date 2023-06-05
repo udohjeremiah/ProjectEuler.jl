@@ -3,7 +3,7 @@ module Problem254
 
 title = "Problem 254: Sums of Digit Factorials"
 published_on = "Friday, 4th September 2009, 05:00 pm"
-solved_by = 980
+solved_by = 987
 difficulty_rating = "75%"
 content = """
 Define f(n) as the sum of the factorials of the digits of n. For example, f(342) = 3! + 4! + 2! = 32.

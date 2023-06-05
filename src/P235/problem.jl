@@ -3,7 +3,7 @@ module Problem235
 
 title = "Problem 235: An Arithmetic Geometric sequence"
 published_on = "Saturday, 7th March 2009, 05:00 am"
-solved_by = 5095
+solved_by = 5111
 difficulty_rating = "40%"
 content = """
 Given is the arithmetic-geometric sequence u(k) = (900-3k)rᵏ⁻¹.

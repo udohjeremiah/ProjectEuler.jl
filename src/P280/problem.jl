@@ -3,7 +3,7 @@ module Problem280
 
 title = "Problem 280: Ant and seeds"
 published_on = "Saturday, 27th February 2010, 01:00 pm"
-solved_by = 1066
+solved_by = 1071
 difficulty_rating = "65%"
 content = """
 A laborious ant walks randomly on a 5x5 grid. The walk starts from the central square. At each step, the ant moves to an

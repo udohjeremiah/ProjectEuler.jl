@@ -3,7 +3,7 @@ module Problem348
 
 title = "Problem 348: Sum of a square and a cube"
 published_on = "Saturday, 3rd September 2011, 04:00 pm"
-solved_by = 3115
+solved_by = 3129
 difficulty_rating = "25%"
 content = """
 Many numbers can be expressed as the sum of a square and a cube. Some of them in more than one way.

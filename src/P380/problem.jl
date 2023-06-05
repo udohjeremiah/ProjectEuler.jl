@@ -3,7 +3,7 @@ module Problem380
 
 title = "Problem 380: Amazing Mazes!"
 published_on = "Saturday, 14th April 2012, 02:00 pm"
-solved_by = 523
+solved_by = 525
 difficulty_rating = "60%"
 content = """
 

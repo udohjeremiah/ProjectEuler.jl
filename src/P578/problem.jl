@@ -3,7 +3,7 @@ module Problem578
 
 title = "Problem 578: Integers with decreasing prime powers"
 published_on = "Saturday, 19th November 2016, 10:00 pm"
-solved_by = 230
+solved_by = 231
 difficulty_rating = "80%"
 content = """
 Any positive integer can be written as a product of prime powers: 

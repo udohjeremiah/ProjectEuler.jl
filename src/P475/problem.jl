@@ -3,7 +3,7 @@ module Problem475
 
 title = "Problem 475: Music festival"
 published_on = "Sunday, 8th June 2014, 10:00 am"
-solved_by = 450
+solved_by = 454
 difficulty_rating = "50%"
 content = """
 12n musicians participate at a music festival. On the first day, they form 3n quartets and practice all day.

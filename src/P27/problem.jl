@@ -3,7 +3,7 @@ module Problem27
 
 title = "Problem 27: Quadratic primes"
 published_on = "Friday, 27th September 2002, 06:00 pm"
-solved_by = 90744
+solved_by = 90864
 difficulty_rating = "5%"
 content = """
 Euler discovered the remarkable quadratic formula:

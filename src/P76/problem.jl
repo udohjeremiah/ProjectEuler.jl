@@ -3,7 +3,7 @@ module Problem76
 
 title = "Problem 76: Counting summations"
 published_on = "Friday, 13th August 2004, 06:00 pm"
-solved_by = 29737
+solved_by = 29805
 difficulty_rating = "10%"
 content = """
 It is possible to write five as a sum in exactly six different ways:

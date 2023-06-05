@@ -3,7 +3,7 @@ module Problem520
 
 title = "Problem 520: Simbers"
 published_on = "Saturday, 13th June 2015, 10:00 pm"
-solved_by = 409
+solved_by = 410
 difficulty_rating = "45%"
 content = """
 We define a simber to be a positive integer in which any odd digit, if present, occurs an odd number of times, and any even

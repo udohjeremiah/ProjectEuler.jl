@@ -3,7 +3,7 @@ module Problem283
 
 title = "Problem 283: Integer sided triangles for which the  area/perimeter ratio is integral"
 published_on = "Friday, 19th March 2010, 09:00 pm"
-solved_by = 650
+solved_by = 653
 difficulty_rating = "75%"
 content = """
 Consider the triangle with sides 6, 8 and 10. It can be seen that the perimeter and the area are both equal to 24. So the

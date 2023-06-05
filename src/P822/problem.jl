@@ -3,7 +3,7 @@ module Problem822
 
 title = "Problem 822: Square the Smallest"
 published_on = "Saturday, 24th December 2022, 10:00 pm"
-solved_by = 508
+solved_by = 555
 difficulty_rating = "15%"
 content = """
 

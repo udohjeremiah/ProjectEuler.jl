@@ -3,7 +3,7 @@ module Problem259
 
 title = "Problem 259: Reachable Numbers"
 published_on = "Saturday, 10th October 2009, 01:00 pm"
-solved_by = 1541
+solved_by = 1546
 difficulty_rating = "70%"
 content = """
 A positive integer will be called reachable if it can result from an arithmetic expression obeying the following rules:

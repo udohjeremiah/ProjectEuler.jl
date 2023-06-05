@@ -3,7 +3,7 @@ module Problem658
 
 title = "Problem 658: Incomplete words II"
 published_on = "Saturday, 23rd February 2019, 01:00 pm"
-solved_by = 239
+solved_by = 244
 difficulty_rating = "55%"
 content = """
 In the context of 

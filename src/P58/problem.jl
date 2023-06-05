@@ -3,7 +3,7 @@ module Problem58
 
 title = "Problem 58: Spiral primes"
 published_on = "Friday, 5th December 2003, 06:00 pm"
-solved_by = 41924
+solved_by = 42012
 difficulty_rating = "5%"
 content = """
 Starting with 1 and spiralling anticlockwise in the following way, a square spiral with side length 7 is formed.

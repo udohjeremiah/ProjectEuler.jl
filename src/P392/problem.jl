@@ -3,7 +3,7 @@ module Problem392
 
 title = "Problem 392: Enmeshed unit circle"
 published_on = "Saturday, 1st September 2012, 02:00 pm"
-solved_by = 795
+solved_by = 798
 difficulty_rating = "35%"
 content = """
 

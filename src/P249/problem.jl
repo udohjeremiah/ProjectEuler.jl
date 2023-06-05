@@ -3,7 +3,7 @@ module Problem249
 
 title = "Problem 249: Prime Subset Sums"
 published_on = "Saturday, 13th June 2009, 05:00 am"
-solved_by = 2590
+solved_by = 2600
 difficulty_rating = "60%"
 content = """
 Let S = {2, 3, 5, ..., 4999} be the set of prime numbers less than 5000.

@@ -3,7 +3,7 @@ module Problem606
 
 title = "Problem 606: Gozinta Chains II"
 published_on = "Sunday, 4th June 2017, 10:00 am"
-solved_by = 378
+solved_by = 380
 difficulty_rating = "50%"
 content = """
 A \e[1mgozinta chain\e[0m for n is a sequence {1,a,b,...,n} where each element properly divides the next. 

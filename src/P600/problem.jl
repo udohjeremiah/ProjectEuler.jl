@@ -3,7 +3,7 @@ module Problem600
 
 title = "Problem 600: Integer sided equiangular hexagons"
 published_on = "Saturday, 22nd April 2017, 04:00 pm"
-solved_by = 614
+solved_by = 618
 difficulty_rating = "35%"
 content = """
 Let 

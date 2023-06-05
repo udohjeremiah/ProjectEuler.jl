@@ -3,7 +3,7 @@ module Problem341
 
 title = "Problem 341: Golomb's self-describing sequence"
 published_on = "Sunday, 5th June 2011, 10:00 am"
-solved_by = 950
+solved_by = 953
 difficulty_rating = "45%"
 content = """
 The Golomb's self-describing sequence (G(n)) is the only nondecreasing sequence of natural numbers such that n

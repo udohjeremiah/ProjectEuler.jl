@@ -3,7 +3,7 @@ module Problem641
 
 title = "Problem 641: A Long Row of Dice"
 published_on = "Saturday, 3rd November 2018, 01:00 pm"
-solved_by = 477
+solved_by = 483
 difficulty_rating = "35%"
 content = """
 Consider a row of n dice all showing 1.

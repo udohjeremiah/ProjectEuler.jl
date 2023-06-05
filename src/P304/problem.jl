@@ -3,7 +3,7 @@ module Problem304
 
 title = "Problem 304: Primonacci"
 published_on = "Sunday, 3rd October 2010, 01:00 am"
-solved_by = 2230
+solved_by = 2240
 difficulty_rating = "40%"
 content = """
 For any positive integer n the function next_prime(n) returns the smallest prime p

@@ -3,7 +3,7 @@ module Problem736
 
 title = "Problem 736: Paths to Equality"
 published_on = "Sunday, 29th November 2020, 01:00 am"
-solved_by = 211
+solved_by = 218
 difficulty_rating = "50%"
 content = """
 Define two functions on lattice points:

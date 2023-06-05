@@ -3,7 +3,7 @@ module Problem819
 
 title = "Problem 819: Iterative Sampling"
 published_on = "Saturday, 3rd December 2022, 01:00 pm"
-solved_by = 182
+solved_by = 190
 difficulty_rating = "45%"
 content = """
 Given an n-tuple of numbers another n-tuple is created where each element of the new n-tuple is chosen randomly from the

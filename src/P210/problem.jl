@@ -3,7 +3,7 @@ module Problem210
 
 title = "Problem 210: Obtuse Angled Triangles"
 published_on = "Friday, 26th September 2008, 10:00 pm"
-solved_by = 1753
+solved_by = 1765
 difficulty_rating = "70%"
 content = """
 Consider the set S(r) of points (x,y) with integer coordinates satisfying |x| + |y| ≤ r. 

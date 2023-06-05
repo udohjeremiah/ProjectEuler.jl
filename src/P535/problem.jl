@@ -3,7 +3,7 @@ module Problem535
 
 title = "Problem 535: Fractal Sequence"
 published_on = "Saturday, 21st November 2015, 04:00 pm"
-solved_by = 289
+solved_by = 291
 difficulty_rating = "60%"
 content = """
 Consider the infinite integer sequence S starting with:

@@ -3,7 +3,7 @@ module Problem153
 
 title = "Problem 153: Investigating Gaussian Integers"
 published_on = "Saturday, 5th May 2007, 10:00 am"
-solved_by = 2700
+solved_by = 2713
 difficulty_rating = "65%"
 content = """
 As we all know the equation 

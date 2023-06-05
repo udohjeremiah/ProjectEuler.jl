@@ -3,7 +3,7 @@ module Problem53
 
 title = "Problem 53: Combinatoric selections"
 published_on = "Friday, 26th September 2003, 06:00 pm"
-solved_by = 61140
+solved_by = 61237
 difficulty_rating = "5%"
 content = """
 There are exactly ten ways of selecting three from five, 12345:

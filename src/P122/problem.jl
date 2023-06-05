@@ -3,7 +3,7 @@ module Problem122
 
 title = "Problem 122: Efficient exponentiation"
 published_on = "Friday, 2nd June 2006, 06:00 pm"
-solved_by = 8112
+solved_by = 8142
 difficulty_rating = "40%"
 content = """
 The most naive way of computing n¹⁵ requires fourteen multiplications:

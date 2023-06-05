@@ -3,7 +3,7 @@ module Problem80
 
 title = "Problem 80: Square root digital expansion"
 published_on = "Friday, 8th October 2004, 06:00 pm"
-solved_by = 20725
+solved_by = 20780
 difficulty_rating = "20%"
 content = """
 It is well known that if the square root of a natural number is not an integer, then it is irrational. The decimal expansion of such

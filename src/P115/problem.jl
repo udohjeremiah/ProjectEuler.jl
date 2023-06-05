@@ -3,7 +3,7 @@ module Problem115
 
 title = "Problem 115: Counting block combinations II"
 published_on = "Friday, 24th February 2006, 06:00 pm"
-solved_by = 10277
+solved_by = 10301
 difficulty_rating = "35%"
 content = """
 NOTE: This is a more difficult version of \e[1;35mProblem 114\e[0m.

@@ -3,7 +3,7 @@ module Problem8
 
 title = "Problem 8: Largest product in a series"
 published_on = "Friday, 11th January 2002, 06:00 pm"
-solved_by = 359581
+solved_by = 359817
 difficulty_rating = "5%"
 content = """
 The four adjacent digits in the 1000-digit number that have the greatest product are 9 × 9 × 8 × 9 = 5832.

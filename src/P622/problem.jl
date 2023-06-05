@@ -3,7 +3,7 @@ module Problem622
 
 title = "Problem 622: Riffle Shuffles"
 published_on = "Sunday, 11th March 2018, 07:00 am"
-solved_by = 1739
+solved_by = 1748
 difficulty_rating = "15%"
 content = """
 A riffle shuffle is executed as follows: a deck of cards is split into two equal halves, with the top half taken in the left hand and

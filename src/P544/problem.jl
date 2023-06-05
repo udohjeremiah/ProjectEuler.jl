@@ -3,7 +3,7 @@ module Problem544
 
 title = "Problem 544: Chromatic Conundrum"
 published_on = "Saturday, 23rd January 2016, 07:00 pm"
-solved_by = 247
+solved_by = 252
 difficulty_rating = "90%"
 content = """
 Let F(r,c,n) be the number of ways to colour a rectangular grid with r rows and c columns using at most n colours such that no

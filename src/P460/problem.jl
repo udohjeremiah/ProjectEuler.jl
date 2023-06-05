@@ -3,7 +3,7 @@ module Problem460
 
 title = "Problem 460: An ant on the move"
 published_on = "Saturday, 22nd February 2014, 01:00 pm"
-solved_by = 325
+solved_by = 327
 difficulty_rating = "60%"
 content = """
 

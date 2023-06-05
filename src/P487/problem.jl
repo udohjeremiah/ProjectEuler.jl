@@ -3,7 +3,7 @@ module Problem487
 
 title = "Problem 487: Sums of power sums"
 published_on = "Saturday, 1st November 2014, 10:00 pm"
-solved_by = 655
+solved_by = 658
 difficulty_rating = "40%"
 content = """
 Let fₖ(n) be the sum of the kᵗʰ powers of the first n positive integers.

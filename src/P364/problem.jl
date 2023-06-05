@@ -3,7 +3,7 @@ module Problem364
 
 title = "Problem 364: Comfortable distance"
 published_on = "Saturday, 24th December 2011, 01:00 pm"
-solved_by = 714
+solved_by = 720
 difficulty_rating = "50%"
 content = """
 

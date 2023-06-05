@@ -3,7 +3,7 @@ module Problem19
 
 title = "Problem 19: Counting Sundays"
 published_on = "Friday, 14th June 2002, 06:00 pm"
-solved_by = 139104
+solved_by = 139267
 difficulty_rating = "5%"
 content = """
 You are given the following information, but you may prefer to do some research for yourself.

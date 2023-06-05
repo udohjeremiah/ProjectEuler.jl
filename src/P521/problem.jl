@@ -3,7 +3,7 @@ module Problem521
 
 title = "Problem 521: Smallest prime factor"
 published_on = "Sunday, 21st June 2015, 01:00 am"
-solved_by = 742
+solved_by = 749
 difficulty_rating = "50%"
 content = """
 Let smpf(n) be the smallest prime factor of n.

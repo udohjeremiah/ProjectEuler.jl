@@ -3,7 +3,7 @@ module Problem657
 
 title = "Problem 657: Incomplete words"
 published_on = "Saturday, 23rd February 2019, 01:00 pm"
-solved_by = 523
+solved_by = 532
 difficulty_rating = "30%"
 content = """
 In the context of formal languages, any finite sequence of letters of a given alphabet Σ is called a word over Σ. We call a

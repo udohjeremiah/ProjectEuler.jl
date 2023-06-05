@@ -3,7 +3,7 @@ module Problem288
 
 title = "Problem 288: An enormous factorial"
 published_on = "Saturday, 17th April 2010, 01:00 pm"
-solved_by = 1690
+solved_by = 1693
 difficulty_rating = "35%"
 content = """
 For any prime p the number N(p,q) is defined by N(p,q) = ∑ₙ₌₀ ₜₒ _q Tₙ*pⁿ

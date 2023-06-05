@@ -3,7 +3,7 @@ module Problem599
 
 title = "Problem 599: Distinct Colourings of a Rubik's Cube"
 published_on = "Saturday, 15th April 2017, 01:00 pm"
-solved_by = 301
+solved_by = 303
 difficulty_rating = "60%"
 content = """
 The well-known \e[1mRubik's Cube\e[0m puzzle has many fascinating mathematical properties. The 2×2×2 variant has 8 cubelets with a

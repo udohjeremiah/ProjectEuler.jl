@@ -3,7 +3,7 @@ module Problem316
 
 title = "Problem 316: Numbers in decimal expansions"
 published_on = "Saturday, 25th December 2010, 01:00 pm"
-solved_by = 682
+solved_by = 684
 difficulty_rating = "55%"
 content = """
 Let 

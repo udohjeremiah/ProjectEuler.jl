@@ -3,7 +3,7 @@ module Problem395
 
 title = "Problem 395: Pythagorean tree"
 published_on = "Saturday, 22nd September 2012, 11:00 pm"
-solved_by = 707
+solved_by = 711
 difficulty_rating = "40%"
 content = """
 

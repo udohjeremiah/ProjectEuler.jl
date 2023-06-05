@@ -3,7 +3,7 @@ module Problem575
 
 title = "Problem 575: Wandering Robots"
 published_on = "Saturday, 22nd October 2016, 01:00 pm"
-solved_by = 591
+solved_by = 596
 difficulty_rating = "35%"
 content = """
 It was quite an ordinary day when a mysterious alien vessel appeared as if from nowhere. After waiting several hours and receiving no response it is decided to send a team to investigate, of which you are included. Upon entering the vessel you are met by a friendly holographic figure, Katharina, who explains the purpose of the vessel, Eulertopia.

@@ -3,7 +3,7 @@ module Problem639
 
 title = "Problem 639: Summing a multiplicative function"
 published_on = "Sunday, 21st October 2018, 07:00 am"
-solved_by = 259
+solved_by = 265
 difficulty_rating = "70%"
 content = """
 A 

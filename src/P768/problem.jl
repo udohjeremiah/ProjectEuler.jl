@@ -3,7 +3,7 @@ module Problem768
 
 title = "Problem 768: Chandelier"
 published_on = "Sunday, 17th October 2021, 05:00 am"
-solved_by = 138
+solved_by = 141
 difficulty_rating = "95%"
 content = """
 A certain type of chandelier contains a circular ring of n evenly spaced candleholders.

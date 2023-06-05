@@ -3,7 +3,7 @@ module Problem158
 
 title = "Problem 158: Exploring strings for which only one character comes lexicographically after its neighbour to the left"
 published_on = "Friday, 15th June 2007, 02:00 pm"
-solved_by = 3742
+solved_by = 3753
 difficulty_rating = "55%"
 content = """
 Taking three different letters from the 26 letters of the alphabet, character strings of length three can be formed.

@@ -3,7 +3,7 @@ module Problem778
 
 title = "Problem 778: Freshman's Product"
 published_on = "Sunday, 26th December 2021, 10:00 am"
-solved_by = 353
+solved_by = 361
 difficulty_rating = "30%"
 content = """
 If a,b are two nonnegative integers with decimal representations a = (…a₂a₁a₀) and b = (…b₂b₁b₀) respectively, then the 

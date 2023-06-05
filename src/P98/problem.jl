@@ -3,7 +3,7 @@ module Problem98
 
 title = "Problem 98: Anagramic squares"
 published_on = "Friday, 17th June 2005, 06:00 pm"
-solved_by = 11959
+solved_by = 11990
 difficulty_rating = "35%"
 content = """
 By replacing each of the letters in the word CARE with 1, 2, 9, and 6 respectively, we form a square number: 1296 = 36². What

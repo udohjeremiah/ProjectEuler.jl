@@ -3,7 +3,7 @@ module Problem340
 
 title = "Problem 340: Crazy Function"
 published_on = "Sunday, 29th May 2011, 07:00 am"
-solved_by = 1131
+solved_by = 1140
 difficulty_rating = "30%"
 content = """
 

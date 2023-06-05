@@ -3,7 +3,7 @@ module Problem530
 
 title = "Problem 530: GCD of Divisors"
 published_on = "Sunday, 18th October 2015, 01:00 am"
-solved_by = 451
+solved_by = 452
 difficulty_rating = "60%"
 content = """
 Every divisor 

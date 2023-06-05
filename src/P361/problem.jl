@@ -3,7 +3,7 @@ module Problem361
 
 title = "Problem 361: Subsequence of Thue-Morse sequence"
 published_on = "Sunday, 4th December 2011, 04:00 am"
-solved_by = 305
+solved_by = 310
 difficulty_rating = "90%"
 content = """
 The 

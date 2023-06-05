@@ -3,7 +3,7 @@ module Problem653
 
 title = "Problem 653: Frictionless Tube"
 published_on = "Sunday, 27th January 2019, 01:00 am"
-solved_by = 304
+solved_by = 310
 difficulty_rating = "45%"
 content = """
 Consider a horizontal frictionless tube with length L millimetres, and a diameter of 20 millimetres. The east end of the tube is

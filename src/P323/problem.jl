@@ -3,7 +3,7 @@ module Problem323
 
 title = "Problem 32: Bitwise-OR operations on random integers"
 published_on = "Sunday, 6th February 2011, 07:00 am"
-solved_by = 3982
+solved_by = 3991
 difficulty_rating = "20%"
 content = """
 Let y₀, y₁, y₂,... be a sequence of random unsigned 32 bit integers

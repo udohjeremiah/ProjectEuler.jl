@@ -3,7 +3,7 @@ module Problem130
 
 title = "Problem 130: Composites with prime repunit property"
 published_on = "Friday, 27th October 2006, 06:00 pm"
-solved_by = 6142
+solved_by = 6165
 difficulty_rating = "45%"
 content = """
 A number consisting entirely of ones is called a repunit. We shall define R(k) to be a repunit of length k; for example, R(6) =

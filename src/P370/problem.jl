@@ -3,7 +3,7 @@ module Problem370
 
 title = "Problem 370: Geometric triangles"
 published_on = "Sunday, 5th February 2012, 07:00 am"
-solved_by = 531
+solved_by = 533
 difficulty_rating = "65%"
 content = """
 Let us define a geometric triangle as an integer sided triangle with sides a ≤ b ≤ c so that its sides form a \e[1mgeometric

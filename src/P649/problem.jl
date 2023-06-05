@@ -3,7 +3,7 @@ module Problem649
 
 title = "Problem 649: Low-Prime Chessboard Nim"
 published_on = "Saturday, 29th December 2018, 01:00 pm"
-solved_by = 401
+solved_by = 409
 difficulty_rating = "30%"
 content = """
 Alice and Bob are taking turns playing a game consisting of c different coins on a chessboard of size n by n.

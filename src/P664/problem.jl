@@ -3,7 +3,7 @@ module Problem664
 
 title = "Problem 664: An infinite game"
 published_on = "Sunday, 7th April 2019, 07:00 am"
-solved_by = 188
+solved_by = 192
 difficulty_rating = "65%"
 content = """
 Peter is playing a solitaire game on an infinite checkerboard, each square of which can hold an unlimited number of tokens.

@@ -3,7 +3,7 @@ module Problem568
 
 title = "Problem 568: Reciprocal games II"
 published_on = "Saturday, 3rd September 2016, 04:00 pm"
-solved_by = 287
+solved_by = 289
 difficulty_rating = "55%"
 content = """
 Tom has built a random generator that is connected to a row of n light bulbs. Whenever the random generator is activated each of the n lights is turned on with the probability of \frac 1 2, independently of its former state or the state of the other light bulbs.

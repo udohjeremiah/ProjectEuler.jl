@@ -3,7 +3,7 @@ module Problem809
 
 title = "Problem 809: Rational Recurrence Relation"
 published_on = "Sunday, 25th September 2022, 08:00 am"
-solved_by = 259
+solved_by = 263
 difficulty_rating = "35%"
 content = """
 

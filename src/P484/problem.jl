@@ -3,7 +3,7 @@ module Problem484
 
 title = "Problem 484: Arithmetic Derivative"
 published_on = "Saturday, 11th October 2014, 01:00 pm"
-solved_by = 367
+solved_by = 369
 difficulty_rating = "100%"
 content = """
 The \e[1marithmetic derivative\e[0m is defined by

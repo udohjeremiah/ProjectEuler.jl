@@ -3,7 +3,7 @@ module Problem360
 
 title = "Problem 360: Scary Sphere"
 published_on = "Sunday, 27th November 2011, 01:00 am"
-solved_by = 597
+solved_by = 600
 difficulty_rating = "50%"
 content = """
 Given two points (x₁,y₁,z₁) and (x₂,y₂,z₂) in three dimensional space, the \e[1mManhattan distance\e[0m between those points is defined

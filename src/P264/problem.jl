@@ -3,7 +3,7 @@ module Problem264
 
 title = "Problem 264: Triangle Centres"
 published_on = "Saturday, 14th November 2009, 05:00 am"
-solved_by = 581
+solved_by = 583
 difficulty_rating = "85%"
 content = """
 Consider all the triangles having:

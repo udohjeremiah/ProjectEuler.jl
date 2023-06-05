@@ -3,7 +3,7 @@ module Problem6
 
 title = "Problem 6: Sum square difference"
 published_on = "Friday, 14th December 2001, 06:00 pm"
-solved_by = 500312
+solved_by = 500525
 difficulty_rating = "5%"
 content = """
 The sum of the squares of the first ten natural numbers is,

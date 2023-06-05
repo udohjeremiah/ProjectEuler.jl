@@ -3,7 +3,7 @@ module Problem586
 
 title = "Problem 586: Binary Quadratic Form"
 published_on = "Saturday, 14th January 2017, 10:00 pm"
-solved_by = 234
+solved_by = 235
 difficulty_rating = "75%"
 content = """
 The number 209 can be expressed as a² + 3ab + b² in two distinct ways:

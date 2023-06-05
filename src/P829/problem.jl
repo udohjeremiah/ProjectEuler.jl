@@ -3,7 +3,7 @@ module Problem829
 
 title = "Problem 829: Integral Fusion"
 published_on = "Saturday, 11th February 2023, 07:00 pm"
-solved_by = 173
+solved_by = 182
 difficulty_rating = "45%"
 content = """
 Given any integer n>1 a 

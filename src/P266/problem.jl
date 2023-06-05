@@ -3,7 +3,7 @@ module Problem266
 
 title = "Problem 266: Pseudo Square Root"
 published_on = "Saturday, 28th November 2009, 01:00 pm"
-solved_by = 1739
+solved_by = 1744
 difficulty_rating = "65%"
 content = """
 The divisors of 12 are: 1,2,3,4,6 and 12.

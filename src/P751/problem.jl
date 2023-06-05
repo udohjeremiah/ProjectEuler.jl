@@ -3,7 +3,7 @@ module Problem751
 
 title = "Problem 751: Concatenation Coincidence"
 published_on = "Saturday, 13th March 2021, 10:00 pm"
-solved_by = 1929
+solved_by = 1973
 difficulty_rating = "5%"
 content = """
 A non-decreasing sequence of integers aₙ can be generated from any positive real value θ by the following procedure:

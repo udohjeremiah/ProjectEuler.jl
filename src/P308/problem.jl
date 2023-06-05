@@ -3,7 +3,7 @@ module Problem308
 
 title = "Problem 308: An amazing Prime-generating Automaton"
 published_on = "Saturday, 30th October 2010, 01:00 pm"
-solved_by = 780
+solved_by = 784
 difficulty_rating = "60%"
 content = """
 A program written in the programming language Fractran consists of a list of fractions.

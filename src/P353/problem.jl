@@ -3,7 +3,7 @@ module Problem353
 
 title = "Problem 353: Risky moon"
 published_on = "Sunday, 9th October 2011, 04:00 am"
-solved_by = 493
+solved_by = 496
 difficulty_rating = "50%"
 content = """
 

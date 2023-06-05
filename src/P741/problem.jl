@@ -3,7 +3,7 @@ module Problem741
 
 title = "Problem 741: Binary grid colouring"
 published_on = "Saturday, 2nd January 2021, 04:00 pm"
-solved_by = 147
+solved_by = 149
 difficulty_rating = "80%"
 content = """
 Let f(n) be the number of ways an n × n square grid can be coloured, each cell either black or white, such that each row and

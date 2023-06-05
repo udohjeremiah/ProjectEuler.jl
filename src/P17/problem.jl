@@ -3,7 +3,7 @@ module Problem17
 
 title = "Problem 17: Number letter counts"
 published_on = "Friday, 17th May 2002, 06:00 pm"
-solved_by = 156350
+solved_by = 156530
 difficulty_rating = "5%"
 content = """
 If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there are 3 + 3 + 5 + 4 + 4 = 19 letters used in

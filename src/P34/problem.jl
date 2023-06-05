@@ -3,7 +3,7 @@ module Problem34
 
 title = "Problem 34: Digit factorials"
 published_on = "Friday, 3rd January 2003, 06:00 pm"
-solved_by = 97545
+solved_by = 97700
 difficulty_rating = "5%"
 content = """
 145 is a curious number, as 1! + 4! + 5! = 1 + 24 + 120 = 145.

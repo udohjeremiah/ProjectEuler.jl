@@ -3,7 +3,7 @@ module Problem570
 
 title = "Problem 570: Snowflakes"
 published_on = "Saturday, 17th September 2016, 10:00 pm"
-solved_by = 276
+solved_by = 278
 difficulty_rating = "55%"
 content = """
 A snowflake of order n is formed by overlaying an equilateral triangle (rotated by 180 degrees) onto each equilateral triangle of the same size in a snowflake of order n-1. A snowflake of order 1 is a single equilateral triangle.

@@ -3,7 +3,7 @@ module Problem531
 
 title = "Problem 531: Chinese leftovers"
 published_on = "Sunday, 25th October 2015, 04:00 am"
-solved_by = 1158
+solved_by = 1162
 difficulty_rating = "25%"
 content = """
 Let g(a,n,b,m) be the smallest non-negative solution x to the system:

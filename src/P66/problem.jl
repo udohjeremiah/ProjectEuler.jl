@@ -3,7 +3,7 @@ module Problem66
 
 title = "Problem 66: Diophantine equation"
 published_on = "Friday, 26th March 2004, 06:00 pm"
-solved_by = 20658
+solved_by = 20716
 difficulty_rating = "25%"
 content = """
 Consider quadratic Diophantine equations of the form:

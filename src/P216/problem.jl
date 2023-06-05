@@ -3,7 +3,7 @@ module Problem216
 
 title = "Problem 216: Investigating the primality of numbers of the form 2n²-1"
 published_on = "Friday, 7th November 2008, 05:00 pm"
-solved_by = 4169
+solved_by = 4181
 difficulty_rating = "45%"
 content = """
 Consider numbers t(n) of the form t(n) = 2n²-1 with n > 1.

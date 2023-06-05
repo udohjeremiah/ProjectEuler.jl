@@ -3,7 +3,7 @@ module Problem355
 
 title = "Problem 355: Maximal coprime subset"
 published_on = "Sunday, 23rd October 2011, 10:00 am"
-solved_by = 540
+solved_by = 544
 difficulty_rating = "70%"
 content = """
 Define Co(n) to be the maximal possible sum of a set of mutually co-prime elements from {1, 2, ..., n}.

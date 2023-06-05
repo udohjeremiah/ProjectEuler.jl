@@ -3,7 +3,7 @@ module Problem739
 
 title = "Problem 739: Summation of Summations"
 published_on = "Sunday, 20th December 2020, 10:00 am"
-solved_by = 470
+solved_by = 477
 difficulty_rating = "25%"
 content = """
 Take a sequence of length n. Discard the first term then make a sequence of the partial summations. Continue to do this over

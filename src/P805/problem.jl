@@ -3,7 +3,7 @@ module Problem805
 
 title = "Problem 805: Shifted Multiples"
 published_on = "Saturday, 2nd July 2022, 08:00 pm"
-solved_by = 165
+solved_by = 167
 difficulty_rating = "55%"
 content = """
 

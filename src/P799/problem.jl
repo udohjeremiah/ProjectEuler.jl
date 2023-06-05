@@ -3,7 +3,7 @@ module Problem799
 
 title = "Problem 799: Pentagonal Puzzle"
 published_on = "Sunday, 22nd May 2022, 02:00 am"
-solved_by = 205
+solved_by = 210
 difficulty_rating = "50%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem265
 
 title = "Problem 265: Binary Circles"
 published_on = "Saturday, 21st November 2009, 09:00 am"
-solved_by = 4305
+solved_by = 4313
 difficulty_rating = "40%"
 content = """
 2

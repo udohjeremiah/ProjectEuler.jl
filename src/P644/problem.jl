@@ -3,7 +3,7 @@ module Problem644
 
 title = "Problem 644: Squares on the line"
 published_on = "Saturday, 24th November 2018, 10:00 pm"
-solved_by = 160
+solved_by = 161
 difficulty_rating = "90%"
 content = """
 Sam and Tom are trying a game of (partially) covering a given line segment of length L by taking turns in placing unit squares onto the line segment. 

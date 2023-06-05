@@ -3,7 +3,7 @@ module Problem62
 
 title = "Problem 62: Cubic permutations"
 published_on = "Friday, 30th January 2004, 06:00 pm"
-solved_by = 32965
+solved_by = 33030
 difficulty_rating = "15%"
 content = """
 The cube, 41063625 (345³), can be permuted to produce two other cubes: 56623104 (384³) and 66430125 (405³). In fact,

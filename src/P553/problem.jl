@@ -3,7 +3,7 @@ module Problem553
 
 title = "Problem 553: Power sets of power sets"
 published_on = "Saturday, 26th March 2016, 10:00 pm"
-solved_by = 208
+solved_by = 210
 difficulty_rating = "85%"
 content = """
 Let 

@@ -3,7 +3,7 @@ module Problem707
 
 title = "Problem 707: Lights Out"
 published_on = "Sunday, 22nd March 2020, 10:00 am"
-solved_by = 220
+solved_by = 223
 difficulty_rating = "55%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem166
 
 title = "Problem 166: Criss Cross"
 published_on = "Saturday, 3rd November 2007, 01:00 pm"
-solved_by = 4238
+solved_by = 4253
 difficulty_rating = "50%"
 content = """
 A 4x4 grid is filled with digits d, 0 ≤ d ≤ 9.

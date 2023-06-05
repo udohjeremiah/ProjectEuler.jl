@@ -3,7 +3,7 @@ module Problem643
 
 title = "Problem 643: 2-Friendly"
 published_on = "Saturday, 17th November 2018, 07:00 pm"
-solved_by = 591
+solved_by = 602
 difficulty_rating = "25%"
 content = """
 Two positive integers a and b are 2-friendly when gcd(a,b) = 2ᵗ, t > 0. For example, 24 and 40 are 2-friendly because

@@ -3,7 +3,7 @@ module Problem663
 
 title = "Problem 663: Sums of subarrays"
 published_on = "Sunday, 31st March 2019, 04:00 am"
-solved_by = 352
+solved_by = 359
 difficulty_rating = "35%"
 content = """
 Let t_k be the 

@@ -3,7 +3,7 @@ module Problem159
 
 title = "Problem 159: Digital root sums of factorisations"
 published_on = "Saturday, 30th June 2007, 02:00 pm"
-solved_by = 3394
+solved_by = 3409
 difficulty_rating = "60%"
 content = """
 A composite number can be factored many different ways. For instance, not including multiplication by one, 24 can be factored

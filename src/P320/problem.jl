@@ -3,7 +3,7 @@ module Problem320
 
 title = "Problem 320: Factorials divisible by a huge integer"
 published_on = "Saturday, 15th January 2011, 10:00 pm"
-solved_by = 886
+solved_by = 890
 difficulty_rating = "50%"
 content = """
 Let N(i) be the smallest integer n such that n! is divisible by (i!)¹²³⁴⁵⁶⁷⁸⁹⁰

@@ -3,7 +3,7 @@ module Problem654
 
 title = "Problem 654: Neighbourly Constraints"
 published_on = "Sunday, 3rd February 2019, 04:00 am"
-solved_by = 331
+solved_by = 337
 difficulty_rating = "45%"
 content = """
 Let T(n, m) be the number of m-tuples of positive integers such that the sum of any two neighbouring elements of the tuple is

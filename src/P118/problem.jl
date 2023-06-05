@@ -3,7 +3,7 @@ module Problem118
 
 title = "Problem 118: Pandigital prime sets"
 published_on = "Friday, 24th March 2006, 06:00 pm"
-solved_by = 7267
+solved_by = 7289
 difficulty_rating = "45%"
 content = """
 Using all of the digits 1 through 9 and concatenating them freely to form decimal integers, different sets can be formed.

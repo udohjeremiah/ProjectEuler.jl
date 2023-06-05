@@ -3,7 +3,7 @@ module Problem419
 
 title = "Problem 419: Look and say sequence"
 published_on = "Saturday, 16th March 2013, 10:00 pm"
-solved_by = 495
+solved_by = 498
 difficulty_rating = "50%"
 content = """
 The \e[1mlook and say\e[0m sequence goes 1, 11, 21, 1211, 111221, 312211, 13112221, 1113213211, ...

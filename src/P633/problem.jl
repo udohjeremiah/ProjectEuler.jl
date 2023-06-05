@@ -3,7 +3,7 @@ module Problem633
 
 title = "Problem 633: Square prime factors II"
 published_on = "Saturday, 28th July 2018, 01:00 pm"
-solved_by = 314
+solved_by = 317
 difficulty_rating = "50%"
 content = """
 For an integer n, we define the 

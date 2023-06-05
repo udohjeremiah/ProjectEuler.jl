@@ -3,7 +3,7 @@ module Problem61
 
 title = "Problem 61: Cyclical figurate numbers"
 published_on = "Friday, 16th January 2004, 06:00 pm"
-solved_by = 26744
+solved_by = 26807
 difficulty_rating = "20%"
 content = """
 Triangle, square, pentagonal, hexagonal, heptagonal, and octagonal numbers are all figurate (polygonal) numbers and are

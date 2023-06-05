@@ -3,7 +3,7 @@ module Problem719
 
 title = "Problem 719: Number Splitting"
 published_on = "Saturday, 6th June 2020, 08:00 pm"
-solved_by = 3256
+solved_by = 3339
 difficulty_rating = "5%"
 content = """
 We define an S-number to be a natural number, n, that is a perfect square and its square root can be obtained by splitting the

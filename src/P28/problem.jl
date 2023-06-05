@@ -3,7 +3,7 @@ module Problem28
 
 title = "Problem 28: Number spiral diagonals"
 published_on = "Friday, 11th October 2002, 06:00 pm"
-solved_by = 111672
+solved_by = 111801
 difficulty_rating = "5%"
 content = """
 Starting with the number 1 and moving to the right in a clockwise direction a 5 by 5 spiral is formed as follows:

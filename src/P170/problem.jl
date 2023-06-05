@@ -3,7 +3,7 @@ module Problem170
 
 title = "Problem 170: Find the largest 0 to 9 pandigital that can be formed by concatenating products"
 published_on = "Saturday, 1st December 2007, 01:00 am"
-solved_by = 2054
+solved_by = 2064
 difficulty_rating = "70%"
 content = """
 Take the number 6 and multiply it by each of 1273 and 9854:

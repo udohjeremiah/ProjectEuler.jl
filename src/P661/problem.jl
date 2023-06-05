@@ -3,7 +3,7 @@ module Problem661
 
 title = "Problem 661: A Long Chess Match"
 published_on = "Saturday, 16th March 2019, 10:00 pm"
-solved_by = 220
+solved_by = 223
 difficulty_rating = "55%"
 content = """
 Two friends A and B are great fans of Chess. They both enjoy playing the game, but after each game the player who lost the game would like to continue (to get back at the other player) and the player who won would prefer to stop (to finish on a high).

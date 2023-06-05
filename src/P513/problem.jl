@@ -3,7 +3,7 @@ module Problem513
 
 title = "Problem 513: Integral median"
 published_on = "Sunday, 26th April 2015, 01:00 am"
-solved_by = 309
+solved_by = 310
 difficulty_rating = "60%"
 content = """
 ABC is an integral sided triangle with sides a≤b≤c.

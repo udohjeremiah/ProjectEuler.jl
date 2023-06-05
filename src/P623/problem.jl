@@ -3,7 +3,7 @@ module Problem623
 
 title = "Problem 623: Lambda Count"
 published_on = "Sunday, 25th March 2018, 10:00 am"
-solved_by = 319
+solved_by = 322
 difficulty_rating = "45%"
 content = """
 The lambda-calculus is a universal model of computation at the core of functional programming languages. It is based on 

@@ -3,8 +3,8 @@ module Problem832
 
 title = "Problem 832: Mex Sequence"
 published_on = "Sunday, 5th March 2023, 04:00 am"
-solved_by = 213
-difficulty_rating = ""
+solved_by = 234
+difficulty_rating = "30%"
 content = """
 In this problem ⊕ is used to represent the bitwise \e[1mexclusive or\e[0m of two numbers.
 Starting with blank paper repeatedly do the following:

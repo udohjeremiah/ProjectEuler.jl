@@ -3,7 +3,7 @@ module Problem797
 
 title = "Problem 797: Cyclogenic Polynomials"
 published_on = "Saturday, 7th May 2022, 08:00 pm"
-solved_by = 169
+solved_by = 177
 difficulty_rating = "50%"
 content = """
 A 

@@ -3,7 +3,7 @@ module Problem351
 
 title = "Problem 351: Hexagonal orchards"
 published_on = "Saturday, 17th September 2011, 10:00 pm"
-solved_by = 2626
+solved_by = 2632
 difficulty_rating = "25%"
 content = """
 A 

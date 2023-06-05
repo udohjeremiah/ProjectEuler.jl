@@ -3,7 +3,7 @@ module Problem150
 
 title = "Problem 150: Searching a triangular array for a sub-triangle having minimum-sum"
 published_on = "Friday, 13th April 2007, 10:00 pm"
-solved_by = 4074
+solved_by = 4093
 difficulty_rating = "55%"
 content = """
 In a triangular array of positive and negative integers, we wish to find a sub-triangle such that the sum of the numbers it contains is the smallest possible.

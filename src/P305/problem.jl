@@ -3,7 +3,7 @@ module Problem305
 
 title = "Problem 305: Reflexive Position"
 published_on = "Sunday, 10th October 2010, 04:00 am"
-solved_by = 620
+solved_by = 622
 difficulty_rating = "60%"
 content = """
 Let's call S the (infinite) string that is made by concatenating the consecutive positive integers (starting from 1)  written down in

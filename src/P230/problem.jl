@@ -3,7 +3,7 @@ module Problem230
 
 title = "Problem 230: Fibonacci Words"
 published_on = "Saturday, 31st January 2009, 01:00 pm"
-solved_by = 2945
+solved_by = 2963
 difficulty_rating = "50%"
 content = """
 For any two strings of digits, A and B, we define F_A,_B to be the sequence (A,B,AB,BAB,ABBAB,...) in which each term is the

@@ -3,7 +3,7 @@ module Problem137
 
 title = "Problem 137: Fibonacci golden nuggets"
 published_on = "Friday, 12th January 2007, 06:00 pm"
-solved_by = 5717
+solved_by = 5739
 difficulty_rating = "50%"
 content = """
 Consider the infinite polynomial series A_F(x) = x F_1 + x^2 F_2 + x^3 F_3 + \\dots, where F_k is the kth term in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, \\dots; that is, F_k = F_{k-1} + F_{k-2}, F_1 = 1 and F_2 = 1.

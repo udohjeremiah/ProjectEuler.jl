@@ -3,7 +3,7 @@ module Problem561
 
 title = "Problem 561: Divisor Pairs"
 published_on = "Saturday, 21st May 2016, 10:00 pm"
-solved_by = 766
+solved_by = 777
 difficulty_rating = "30%"
 content = """
 Let S(n) be the number of pairs (a,b) of distinct divisors of n such that a divides b.

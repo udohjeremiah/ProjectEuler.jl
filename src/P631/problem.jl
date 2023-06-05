@@ -3,7 +3,7 @@ module Problem631
 
 title = "Problem 631: Constrained Permutations"
 published_on = "Sunday, 15th July 2018, 10:00 am"
-solved_by = 193
+solved_by = 194
 difficulty_rating = "65%"
 content = """
 Let (p₁p₂…pₖ) denote the permutation of the set 1, ..., k that maps pᵢ ↦ i. Define the length of the permutation to be k;

@@ -3,7 +3,7 @@ module Problem107
 
 title = "Problem 107: Minimal network"
 published_on = "Friday, 21st October 2005, 06:00 pm"
-solved_by = 11446
+solved_by = 11472
 difficulty_rating = "35%"
 content = """
 The following undirected network consists of seven vertices and twelve edges with a total weight of 243.

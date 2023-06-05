@@ -3,7 +3,7 @@ module Problem287
 
 title = "Problem 287: Quadtree encoding (a simple compression algorithm)"
 published_on = "Saturday, 10th April 2010, 09:00 am"
-solved_by = 1473
+solved_by = 1482
 difficulty_rating = "40%"
 content = """
 The quadtree encoding allows us to describe a 2

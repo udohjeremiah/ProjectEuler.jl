@@ -3,7 +3,7 @@ module Problem601
 
 title = "Problem 601: Divisibility streaks"
 published_on = "Saturday, 29th April 2017, 07:00 pm"
-solved_by = 2055
+solved_by = 2064
 difficulty_rating = "20%"
 content = """
 For every positive number n we define the function streak(n) = k as the smallest positive integer k such that n+k is not

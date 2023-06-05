@@ -3,7 +3,7 @@ module Problem71
 
 title = "Problem 71: Ordered fractions"
 published_on = "Friday, 4th June 2004, 06:00 pm"
-solved_by = 30556
+solved_by = 30624
 difficulty_rating = "10%"
 content = """
 Consider the fraction, n/d, where n and d are positive integers. If n<d and HCF(n,d)=1, it is called a reduced proper fraction.

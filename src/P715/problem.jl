@@ -3,7 +3,7 @@ module Problem715
 
 title = "Problem 715: Sextuplet Norms"
 published_on = "Sunday, 10th May 2020, 08:00 am"
-solved_by = 183
+solved_by = 185
 difficulty_rating = "60%"
 content = """
 Let f(n) be the number of 6-tuples (x_1,x_2,x_3,x_4,x_5,x_6) such that:

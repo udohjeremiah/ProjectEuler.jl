@@ -3,7 +3,7 @@ module Problem337
 
 title = "Problem 337: Totient Stairstep Sequences"
 published_on = "Saturday, 7th May 2011, 10:00 pm"
-solved_by = 524
+solved_by = 528
 difficulty_rating = "70%"
 content = """
 Let {a₁, a₂,..., aₙ} be an integer sequence of length n such that:

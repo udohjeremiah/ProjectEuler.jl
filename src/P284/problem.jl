@@ -3,7 +3,7 @@ module Problem284
 
 title = "Problem 284: Steady Squares"
 published_on = "Saturday, 27th March 2010, 01:00 am"
-solved_by = 1280
+solved_by = 1287
 difficulty_rating = "55%"
 content = """
 The 3-digit number 376 in the decimal numbering system is an example of numbers with the special property that its square

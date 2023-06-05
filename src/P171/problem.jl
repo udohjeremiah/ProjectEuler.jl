@@ -3,7 +3,7 @@ module Problem171
 
 title = "Problem 171: Finding numbers for which the sum of the squares of the digits is a square"
 published_on = "Saturday, 8th December 2007, 05:00 am"
-solved_by = 2862
+solved_by = 2878
 difficulty_rating = "65%"
 content = """
 For a positive integer n, let f(n) be the sum of the squares of the digits (in base 10) of n, e.g.

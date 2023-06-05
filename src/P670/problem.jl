@@ -3,7 +3,7 @@ module Problem670
 
 title = "Problem 670: Colouring a Strip"
 published_on = "Sunday, 19th May 2019, 01:00 am"
-solved_by = 324
+solved_by = 328
 difficulty_rating = "40%"
 content = """
 A certain type of tile comes in three different sizes - 1×1, 1×2, and 1×3 - and in four different colours: blue, green, red and yellow. There is an unlimited number of tiles available in each combination of size and colour.

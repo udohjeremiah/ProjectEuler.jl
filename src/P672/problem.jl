@@ -3,7 +3,7 @@ module Problem672
 
 title = "Problem 672: One more one"
 published_on = "Sunday, 26th May 2019, 04:00 am"
-solved_by = 268
+solved_by = 269
 difficulty_rating = "50%"
 content = """
 Consider the following process that can be applied recursively to any positive integer n:

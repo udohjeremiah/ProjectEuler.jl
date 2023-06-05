@@ -3,7 +3,7 @@ module Problem217
 
 title = "Problem 217: Balanced Numbers"
 published_on = "Friday, 14th November 2008, 09:00 pm"
-solved_by = 1543
+solved_by = 1553
 difficulty_rating = "70%"
 content = """
 A positive integer with k (decimal) digits is called balanced if its first ⌈ᵏ/₂⌉ digits sum to the same value as its last ⌈ᵏ/₂⌉ digits,

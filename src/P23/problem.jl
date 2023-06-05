@@ -3,7 +3,7 @@ module Problem23
 
 title = "Problem 23: Non-abundant sums"
 published_on = "Friday, 2nd August 2002, 06:00 pm"
-solved_by = 108084
+solved_by = 108213
 difficulty_rating = "5%"
 content = """
 A perfect number is a number for which the sum of its proper divisors is exactly equal to the number. For example, the sum of

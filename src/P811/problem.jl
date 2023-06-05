@@ -3,7 +3,7 @@ module Problem811
 
 title = "Problem 811: Bitwise Recursion"
 published_on = "Saturday, 8th October 2022, 02:00 pm"
-solved_by = 198
+solved_by = 204
 difficulty_rating = "40%"
 content = """
 Let b(n) be the largest power of 2 that divides n. For example b(24) = 8.

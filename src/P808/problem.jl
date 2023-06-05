@@ -3,7 +3,7 @@ module Problem808
 
 title = "Problem 808: Reversible prime squares"
 published_on = "Sunday, 18th September 2022, 05:00 am"
-solved_by = 1572
+solved_by = 1673
 difficulty_rating = "5%"
 content = """
 Both 169 and 961 are the square of a prime. 169 is the reverse of 961.

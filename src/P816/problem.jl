@@ -3,7 +3,7 @@ module Problem816
 
 title = "Problem 816: Shortest distance among points"
 published_on = "Sunday, 13th November 2022, 04:00 am"
-solved_by = 1128
+solved_by = 1231
 difficulty_rating = "5%"
 content = """
 We create an array of points  Pₙ in a two dimensional plane using the following random number generator:

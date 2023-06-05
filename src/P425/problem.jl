@@ -3,7 +3,7 @@ module Problem425
 
 title = "Problem 425: Prime connection"
 published_on = "Saturday, 27th April 2013, 04:00 pm"
-solved_by = 1495
+solved_by = 1504
 difficulty_rating = "25%"
 content = """
 Two positive numbers A and B are said to be connected (denoted by "A ↔ B") if one of these conditions holds:

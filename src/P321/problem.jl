@@ -3,7 +3,7 @@ module Problem321
 
 title = "Problem 321: Swapping Counters"
 published_on = "Sunday, 23rd January 2011, 01:00 am"
-solved_by = 1767
+solved_by = 1776
 difficulty_rating = "30%"
 content = """
 A horizontal row comprising of 2

@@ -3,7 +3,7 @@ module Problem131
 
 title = "Problem 131: Prime cube partnership"
 published_on = "Friday, 10th November 2006, 06:00 pm"
-solved_by = 7614
+solved_by = 7652
 difficulty_rating = "40%"
 content = """
 There are some prime values, p, for which there exists a positive integer, n, such that the expression n³ + n²p is a perfect cube.

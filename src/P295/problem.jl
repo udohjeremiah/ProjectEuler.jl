@@ -3,7 +3,7 @@ module Problem295
 
 title = "Problem 295: Lenticular holes"
 published_on = "Saturday, 5th June 2010, 01:00 pm"
-solved_by = 465
+solved_by = 466
 difficulty_rating = "75%"
 content = """
 We call the convex area enclosed by two circles a 

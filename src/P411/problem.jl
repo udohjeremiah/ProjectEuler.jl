@@ -3,7 +3,7 @@ module Problem411
 
 title = "Problem 411: Uphill paths"
 published_on = "Saturday, 19th January 2013, 10:00 pm"
-solved_by = 661
+solved_by = 670
 difficulty_rating = "45%"
 content = """
 

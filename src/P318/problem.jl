@@ -3,7 +3,7 @@ module Problem318
 
 title = "Problem 318: 2011 nines"
 published_on = "Saturday, 1st January 2011, 04:00 pm"
-solved_by = 959
+solved_by = 965
 difficulty_rating = "50%"
 content = """
 Consider the real number √2 + √3.

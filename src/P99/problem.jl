@@ -3,7 +3,7 @@ module Problem99
 
 title = "Problem 99: Largest exponential"
 published_on = "Friday, 1st July 2005, 06:00 pm"
-solved_by = 31748
+solved_by = 31811
 difficulty_rating = "10%"
 content = """
 Comparing two numbers written in index form like 2¹¹ and 3⁷ is not difficult, as any calculator would confirm that 2¹¹ = 2048 <

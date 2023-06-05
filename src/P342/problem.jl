@@ -3,7 +3,7 @@ module Problem342
 
 title = "Problem 342: The totient of a square is a cube"
 published_on = "Saturday, 11th June 2011, 01:00 pm"
-solved_by = 809
+solved_by = 816
 difficulty_rating = "50%"
 content = """
 Consider the number 50.

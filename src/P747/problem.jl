@@ -3,7 +3,7 @@ module Problem747
 
 title = "Problem 747: Triangular Pizza"
 published_on = "Sunday, 14th February 2021, 10:00 am"
-solved_by = 182
+solved_by = 185
 difficulty_rating = "60%"
 content = """
 Mamma Triangolo baked a triangular pizza. She wants to cut the pizza into n pieces. She first chooses a point P in the interior (not boundary) of the triangle pizza, and then performs n cuts, which all start from P and extend straight to the boundary of the pizza so that the n pieces are all triangles and all have the same area.

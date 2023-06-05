@@ -3,7 +3,7 @@ module Problem608
 
 title = "Problem 608: Divisor Sums"
 published_on = "Saturday, 17th June 2017, 04:00 pm"
-solved_by = 301
+solved_by = 305
 difficulty_rating = "80%"
 content = """
 Let D(m,n)=\\displaystyle\\sum_{d|m}\\sum_{k=1}^n\\sigma_{\\small 0}(kd) where d runs through all divisors of m and \\sigma_{\\small 0}(n) is the number of divisors of n.

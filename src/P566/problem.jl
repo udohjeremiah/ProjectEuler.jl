@@ -3,7 +3,7 @@ module Problem566
 
 title = "Problem 566: Cake Icing Puzzle"
 published_on = "Saturday, 25th June 2016, 01:00 pm"
-solved_by = 169
+solved_by = 170
 difficulty_rating = "100%"
 content = """
 Adam plays the following game with his birthday cake.

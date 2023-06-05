@@ -3,7 +3,7 @@ module Problem824
 
 title = "Problem 824: Chess Sliders"
 published_on = "Sunday, 8th January 2023, 04:00 am"
-solved_by = 82
+solved_by = 85
 difficulty_rating = "85%"
 content = """
 A Slider is a chess piece that can move one square left or right.

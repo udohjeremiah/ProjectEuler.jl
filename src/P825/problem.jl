@@ -3,7 +3,7 @@ module Problem825
 
 title = "Problem 825: Chasing Game"
 published_on = "Sunday, 15th January 2023, 07:00 am"
-solved_by = 119
+solved_by = 127
 difficulty_rating = "60%"
 content = """
 Two cars are on a circular track of total length 2n, facing the same direction, initially distance n apart.

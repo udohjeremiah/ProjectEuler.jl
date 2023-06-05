@@ -3,7 +3,7 @@ module Problem812
 
 title = "Problem 812: Dynamical Polynomials"
 published_on = "Saturday, 15th October 2022, 05:00 pm"
-solved_by = 90
+solved_by = 97
 difficulty_rating = "95%"
 content = """
 A dynamical polynomial is a \e[1;4mmonic\e[0m leading coefficient is 1 polynomial f(x) with integer coefficients such that f(x) divides f(x² - 2).

@@ -3,7 +3,7 @@ module Problem416
 
 title = "Problem 416: A frog's trip"
 published_on = "Saturday, 23rd February 2013, 01:00 pm"
-solved_by = 293
+solved_by = 294
 difficulty_rating = "85%"
 content = """
 A row of n squares contains a frog in the leftmost square. By successive jumps the frog goes to the rightmost square and then

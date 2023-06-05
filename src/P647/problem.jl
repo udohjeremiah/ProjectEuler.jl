@@ -3,7 +3,7 @@ module Problem647
 
 title = "Problem 647: Linear Transformations of Polygonal Numbers"
 published_on = "Sunday, 16th December 2018, 07:00 am"
-solved_by = 429
+solved_by = 439
 difficulty_rating = "30%"
 content = """
 

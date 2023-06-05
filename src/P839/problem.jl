@@ -3,7 +3,7 @@ module Problem839
 
 title = "Problem 839: Beans in Bowls"
 published_on = "Saturday, 15th April 2023, 11:00 pm"
-solved_by = 212
+solved_by = 270
 difficulty_rating = ""
 content = """
 The sequence Sₙ is defined by S₀ = 290797 and Sₙ = Sₙ₋₁² mod 50515093 for n > 0.

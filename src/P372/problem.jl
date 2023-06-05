@@ -3,7 +3,7 @@ module Problem372
 
 title = "Problem 372: Pencils of rays"
 published_on = "Saturday, 18th February 2012, 01:00 pm"
-solved_by = 409
+solved_by = 411
 difficulty_rating = "60%"
 content = """
 

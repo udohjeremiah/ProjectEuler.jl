@@ -3,7 +3,7 @@ module Problem434
 
 title = "Problem 434: Rigid graphs"
 published_on = "Saturday, 29th June 2013, 07:00 pm"
-solved_by = 340
+solved_by = 341
 difficulty_rating = "75%"
 content = """
 Recall that a graph is a collection of vertices and edges connecting the vertices, and that two vertices connected by an edge are called adjacent.

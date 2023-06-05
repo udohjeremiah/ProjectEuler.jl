@@ -3,7 +3,7 @@ module Problem682
 
 title = "Problem 682: 5-Smooth Pairs"
 published_on = "Sunday, 6th October 2019, 10:00 am"
-solved_by = 262
+solved_by = 267
 difficulty_rating = "50%"
 content = """
 5-smooth numbers are numbers whose largest prime factor doesn't exceed 5.

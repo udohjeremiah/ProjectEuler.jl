@@ -3,7 +3,7 @@ module Problem358
 
 title = "Problem 358: Cyclic numbers"
 published_on = "Saturday, 12th November 2011, 07:00 pm"
-solved_by = 1647
+solved_by = 1661
 difficulty_rating = "25%"
 content = """
 A cyclic number with n digits has a very interesting property:

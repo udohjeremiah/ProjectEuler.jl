@@ -3,7 +3,7 @@ module Problem174
 
 title = "Problem 174: Counting the number of \"hollow\" square laminae that can form one, two, three, ... distinct arrangements"
 published_on = "Saturday, 22nd December 2007, 01:00 pm"
-solved_by = 6007
+solved_by = 6025
 difficulty_rating = "40%"
 content = """
 We shall define a square lamina to be a square outline with a square "hole" so that the shape possesses vertical and horizontal

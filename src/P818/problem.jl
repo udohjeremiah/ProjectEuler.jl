@@ -3,7 +3,7 @@ module Problem818
 
 title = "Problem 818: SET"
 published_on = "Sunday, 27th November 2022, 10:00 am"
-solved_by = 106
+solved_by = 111
 difficulty_rating = "85%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem445
 
 title = "Problem 445: Retractions A"
 published_on = "Saturday, 16th November 2013, 10:00 pm"
-solved_by = 383
+solved_by = 384
 difficulty_rating = "50%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem668
 
 title = "Problem 668: Square root smooth Numbers"
 published_on = "Saturday, 4th May 2019, 07:00 pm"
-solved_by = 1031
+solved_by = 1038
 difficulty_rating = "20%"
 content = """
 A positive integer is called square root smooth if all of its prime factors are strictly less than its square root.

@@ -3,7 +3,7 @@ module Problem612
 
 title = "Problem 612: Friend numbers"
 published_on = "Sunday, 22nd October 2017, 01:00 am"
-solved_by = 676
+solved_by = 681
 difficulty_rating = "30%"
 content = """
 Let's call two numbers friend numbers if their representation in base 10 has at least one common digit.

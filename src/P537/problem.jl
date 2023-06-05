@@ -3,7 +3,7 @@ module Problem537
 
 title = "Problem 537: Counting tuples"
 published_on = "Saturday, 5th December 2015, 10:00 pm"
-solved_by = 623
+solved_by = 627
 difficulty_rating = "35%"
 content = """
 

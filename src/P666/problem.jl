@@ -3,7 +3,7 @@ module Problem666
 
 title = "Problem 666: Polymorphic Bacteria"
 published_on = "Saturday, 20th April 2019, 01:00 pm"
-solved_by = 274
+solved_by = 276
 difficulty_rating = "45%"
 content = """
 Members of a species of bacteria occur in two different types: α and β. Individual bacteria are capable of multiplying and

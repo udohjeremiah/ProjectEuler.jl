@@ -3,7 +3,7 @@ module Problem771
 
 title = "Problem 771: Pseudo Geometric Sequences"
 published_on = "Saturday, 6th November 2021, 01:00 pm"
-solved_by = 119
+solved_by = 123
 difficulty_rating = "80%"
 content = """
 We define a pseudo-geometric sequence to be a finite sequence a₀, a₁, …, aₙ of positive integers, satisfying the following

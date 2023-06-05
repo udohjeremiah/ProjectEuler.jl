@@ -3,7 +3,7 @@ module Problem712
 
 title = "Problem 712: Exponent Difference"
 published_on = "Saturday, 18th April 2020, 11:00 pm"
-solved_by = 465
+solved_by = 477
 difficulty_rating = "25%"
 content = """
 

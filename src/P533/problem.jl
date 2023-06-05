@@ -3,7 +3,7 @@ module Problem533
 
 title = "Problem 533: Minimum values of the Carmichael function"
 published_on = "Sunday, 8th November 2015, 10:00 am"
-solved_by = 329
+solved_by = 334
 difficulty_rating = "50%"
 content = """
 The \e[1mCarmichael function\e[0m λ(n) is defined as the smallest positive integer m such that aᵐ = 1 modulo n for all integers a

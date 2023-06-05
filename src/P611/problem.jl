@@ -3,7 +3,7 @@ module Problem611
 
 title = "Problem 611: Hallway of square steps"
 published_on = "Saturday, 7th October 2017, 10:00 pm"
-solved_by = 331
+solved_by = 333
 difficulty_rating = "60%"
 content = """
 Peter moves in a hallway with N+1 doors consecutively numbered from 0 through N. All doors are initially closed. Peter starts in

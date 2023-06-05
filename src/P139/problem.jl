@@ -3,7 +3,7 @@ module Problem139
 
 title = "Problem 139: Pythagorean tiles"
 published_on = "Saturday, 27th January 2007, 09:00 am"
-solved_by = 5841
+solved_by = 5865
 difficulty_rating = "50%"
 content = """
 Let (a, b, c) represent the three sides of a right angle triangle with integral length sides. It is possible to place four such

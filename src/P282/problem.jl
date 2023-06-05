@@ -3,7 +3,7 @@ module Problem282
 
 title = "Problem 282: The Ackermann function"
 published_on = "Friday, 12th March 2010, 05:00 pm"
-solved_by = 1039
+solved_by = 1047
 difficulty_rating = "70%"
 content = """
 

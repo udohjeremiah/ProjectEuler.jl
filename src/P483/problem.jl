@@ -3,7 +3,7 @@ module Problem483
 
 title = "Problem 483: Repeated permutation"
 published_on = "Sunday, 5th October 2014, 10:00 am"
-solved_by = 228
+solved_by = 229
 difficulty_rating = "100%"
 content = """
 We define a permutation as an operation that rearranges the order of the elements {1, 2, 3, ..., n}. There are n! such

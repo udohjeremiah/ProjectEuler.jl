@@ -3,7 +3,7 @@ module Problem220
 
 title = "Problem 220: Heighway Dragon"
 published_on = "Saturday, 6th December 2008, 09:00 am"
-solved_by = 2225
+solved_by = 2236
 difficulty_rating = "55%"
 content = """
 Let 

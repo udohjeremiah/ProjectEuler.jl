@@ -3,7 +3,7 @@ module Problem560
 
 title = "Problem 560: Coprime Nim"
 published_on = "Saturday, 14th May 2016, 07:00 pm"
-solved_by = 314
+solved_by = 317
 difficulty_rating = "75%"
 content = """
 Coprime Nim is just like ordinary normal play Nim, but the players may only remove a number of stones from a pile  that is 

@@ -3,7 +3,7 @@ module Problem148
 
 title = "Problem 148: Exploring Pascal's triangle"
 published_on = "Saturday, 7th April 2007, 02:00 am"
-solved_by = 5306
+solved_by = 5334
 difficulty_rating = "50%"
 content = """
 We can easily verify that none of the entries in the first seven rows of Pascal's triangle are divisible by 7:

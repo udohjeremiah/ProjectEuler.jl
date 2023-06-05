@@ -3,7 +3,7 @@ module Problem628
 
 title = "Problem 628: Open chess positions"
 published_on = "Sunday, 3rd June 2018, 01:00 am"
-solved_by = 788
+solved_by = 796
 difficulty_rating = "30%"
 content = """
 

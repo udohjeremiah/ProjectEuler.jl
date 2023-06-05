@@ -141,6 +141,9 @@ Problem 781
 Problem 786
 Problem 807
 Problem 837
+Problem 841
+Problem 842
+Problem 846
 
 #======================================================================================================#
 # Due to the REPL's inability to render complex mathematical equations, these problems were not edited #                                                                          #
@@ -319,3 +322,4 @@ Problem 833
 Problem 834
 Problem 835
 Problem 840
+Problem 844

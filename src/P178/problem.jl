@@ -3,7 +3,7 @@ module Problem178
 
 title = "Problem 178: Step Numbers"
 published_on = "Saturday, 19th January 2008, 01:00 am"
-solved_by = 3503
+solved_by = 3516
 difficulty_rating = "55%"
 content = """
 Consider the number 45656. 

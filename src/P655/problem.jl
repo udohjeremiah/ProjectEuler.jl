@@ -3,7 +3,7 @@ module Problem655
 
 title = "Problem 655: Divisible Palindromes"
 published_on = "Sunday, 10th February 2019, 07:00 am"
-solved_by = 514
+solved_by = 524
 difficulty_rating = "30%"
 content = """
 The numbers 545, 5 995 and 15 151 are the three smallest \e[1mpalindromes\e[0m divisible by 109. There are nine palindromes less

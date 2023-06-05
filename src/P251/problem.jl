@@ -3,7 +3,7 @@ module Problem251
 
 title = "Problem 251: Cardano Triplets"
 published_on = "Saturday, 20th June 2009, 09:00 am"
-solved_by = 1419
+solved_by = 1424
 difficulty_rating = "70%"
 content = """
 

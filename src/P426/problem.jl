@@ -3,7 +3,7 @@ module Problem426
 
 title = "Problem 426: Box-ball system"
 published_on = "Saturday, 4th May 2013, 07:00 pm"
-solved_by = 254
+solved_by = 255
 difficulty_rating = "75%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem545
 
 title = "Problem 545: Faulhaber's Formulas"
 published_on = "Saturday, 30th January 2016, 10:00 pm"
-solved_by = 531
+solved_by = 535
 difficulty_rating = "35%"
 content = """
 The sum of the 

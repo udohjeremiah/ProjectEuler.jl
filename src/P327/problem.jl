@@ -3,7 +3,7 @@ module Problem327
 
 title = "Problem 327: Rooms of Doom"
 published_on = "Saturday, 5th March 2011, 07:00 pm"
-solved_by = 1153
+solved_by = 1160
 difficulty_rating = "40%"
 content = """
 A series of three rooms are connected to each other by automatic doors.

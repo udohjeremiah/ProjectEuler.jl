@@ -3,7 +3,7 @@ module Problem720
 
 title = "Problem 720: Unpredictable Permutations"
 published_on = "Saturday, 13th June 2020, 11:00 pm"
-solved_by = 289
+solved_by = 293
 difficulty_rating = "35%"
 content = """
 Consider all permutations of {1, 2, … N}, listed in lexicographic order.

@@ -3,7 +3,7 @@ module Problem152
 
 title = "Problem 152: Writing 1/2 as a sum of inverse squares"
 published_on = "Friday, 27th April 2007, 02:00 pm"
-solved_by = 2766
+solved_by = 2785
 difficulty_rating = "65%"
 content = """
 There are several ways to write the number 1/2 as a sum of inverse squares using 

@@ -3,7 +3,7 @@ module Problem798
 
 title = "Problem 798: Card Stacking Game"
 published_on = "Saturday, 14th May 2022, 11:00 pm"
-solved_by = 99
+solved_by = 103
 difficulty_rating = "100%"
 content = """
 Two players play a game with a deck of cards which contains s suits with each suit containing n cards numbered from 1 to n.

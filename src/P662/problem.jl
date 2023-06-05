@@ -3,7 +3,7 @@ module Problem662
 
 title = "Problem 662: Fibonacci paths"
 published_on = "Sunday, 24th March 2019, 01:00 am"
-solved_by = 782
+solved_by = 790
 difficulty_rating = "25%"
 content = """
 

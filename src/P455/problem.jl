@@ -3,7 +3,7 @@ module Problem455
 
 title = "Problem 455: Powers With Trailing Digits"
 published_on = "Saturday, 18th January 2014, 10:00 pm"
-solved_by = 724
+solved_by = 727
 difficulty_rating = "40%"
 content = """
 Let f(n) be the largest positive integer x less than 10⁹ such that the last 9 digits of nˣ form the number x (including leading

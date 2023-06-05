@@ -3,7 +3,7 @@ module Problem546
 
 title = "Problem 546: The Floor's Revenge"
 published_on = "Sunday, 7th February 2016, 01:00 am"
-solved_by = 230
+solved_by = 232
 difficulty_rating = "85%"
 content = """
 Define 

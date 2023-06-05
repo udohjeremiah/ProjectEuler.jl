@@ -3,7 +3,7 @@ module Problem737
 
 title = "Problem 737: Coin Loops"
 published_on = "Sunday, 6th December 2020, 04:00 am"
-solved_by = 330
+solved_by = 336
 difficulty_rating = "30%"
 content = """
 

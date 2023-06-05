@@ -3,7 +3,7 @@ module Problem143
 
 title = "Problem 143: Investigating the Torricelli point of a triangle"
 published_on = "Friday, 2nd March 2007, 09:00 pm"
-solved_by = 2853
+solved_by = 2864
 difficulty_rating = "65%"
 content = """
 Let ABC be a triangle with all interior angles being less than 120 degrees. Let X be any point inside the triangle and let XA = p, XC = q, and XB = r.

@@ -3,7 +3,7 @@ module Problem792
 
 title = "Problem 792: Too Many Twos"
 published_on = "Sunday, 3rd April 2022, 05:00 am"
-solved_by = 105
+solved_by = 111
 difficulty_rating = "100%"
 content = """
 We define \\nu_2(n) to be the largest integer r such that 2^r divides n. For example, \\nu_2(24) = 3.

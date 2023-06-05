@@ -3,7 +3,7 @@ module Problem163
 
 title = "Problem 163: Cross-hatched triangles"
 published_on = "Saturday, 13th October 2007, 02:00 am"
-solved_by = 1877
+solved_by = 1890
 difficulty_rating = "70%"
 content = """
 Consider an equilateral triangle in which straight lines are drawn from each vertex to the middle of the opposite side, such as in the 

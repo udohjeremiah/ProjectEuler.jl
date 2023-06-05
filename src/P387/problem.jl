@@ -3,7 +3,7 @@ module Problem387
 
 title = "Problem 387: Harshad Numbers"
 published_on = "Sunday, 3rd June 2012, 11:00 am"
-solved_by = 4792
+solved_by = 4818
 difficulty_rating = "10%"
 content = """
 A \e[1mHarshad or Niven number\e[0m is a number that is divisible by the sum of its digits.

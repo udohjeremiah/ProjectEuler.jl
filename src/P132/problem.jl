@@ -3,7 +3,7 @@ module Problem132
 
 title = "Problem 132: Large repunit factors"
 published_on = "Friday, 1st December 2006, 06:00 pm"
-solved_by = 6566
+solved_by = 6593
 difficulty_rating = "45%"
 content = """
 A number consisting entirely of ones is called a repunit. We shall define R(k) to be a repunit of length k.
