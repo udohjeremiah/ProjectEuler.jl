@@ -3,7 +3,7 @@ module Problem572
 
 title = "Problem 572: Idempotent matrices"
 published_on = "Sunday, 2nd October 2016, 04:00 am"
-solved_by = 335
+solved_by = 338
 difficulty_rating = "50%"
 content = """
 A matrix M is called idempotent if M² = M.

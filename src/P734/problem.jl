@@ -3,7 +3,7 @@ module Problem734
 
 title = "Problem 734: A bit of prime"
 published_on = "Saturday, 14th November 2020, 07:00 pm"
-solved_by = 305
+solved_by = 309
 difficulty_rating = "35%"
 content = """
 The logical-OR of two bits is 0 if both bits are 0, otherwise it is 1.

@@ -3,7 +3,7 @@ module Problem457
 
 title = "Problem 457: A polynomial modulo the square of a prime"
 published_on = "Sunday, 2nd February 2014, 04:00 am"
-solved_by = 806
+solved_by = 813
 difficulty_rating = "35%"
 content = """
 Let f(n) = n² - 3n - 1.

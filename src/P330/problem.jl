@@ -3,7 +3,7 @@ module Problem330
 
 title = "Problem 330: Euler's Number"
 published_on = "Sunday, 27th March 2011, 05:00 am"
-solved_by = 539
+solved_by = 543
 difficulty_rating = "70%"
 content = """
 

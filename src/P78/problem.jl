@@ -3,7 +3,7 @@ module Problem78
 
 title = "Problem 78: Coin partitions"
 published_on = "Friday, 10th September 2004, 06:00 pm"
-solved_by = 17728
+solved_by = 17781
 difficulty_rating = "30%"
 content = """
 Let p(n) represent the number of different ways in which n coins can be separated into piles. For example, five coins can be

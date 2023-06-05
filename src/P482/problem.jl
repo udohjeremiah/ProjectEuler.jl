@@ -3,7 +3,7 @@ module Problem482
 
 title = "Problem 482: The incenter of a triangle"
 published_on = "Sunday, 28th September 2014, 07:00 am"
-solved_by = 217
+solved_by = 218
 difficulty_rating = "85%"
 content = """
 ABC is an integer sided triangle with incenter I and perimeter p.

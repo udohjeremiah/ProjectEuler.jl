@@ -3,7 +3,7 @@ module Problem673
 
 title = "Problem 673: Beds and Desks"
 published_on = "Sunday, 2nd June 2019, 07:00 am"
-solved_by = 313
+solved_by = 314
 difficulty_rating = "35%"
 content = """
 At Euler University, each of the n students (numbered from 1 to n) occupies a bed in the dormitory and uses a desk in the

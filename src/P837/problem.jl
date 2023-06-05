@@ -3,7 +3,7 @@ module Problem837
 
 title = "Problem 837: Amidakuji"
 published_on = "Saturday, 1st April 2023, 05:00 pm"
-solved_by = 134
+solved_by = 163
 difficulty_rating = ""
 content = """
 Amidakuji

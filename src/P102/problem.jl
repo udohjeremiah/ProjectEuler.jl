@@ -3,7 +3,7 @@ module Problem102
 
 title = "Problem 102: Triangle containment"
 published_on = "Friday, 12th August 2005, 06:00 pm"
-solved_by = 22796
+solved_by = 22843
 difficulty_rating = "15%"
 content = """
 Three distinct points are plotted at random on a Cartesian plane, for which -1000 ≤ x, y ≤ 1000, such that a triangle is formed.

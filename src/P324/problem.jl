@@ -3,7 +3,7 @@ module Problem324
 
 title = "Problem 324: Building a tower"
 published_on = "Sunday, 13th February 2011, 10:00 am"
-solved_by = 720
+solved_by = 726
 difficulty_rating = "50%"
 content = """
 Let f(n) represent the number of ways one can fill a 3×3×n tower with blocks of 2×1×1. 

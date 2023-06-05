@@ -3,7 +3,7 @@ module Problem441
 
 title = "Problem 441: The inverse summation of coprime couples"
 published_on = "Sunday, 20th October 2013, 10:00 am"
-solved_by = 359
+solved_by = 360
 difficulty_rating = "65%"
 content = """
 For an integer M, we define R(M) as the sum of 1/(p·q) for all the integer pairs p and q which satisfy all of these conditions:

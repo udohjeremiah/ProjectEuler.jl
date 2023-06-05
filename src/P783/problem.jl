@@ -3,7 +3,7 @@ module Problem783
 
 title = "Problem 783: Urns"
 published_on = "Sunday, 30th January 2022, 01:00 am"
-solved_by = 183
+solved_by = 185
 difficulty_rating = "50%"
 content = """
 

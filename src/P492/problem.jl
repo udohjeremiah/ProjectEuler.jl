@@ -3,7 +3,7 @@ module Problem492
 
 title = "Problem 492: Exploding sequence"
 published_on = "Saturday, 6th December 2014, 01:00 pm"
-solved_by = 358
+solved_by = 361
 difficulty_rating = "60%"
 content = """
 Define the sequence a₁, a₂, a₃, ... as:

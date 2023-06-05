@@ -3,7 +3,7 @@ module Problem405
 
 title = "Problem 405 A: rectangular tiling"
 published_on = "Sunday, 9th December 2012, 04:00 am"
-solved_by = 618
+solved_by = 622
 difficulty_rating = "40%"
 content = """
 

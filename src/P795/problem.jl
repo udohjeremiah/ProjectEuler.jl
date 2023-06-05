@@ -3,7 +3,7 @@ module Problem795
 
 title = "Problem 795: Alternating GCD Sum"
 published_on = "Saturday, 23rd April 2022, 02:00 pm"
-solved_by = 287
+solved_by = 302
 difficulty_rating = "30%"
 content = """
 

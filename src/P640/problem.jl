@@ -3,7 +3,7 @@ module Problem640
 
 title = "Problem 640: Shut the Box"
 published_on = "Sunday, 28th October 2018, 10:00 am"
-solved_by = 341
+solved_by = 347
 difficulty_rating = "50%"
 content = """
 Bob plays a single-player game of chance using two standard 6-sided dice and twelve cards numbered 1 to 12. When the

@@ -3,7 +3,7 @@ module Problem140
 
 title = "Problem 140: Modified Fibonacci golden nuggets"
 published_on = "Saturday, 3rd February 2007, 07:00 am"
-solved_by = 4493
+solved_by = 4518
 difficulty_rating = "55%"
 content = """
 Consider the infinite polynomial series A_G(x) = x G_1 + x^2 G_2 + x^3 G_3 + \\cdots, where G_k is the kth term of the second order recurrence relation G_k = G_{k-1} + G_{k-2}, G_1 = 1 and G_2 = 4; that is, 1, 4, 5, 9, 14, 23, \\dots .

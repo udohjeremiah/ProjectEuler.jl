@@ -3,7 +3,7 @@ module Problem485
 
 title = "Problem 485: Maximum number of divisors"
 published_on = "Saturday, 18th October 2014, 04:00 pm"
-solved_by = 1174
+solved_by = 1181
 difficulty_rating = "30%"
 content = """
 Let d(n) be the number of divisors of n.

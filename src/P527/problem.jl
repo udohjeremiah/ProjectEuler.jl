@@ -3,7 +3,7 @@ module Problem527
 
 title = "Problem 527: Randomized Binary Search"
 published_on = "Saturday, 26th September 2015, 04:00 pm"
-solved_by = 743
+solved_by = 747
 difficulty_rating = "30%"
 content = """
 A secret integer t is selected at random within the range 1 ≤ t ≤ n.

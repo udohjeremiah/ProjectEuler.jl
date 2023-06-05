@@ -3,7 +3,7 @@ module Problem162
 
 title = "Problem 162: Hexadecimal numbers"
 published_on = "Friday, 5th October 2007, 10:00 pm"
-solved_by = 5520
+solved_by = 5528
 difficulty_rating = "45%"
 content = """
 In  the hexadecimal number system numbers are represented using 16 different digits:

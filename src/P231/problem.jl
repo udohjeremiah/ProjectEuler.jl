@@ -3,7 +3,7 @@ module Problem231
 
 title = "Problem 231: The prime factorisation of binomial coefficients"
 published_on = "Friday, 6th February 2009, 01:00 pm"
-solved_by = 5565
+solved_by = 5581
 difficulty_rating = "40%"
 content = """
 The binomial coefficient \\displaystyle \\binom {10} 3 = 120.

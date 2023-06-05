@@ -3,7 +3,7 @@ module Problem685
 
 title = "Problem 685: Inverse Digit Sum II"
 published_on = "Saturday, 19th October 2019, 04:00 pm"
-solved_by = 192
+solved_by = 195
 difficulty_rating = "65%"
 content = """
 Writing down the numbers which have a digit sum of 10 in ascending order, we get:

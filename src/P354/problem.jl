@@ -3,7 +3,7 @@ module Problem354
 
 title = "Problem 354: Distances in a bee's honeycomb"
 published_on = "Sunday, 16th October 2011, 07:00 am"
-solved_by = 450
+solved_by = 453
 difficulty_rating = "65%"
 content = """
 Consider a honey bee's honeycomb where each cell is a perfect regular hexagon with side length 1.

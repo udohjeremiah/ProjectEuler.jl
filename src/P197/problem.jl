@@ -3,7 +3,7 @@ module Problem197
 
 title = "Problem 197: Investigating the behaviour of a recursively defined sequence"
 published_on = "Friday, 6th June 2008, 10:00 pm"
-solved_by = 5018
+solved_by = 5030
 difficulty_rating = "45%"
 content = """
 Given is the function f(x) = ⌊2³⁰.⁴⁰³²⁴³⁷⁸⁴⁻ˣ²⌋ × 10⁻⁹ ( ⌊ ⌋ is the floor-function),

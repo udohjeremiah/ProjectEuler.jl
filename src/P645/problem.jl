@@ -3,7 +3,7 @@ module Problem645
 
 title = "Problem 645: Every Day is a Holiday"
 published_on = "Sunday, 2nd December 2018, 01:00 am"
-solved_by = 210
+solved_by = 215
 difficulty_rating = "75%"
 content = """
 On planet J, a year lasts for D days. Holidays are defined by the two following rules.

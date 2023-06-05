@@ -3,7 +3,7 @@ module Problem195
 
 title = "Problem 195: Inscribed circles of triangles with one angle of 60 degrees"
 published_on = "Friday, 23rd May 2008, 02:00 pm"
-solved_by = 1432
+solved_by = 1437
 difficulty_rating = "75%"
 content = """
 Let's call an integer sided triangle with exactly one angle of 60 degrees a 60-degree triangle.

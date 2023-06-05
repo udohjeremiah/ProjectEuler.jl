@@ -3,7 +3,7 @@ module Problem456
 
 title = "Problem 456: Triangles containing the origin II"
 published_on = "Sunday, 26th January 2014, 01:00 am"
-solved_by = 402
+solved_by = 404
 difficulty_rating = "55%"
 content = """
 Define:

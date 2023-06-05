@@ -3,7 +3,7 @@ module Problem114
 
 title = "Problem 114: Counting block combinations I"
 published_on = "Friday, 17th February 2006, 06:00 pm"
-solved_by = 11239
+solved_by = 11266
 difficulty_rating = "35%"
 content = """
 A row measuring seven units in length has red blocks with a minimum length of three units placed on it, such that any two red

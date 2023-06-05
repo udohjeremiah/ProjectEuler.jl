@@ -3,7 +3,7 @@ module Problem422
 
 title = "Problem 422: Sequence of points on a hyperbola"
 published_on = "Sunday, 7th April 2013, 07:00 am"
-solved_by = 277
+solved_by = 278
 difficulty_rating = "75%"
 content = """
 Let H be the hyperbola defined by the equation 12

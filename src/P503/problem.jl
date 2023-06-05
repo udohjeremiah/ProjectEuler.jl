@@ -3,7 +3,7 @@ module Problem503
 
 title = "Problem 503: Compromise or persist"
 published_on = "Saturday, 14th February 2015, 07:00 pm"
-solved_by = 319
+solved_by = 324
 difficulty_rating = "60%"
 content = """
 Alice is playing a game with n cards numbered 1 to n.

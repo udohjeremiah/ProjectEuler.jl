@@ -3,7 +3,7 @@ module Problem371
 
 title = "Problem 371: Licence plates"
 published_on = "Sunday, 12th February 2012, 10:00 am"
-solved_by = 1651
+solved_by = 1663
 difficulty_rating = "30%"
 content = """
 Oregon licence plates consist of three letters followed by a three digit number (each digit can be from [0..9]).

@@ -3,7 +3,7 @@ module Problem701
 
 title = "Problem 701: Random connected area"
 published_on = "Saturday, 8th February 2020, 04:00 pm"
-solved_by = 327
+solved_by = 332
 difficulty_rating = "40%"
 content = """
 Consider a rectangle made up of W × H square cells each with area 1.

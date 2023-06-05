@@ -3,7 +3,7 @@ module Problem574
 
 title = "Problem 574: Verifying Primes"
 published_on = "Sunday, 16th October 2016, 10:00 am"
-solved_by = 265
+solved_by = 267
 difficulty_rating = "50%"
 content = """
 Let q be a prime and A ≥ B >0 be two integers with the following properties:

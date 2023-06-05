@@ -3,7 +3,7 @@ module Problem51
 
 title = "Problem 51: Prime digit replacements"
 published_on = "Friday, 29th August 2003, 06:00 pm"
-solved_by = 35591
+solved_by = 35677
 difficulty_rating = "15%"
 content = """
 By replacing the 1ˢᵗ digit of the 2-digit number *3, it turns out that six of the nine possible values: 13, 23, 43, 53, 73, and 83, are

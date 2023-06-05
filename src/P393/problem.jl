@@ -3,7 +3,7 @@ module Problem393
 
 title = "Problem 393: Migrating ants"
 published_on = "Saturday, 8th September 2012, 05:00 pm"
-solved_by = 784
+solved_by = 789
 difficulty_rating = "50%"
 content = """
 An n×n grid of squares contains n² ants, one ant per square.

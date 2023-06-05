@@ -3,7 +3,7 @@ module Problem495
 
 title = "Problem 495: Writing n as the product of k distinct positive integers"
 published_on = "Saturday, 27th December 2014, 10:00 pm"
-solved_by = 293
+solved_by = 295
 difficulty_rating = "100%"
 content = """
 Let W(n,k) be the number of ways in which n can be written as the product of k distinct positive integers.

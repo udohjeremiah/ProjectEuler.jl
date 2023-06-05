@@ -3,7 +3,7 @@ module Problem763
 
 title = "Problem 763: Amoebas in a 3D grid"
 published_on = "Saturday, 4th September 2021, 02:00 pm"
-solved_by = 71
+solved_by = 75
 difficulty_rating = "100%"
 content = """
 Consider a three dimensional grid of cubes. An amoeba in cube (x, y, z) can divide itself into three amoebas to occupy the

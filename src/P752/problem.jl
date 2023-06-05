@@ -3,7 +3,7 @@ module Problem752
 
 title = "Problem 752: Powers of 1+\\sqrt 7"
 published_on = "Sunday, 21st March 2021, 01:00 am"
-solved_by = 577
+solved_by = 587
 difficulty_rating = "25%"
 content = """
 

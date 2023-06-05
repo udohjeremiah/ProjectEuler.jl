@@ -3,7 +3,7 @@ module Problem466
 
 title = "Problem 466: Distinct terms in a multiplication table"
 published_on = "Sunday, 6th April 2014, 07:00 am"
-solved_by = 315
+solved_by = 316
 difficulty_rating = "65%"
 content = """
 Let P(m,n) be the number of distinct terms in an m×n multiplication table.

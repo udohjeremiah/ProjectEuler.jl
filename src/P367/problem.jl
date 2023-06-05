@@ -3,7 +3,7 @@ module Problem367
 
 title = "Problem 367: Bozo sort"
 published_on = "Saturday, 14th January 2012, 10:00 pm"
-solved_by = 525
+solved_by = 529
 difficulty_rating = "55%"
 content = """
 \e[1mBozo sort,\e[0m not to be confused with the slightly less efficient \e[1mbogo sort,\e[0m consists out of checking if the input sequence is sorted

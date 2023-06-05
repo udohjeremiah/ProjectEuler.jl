@@ -3,7 +3,7 @@ module Problem598
 
 title = "Problem 598: Split Divisibilities"
 published_on = "Sunday, 9th April 2017, 10:00 am"
-solved_by = 485
+solved_by = 487
 difficulty_rating = "40%"
 content = """
 Consider the number 48.

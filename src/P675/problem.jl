@@ -3,7 +3,7 @@ module Problem675
 
 title = "Problem 675: 2^{\\omega(n)}"
 published_on = "Saturday, 15th June 2019, 01:00 pm"
-solved_by = 718
+solved_by = 731
 difficulty_rating = "25%"
 content = """
 

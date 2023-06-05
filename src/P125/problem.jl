@@ -3,7 +3,7 @@ module Problem125
 
 title = "Problem 125: Palindromic sums"
 published_on = "Friday, 4th August 2006, 06:00 pm"
-solved_by = 14005
+solved_by = 14044
 difficulty_rating = "25%"
 content = """
 The palindromic number 595 is interesting because it can be written as the sum of consecutive squares: 6² + 7² + 8² + 9² +

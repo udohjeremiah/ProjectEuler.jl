@@ -3,7 +3,7 @@ module Problem160
 
 title = "Problem 160: Factorial trailing digits"
 published_on = "Friday, 7th September 2007, 02:00 pm"
-solved_by = 3611
+solved_by = 3627
 difficulty_rating = "60%"
 content = """
 For any N, let f(N) be the last five digits before the trailing zeroes in N!.

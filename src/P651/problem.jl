@@ -3,7 +3,7 @@ module Problem651
 
 title = "Problem 651: Patterned Cylinders"
 published_on = "Saturday, 12th January 2019, 07:00 pm"
-solved_by = 167
+solved_by = 170
 difficulty_rating = "70%"
 content = """
 An infinitely long cylinder has its curved surface fully covered with different coloured but otherwise identical rectangular stickers,

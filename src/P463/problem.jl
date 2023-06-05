@@ -3,7 +3,7 @@ module Problem463
 
 title = "Problem 463: A weird recurrence relation"
 published_on = "Saturday, 15th March 2014, 10:00 pm"
-solved_by = 1108
+solved_by = 1115
 difficulty_rating = "35%"
 content = """
 The function f is defined for all positive integers as follows:

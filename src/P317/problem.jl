@@ -3,7 +3,7 @@ module Problem317
 
 title = "Problem 317: Firecracker"
 published_on = "Saturday, 1st January 2011, 04:00 pm"
-solved_by = 2729
+solved_by = 2742
 difficulty_rating = "35%"
 content = """
 A firecracker explodes at a height of 100 m above level ground. It breaks into a large number of very small fragments, which

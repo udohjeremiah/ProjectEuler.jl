@@ -3,7 +3,7 @@ module Problem37
 
 title = "Problem 37: Truncatable primes"
 published_on = "Friday, 14th February 2003, 06:00 pm"
-solved_by = 76391
+solved_by = 76515
 difficulty_rating = "5%"
 content = """
 The number 3797 has an interesting property. Being prime itself, it is possible to continuously remove digits from left to right,

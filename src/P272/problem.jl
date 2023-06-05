@@ -3,7 +3,7 @@ module Problem272
 
 title = "Problem 272: Modular Cubes, part 2"
 published_on = "Saturday, 2nd January 2010, 05:00 am"
-solved_by = 1000
+solved_by = 1007
 difficulty_rating = "80%"
 content = """
 For a positive number n, define C(n) as the number of the integers x, for which 1<x<n and

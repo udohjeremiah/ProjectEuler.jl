@@ -3,7 +3,7 @@ module Problem828
 
 title = "Problem 828: Numbers Challenge"
 published_on = "Saturday, 4th February 2023, 04:00 pm"
-solved_by = 397
+solved_by = 451
 difficulty_rating = "15%"
 content = """
 It is a common recreational problem to make a target number using a selection of other numbers. In this problem you will be given six numbers and a target number.

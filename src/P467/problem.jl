@@ -3,7 +3,7 @@ module Problem467
 
 title = "Problem 467: Superinteger"
 published_on = "Sunday, 13th April 2014, 10:00 am"
-solved_by = 442
+solved_by = 444
 difficulty_rating = "50%"
 content = """
 An integer s is called a  superinteger of another integer n if the digits of n form a subsequence of the digits of s.

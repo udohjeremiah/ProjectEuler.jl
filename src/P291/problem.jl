@@ -3,7 +3,7 @@ module Problem291
 
 title = "Problem 291: Panaitopol Primes"
 published_on = "Friday, 7th May 2010, 09:00 pm"
-solved_by = 1477
+solved_by = 1484
 difficulty_rating = "45%"
 content = """
 

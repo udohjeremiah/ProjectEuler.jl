@@ -3,7 +3,7 @@ module Problem507
 
 title = "Problem 507: Shortest Lattice Vector"
 published_on = "Sunday, 15th March 2015, 07:00 am"
-solved_by = 217
+solved_by = 218
 difficulty_rating = "90%"
 content = """
 Let tₙ be the tribonacci numbers defined as:

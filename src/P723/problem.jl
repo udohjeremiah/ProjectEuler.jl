@@ -3,7 +3,7 @@ module Problem723
 
 title = "Problem 723: Pythagorean Quadrilaterals"
 published_on = "Sunday, 5th July 2020, 08:00 am"
-solved_by = 174
+solved_by = 177
 difficulty_rating = "65%"
 content = """
 A pythagorean triangle with catheti a and b and hypotenuse c is characterized by the well-known equation a^2+b^2=c^2. However, this can also be formulated differently:

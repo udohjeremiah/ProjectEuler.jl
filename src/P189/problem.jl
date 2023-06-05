@@ -3,7 +3,7 @@ module Problem189
 
 title = "Problem 189: Tri-colouring a triangular grid"
 published_on = "Friday, 11th April 2008, 05:00 pm"
-solved_by = 2113
+solved_by = 2121
 difficulty_rating = "70%"
 content = """
 Consider the following configuration of 64 triangles:

@@ -3,7 +3,7 @@ module Problem823
 
 title = "Problem 823: Factor Shuffle"
 published_on = "Sunday, 1st January 2023, 01:00 am"
-solved_by = 155
+solved_by = 162
 difficulty_rating = "50%"
 content = """
 A list initially contains the numbers 2, 3, \\dots, n.

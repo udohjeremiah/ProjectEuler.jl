@@ -3,7 +3,7 @@ module Problem363
 
 title = "Problem 363: Bézier Curves"
 published_on = "Sunday, 18th December 2011, 10:00 am"
-solved_by = 1141
+solved_by = 1146
 difficulty_rating = "35%"
 content = """
 A cubic Bézier curve is defined by four points: P_0, P_1, P_2, and P_3.

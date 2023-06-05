@@ -3,7 +3,7 @@ module Problem830
 
 title = "Problem 830: Binomials and Powers"
 published_on = "Saturday, 18th February 2023, 10:00 pm"
-solved_by = 98
+solved_by = 109
 difficulty_rating = "75%"
 content = """
 

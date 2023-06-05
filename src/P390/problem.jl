@@ -3,7 +3,7 @@ module Problem390
 
 title = "Problem 390: Triangles with non rational sides and integral area"
 published_on = "Saturday, 23rd June 2012, 08:00 pm"
-solved_by = 575
+solved_by = 577
 difficulty_rating = "60%"
 content = """
 Consider the triangle with sides \\sqrt 5, \\sqrt {65} and \\sqrt {68}.

@@ -3,7 +3,7 @@ module Problem760
 
 title = "Problem 760: Sum over Bitwise Operators"
 published_on = "Sunday, 27th June 2021, 02:00 am"
-solved_by = 382
+solved_by = 388
 difficulty_rating = "35%"
 content = """
 Define

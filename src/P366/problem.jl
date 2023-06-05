@@ -3,7 +3,7 @@ module Problem366
 
 title = "Problem 366: Stone Game III"
 published_on = "Saturday, 7th January 2012, 07:00 pm"
-solved_by = 691
+solved_by = 695
 difficulty_rating = "40%"
 content = """
 Two players, Anton and Bernhard, are playing the following game.

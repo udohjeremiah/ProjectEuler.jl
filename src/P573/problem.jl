@@ -3,7 +3,7 @@ module Problem573
 
 title = "Problem 573: Unfair race"
 published_on = "Sunday, 9th October 2016, 07:00 am"
-solved_by = 205
+solved_by = 206
 difficulty_rating = "80%"
 content = """
 n runners in very different training states want to compete in a race. Each one of them is given a different starting number k (1\\leq k \\leq n) according to the runner's (constant) individual racing speed being v_k=\\frac{k}{n}.

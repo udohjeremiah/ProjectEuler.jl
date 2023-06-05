@@ -3,7 +3,7 @@ module Problem42
 
 title = "Problem 42: Coded triangle numbers"
 published_on = "Friday, 25th April 2003, 06:00 pm"
-solved_by = 77100
+solved_by = 77205
 difficulty_rating = "5%"
 content = """
 The nᵗʰ term of the sequence of triangle numbers is given by, tₙ = ½n(n+1); so the first ten triangle numbers are:

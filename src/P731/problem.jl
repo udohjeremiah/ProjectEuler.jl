@@ -3,7 +3,7 @@ module Problem731
 
 title = "Problem 731: A Stoneham Number"
 published_on = "Sunday, 25th October 2020, 10:00 am"
-solved_by = 505
+solved_by = 513
 difficulty_rating = "20%"
 content = """
 

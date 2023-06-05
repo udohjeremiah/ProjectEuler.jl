@@ -3,7 +3,7 @@ module Problem414
 
 title = "Problem 414: Kaprekar constant"
 published_on = "Sunday, 10th February 2013, 07:00 am"
-solved_by = 284
+solved_by = 286
 difficulty_rating = "60%"
 content = """
 6174 is a remarkable number; if we sort its digits in increasing order and subtract that number from the number you get when

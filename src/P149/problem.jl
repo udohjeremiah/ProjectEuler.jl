@@ -3,7 +3,7 @@ module Problem149
 
 title = "Problem 149: Searching for a maximum-sum subsequence"
 published_on = "Friday, 13th April 2007, 10:00 pm"
-solved_by = 4988
+solved_by = 5008
 difficulty_rating = "50%"
 content = """
 Looking at the table below, it is easy to verify that the maximum possible sum of adjacent numbers in any direction (horizontal,

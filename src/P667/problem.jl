@@ -3,7 +3,7 @@ module Problem667
 
 title = "Problem 667: Moving Pentagon"
 published_on = "Saturday, 27th April 2019, 04:00 pm"
-solved_by = 200
+solved_by = 202
 difficulty_rating = "80%"
 content = """
 

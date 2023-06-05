@@ -3,7 +3,7 @@ module Problem83
 
 title = "Problem 83: Path sum: four ways"
 published_on = "Friday, 19th November 2004, 06:00 pm"
-solved_by = 18969
+solved_by = 19026
 difficulty_rating = "25%"
 content = """
 NOTE: This problem is a more challenging version of \e[1;35mProblem 81\e[0m.

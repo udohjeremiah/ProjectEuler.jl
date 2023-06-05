@@ -3,7 +3,7 @@ module Problem261
 
 title = "Problem 261: Pivotal Square Sums"
 published_on = "Friday, 23rd October 2009, 05:00 pm"
-solved_by = 707
+solved_by = 713
 difficulty_rating = "85%"
 content = """
 Let us call a positive integer k a square-pivot, if there is a pair of integers m > 0 and n ≥ k, such that the sum of the (m+1)

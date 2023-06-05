@@ -3,7 +3,7 @@ module Problem263
 
 title = "Problem 263: An engineers' dream come true"
 published_on = "Saturday, 7th November 2009, 01:00 am"
-solved_by = 1065
+solved_by = 1068
 difficulty_rating = "75%"
 content = """
 Consider the number 6. The divisors of 6 are: 1,2,3 and 6.

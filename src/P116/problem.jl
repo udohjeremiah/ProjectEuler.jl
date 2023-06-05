@@ -3,7 +3,7 @@ module Problem116
 
 title = "Problem 116: Red, green or blue tiles"
 published_on = "Friday, 3rd March 2006, 06:00 pm"
-solved_by = 12559
+solved_by = 12595
 difficulty_rating = "30%"
 content = """
 A row of five grey square tiles is to have a number of its tiles replaced with coloured oblong tiles chosen from red (length two),

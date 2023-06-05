@@ -3,7 +3,7 @@ module Problem766
 
 title = "Problem 766: Sliding Block Puzzle"
 published_on = "Saturday, 2nd October 2021, 11:00 pm"
-solved_by = 291
+solved_by = 295
 difficulty_rating = "35%"
 content = """
 A 

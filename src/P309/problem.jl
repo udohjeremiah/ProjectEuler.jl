@@ -3,7 +3,7 @@ module Problem309
 
 title = "Problem: 309 Integer Ladders"
 published_on = "Saturday, 6th November 2010, 04:00 pm"
-solved_by = 833
+solved_by = 837
 difficulty_rating = "50%"
 content = """
 In the classic "Crossing Ladders" problem, we are given the lengths 

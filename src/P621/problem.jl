@@ -3,7 +3,7 @@ module Problem621
 
 title = "Problem 621: Expressing an integer as the sum of triangular numbers"
 published_on = "Sunday, 25th February 2018, 04:00 am"
-solved_by = 558
+solved_by = 561
 difficulty_rating = "35%"
 content = """
 Gauss famously proved that every positive integer can be expressed as the sum of three \e[1mtriangular numbers\e[0m (including 0

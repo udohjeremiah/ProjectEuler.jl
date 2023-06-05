@@ -3,7 +3,7 @@ module Problem199
 
 title = "Problem 199: Iterative Circle Packing"
 published_on = "Saturday, 21st June 2008, 06:00 am"
-solved_by = 2010
+solved_by = 2015
 difficulty_rating = "70%"
 content = """
 Three circles of equal radius are placed inside a larger circle such that each pair of circles is tangent to one another and the inner circles do not overlap. There are four uncovered "gaps" which are to be filled iteratively with more tangent circles.

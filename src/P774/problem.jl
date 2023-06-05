@@ -3,7 +3,7 @@ module Problem774
 
 title = "Problem 774: Conjunctive Sequences"
 published_on = "Saturday, 27th November 2021, 10:00 pm"
-solved_by = 118
+solved_by = 123
 difficulty_rating = "90%"
 content = """
 Let & denote the bitwise AND operation.

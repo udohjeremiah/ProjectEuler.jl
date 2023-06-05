@@ -3,7 +3,7 @@ module Problem740
 
 title = "Problem 740: Secret Santa"
 published_on = "Saturday, 26th December 2020, 01:00 pm"
-solved_by = 193
+solved_by = 195
 difficulty_rating = "55%"
 content = """
 Secret Santa is a process that allows n people to give each other presents, so that each person gives a single present and

@@ -3,7 +3,7 @@ module Problem500
 
 title = "Problem 500: Problem 500!!!"
 published_on = "Saturday, 31st January 2015, 01:00 pm"
-solved_by = 4088
+solved_by = 4110
 difficulty_rating = "15%"
 content = """
 The number of divisors of 120 is 16.

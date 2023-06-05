@@ -3,7 +3,7 @@ module Problem625
 
 title = "Problem 625: Gcd sum"
 published_on = "Saturday, 21st April 2018, 04:00 pm"
-solved_by = 608
+solved_by = 615
 difficulty_rating = "35%"
 content = """
 G(N) = ∑ⱼ₌₁ᴺ ∑ᵢ₌₁ʲ gcd(i,j). 

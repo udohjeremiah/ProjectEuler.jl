@@ -3,7 +3,7 @@ module Problem65
 
 title = "Problem 65: Convergents of e"
 published_on = "Friday, 12th March 2004, 06:00 pm"
-solved_by = 31182
+solved_by = 31256
 difficulty_rating = "15%"
 content = """
 The square root of 2 can be written as an infinite continued fraction.

@@ -3,7 +3,7 @@ module Problem708
 
 title = "Problem 708: Twos are all you need"
 published_on = "Saturday, 28th March 2020, 01:00 pm"
-solved_by = 295
+solved_by = 297
 difficulty_rating = "50%"
 content = """
 A positive integer, n, is factorised into prime factors. We define f(n) to be the product when each prime factor is replaced with 2. In addition we define f(1)=1.

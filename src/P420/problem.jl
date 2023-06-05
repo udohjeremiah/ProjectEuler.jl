@@ -3,7 +3,7 @@ module Problem420
 
 title = "Problem 420: 2x2 positive integer matrix"
 published_on = "Sunday, 24th March 2013, 01:00 am"
-solved_by = 441
+solved_by = 446
 difficulty_rating = "60%"
 content = """
 A 

@@ -3,7 +3,7 @@ module Problem429
 
 title = "Problem 429: Sum of squares of unitary divisors"
 published_on = "Sunday, 26th May 2013, 04:00 am"
-solved_by = 2575
+solved_by = 2590
 difficulty_rating = "20%"
 content = """
 A unitary divisor d of a number n is a divisor of n that has the property gcd(d, n/d) = 1.

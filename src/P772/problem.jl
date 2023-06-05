@@ -3,7 +3,7 @@ module Problem772
 
 title = "Problem 772: Balanceable k-bounded partitions"
 published_on = "Saturday, 13th November 2021, 04:00 pm"
-solved_by = 438
+solved_by = 445
 difficulty_rating = "20%"
 content = """
 A k-bounded partition of a positive integer N is a way of writing N as a sum of positive integers not exceeding k.

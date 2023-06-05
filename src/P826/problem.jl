@@ -3,7 +3,7 @@ module Problem826
 
 title = "Problem 826: Birds on a Wire"
 published_on = "Sunday, 22nd January 2023, 10:00 am"
-solved_by = 185
+solved_by = 195
 difficulty_rating = "45%"
 content = """
 Consider a wire of length 1 unit between two posts. Every morning n birds land on it randomly with every point on the wire

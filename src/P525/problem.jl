@@ -3,7 +3,7 @@ module Problem525
 
 title = "Problem 525: Rolling Ellipse"
 published_on = "Sunday, 13th September 2015, 10:00 am"
-solved_by = 507
+solved_by = 513
 difficulty_rating = "45%"
 content = """
 An ellipse 

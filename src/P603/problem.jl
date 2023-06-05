@@ -3,7 +3,7 @@ module Problem603
 
 title = "Problem 603: Substring sums of prime concatenations"
 published_on = "Sunday, 14th May 2017, 01:00 am"
-solved_by = 424
+solved_by = 429
 difficulty_rating = "45%"
 content = """
 Let S(n) be the sum of all contiguous integer-substrings that can be formed from the integer n. The substrings need not be

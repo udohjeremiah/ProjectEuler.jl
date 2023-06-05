@@ -3,7 +3,7 @@ module Problem141
 
 title = "Problem 141: Investigating progressive numbers, n, which are also square"
 published_on = "Saturday, 17th February 2007, 05:00 am"
-solved_by = 4085
+solved_by = 4106
 difficulty_rating = "60%"
 content = """
 A positive integer, n, is divided by d and the quotient and remainder are q and r respectively. In addition d, q, and r are

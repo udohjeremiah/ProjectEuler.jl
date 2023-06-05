@@ -3,7 +3,7 @@ module Problem408
 
 title = "Problem 408: Admissible paths through a grid"
 published_on = "Saturday, 29th December 2012, 01:00 pm"
-solved_by = 575
+solved_by = 578
 difficulty_rating = "50%"
 content = """
 Let's call a lattice point (x, y) inadmissible if x, y and x + y are all positive perfect squares.

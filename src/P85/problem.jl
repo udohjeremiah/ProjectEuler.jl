@@ -3,7 +3,7 @@ module Problem85
 
 title = "Problem 85: Counting rectangles"
 published_on = "Friday, 17th December 2004, 06:00 pm"
-solved_by = 25743
+solved_by = 25807
 difficulty_rating = "15%"
 content = """
 By counting carefully it can be seen that a rectangular grid measuring 3 by 2 contains eighteen rectangles:

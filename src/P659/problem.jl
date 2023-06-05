@@ -3,7 +3,7 @@ module Problem659
 
 title = "Problem 659: Largest prime"
 published_on = "Saturday, 2nd March 2019, 04:00 pm"
-solved_by = 912
+solved_by = 928
 difficulty_rating = "20%"
 content = """
 

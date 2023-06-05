@@ -3,7 +3,7 @@ module Problem219
 
 title = "Problem 219: Skew-cost coding"
 published_on = "Saturday, 29th November 2008, 05:00 am"
-solved_by = 1505
+solved_by = 1510
 difficulty_rating = "70%"
 content = """
 Let \e[1mA\e[0m and \e[1mB\e[0m be bit strings (sequences of 0's and 1's).

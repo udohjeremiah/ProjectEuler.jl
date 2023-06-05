@@ -3,7 +3,7 @@ module Problem232
 
 title = "Problem 232: The Race"
 published_on = "Friday, 13th February 2009, 05:00 pm"
-solved_by = 1819
+solved_by = 1827
 difficulty_rating = "65%"
 content = """
 Two players share an unbiased coin and take it in turns to play The Race.

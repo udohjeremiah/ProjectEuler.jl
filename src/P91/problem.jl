@@ -3,7 +3,7 @@ module Problem91
 
 title = "Problem 91: Right triangles with integer coordinates"
 published_on = "Friday, 18th March 2005, 06:00 pm"
-solved_by = 16124
+solved_by = 16169
 difficulty_rating = "25%"
 content = """
 The points P (

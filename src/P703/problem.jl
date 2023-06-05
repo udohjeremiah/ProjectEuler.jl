@@ -3,7 +3,7 @@ module Problem703
 
 title = "Problem 703: Circular Logic II"
 published_on = "Saturday, 22nd February 2020, 10:00 pm"
-solved_by = 288
+solved_by = 292
 difficulty_rating = "45%"
 content = """
 Given an integer n, n ≥ 3, let B = {false,true} and let Bⁿ be the set of sequences of n values from B. The function f from

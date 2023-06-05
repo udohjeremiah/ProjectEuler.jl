@@ -3,7 +3,7 @@ module Problem697
 
 title = "Problem 697: Randomly Decaying Sequence"
 published_on = "Sunday, 12th January 2020, 04:00 am"
-solved_by = 544
+solved_by = 552
 difficulty_rating = "30%"
 content = """
 Given a fixed real number c, define a random sequence (Xₙ)ₙ≥₀ by the following random process:

@@ -3,7 +3,7 @@ module Problem793
 
 title = "Problem 793: Median of Products"
 published_on = "Sunday, 10th April 2022, 08:00 am"
-solved_by = 563
+solved_by = 573
 difficulty_rating = "20%"
 content = """
 Let Sᵢ be an integer sequence produced with the following pseudo-random number generator:

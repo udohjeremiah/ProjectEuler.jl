@@ -3,7 +3,7 @@ module Problem270
 
 title = "Problem 270: Cutting Squares"
 published_on = "Saturday, 26th December 2009, 01:00 am"
-solved_by = 655
+solved_by = 658
 difficulty_rating = "80%"
 content = """
 A square piece of paper with integer dimensions N×N is placed with a corner at the origin and two of its sides along the 

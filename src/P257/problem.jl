@@ -3,7 +3,7 @@ module Problem257
 
 title = "Problem 257: Angular Bisectors"
 published_on = "Saturday, 26th September 2009, 05:00 am"
-solved_by = 703
+solved_by = 705
 difficulty_rating = "85%"
 content = """
 Given is an integer sided triangle ABC with sides a ≤ b ≤ c. 

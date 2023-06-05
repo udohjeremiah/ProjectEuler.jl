@@ -3,7 +3,7 @@ module Problem770
 
 title = "Problem 770: Delphi Flip"
 published_on = "Sunday, 31st October 2021, 10:00 am"
-solved_by = 457
+solved_by = 467
 difficulty_rating = "30%"
 content = """
 A and B play a game. A has originally 1 gram of gold and B has an unlimited amount. Each round goes as follows:

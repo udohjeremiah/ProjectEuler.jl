@@ -3,7 +3,7 @@ module Problem594
 
 title = "Problem 594: Rhombus Tilings"
 published_on = "Saturday, 11th March 2017, 10:00 pm"
-solved_by = 184
+solved_by = 185
 difficulty_rating = "85%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem70
 
 title = "Problem 70: Totient permutation"
 published_on = "Friday, 21st May 2004, 06:00 pm"
-solved_by = 23324
+solved_by = 23381
 difficulty_rating = "20%"
 content = """
 Euler's Totient function, φ(n) [sometimes called the phi function], is used to determine the number of positive numbers less than

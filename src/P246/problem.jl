@@ -3,7 +3,7 @@ module Problem246
 
 title = "Problem 246: Tangents to an ellipse"
 published_on = "Friday, 22nd May 2009, 05:00 pm"
-solved_by = 818
+solved_by = 821
 difficulty_rating = "80%"
 content = """
 

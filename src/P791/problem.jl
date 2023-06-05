@@ -3,7 +3,7 @@ module Problem791
 
 title = "Problem 791: Average and Variance"
 published_on = "Sunday, 27th March 2022, 02:00 am"
-solved_by = 148
+solved_by = 150
 difficulty_rating = "60%"
 content = """
 Denote the average of k numbers x_1, ..., x_k by \\bar{x} = \\frac{1}{k} \\sum_i x_i. Their variance is defined as \\frac{1}{k} \\sum_i \\left( x_i - \\bar{x} \\right) ^ 2.

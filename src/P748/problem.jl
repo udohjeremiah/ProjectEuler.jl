@@ -3,7 +3,7 @@ module Problem748
 
 title = "Problem 748: Upside down Diophantine equation"
 published_on = "Saturday, 20th February 2021, 01:00 pm"
-solved_by = 285
+solved_by = 288
 difficulty_rating = "40%"
 content = """
 Upside Down is a modification of the famous Pythagorean equation:

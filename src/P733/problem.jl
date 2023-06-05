@@ -3,7 +3,7 @@ module Problem733
 
 title = "Problem 733: Ascending subsequences"
 published_on = "Saturday, 7th November 2020, 04:00 pm"
-solved_by = 440
+solved_by = 447
 difficulty_rating = "25%"
 content = """
 

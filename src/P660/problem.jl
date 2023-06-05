@@ -3,7 +3,7 @@ module Problem660
 
 title = "Problem 660: Pandigital Triangles"
 published_on = "Saturday, 9th March 2019, 07:00 pm"
-solved_by = 292
+solved_by = 297
 difficulty_rating = "40%"
 content = """
 We call an integer sided triangle n-pandigital if it contains one angle of 120 degrees and, when the sides of the triangle are

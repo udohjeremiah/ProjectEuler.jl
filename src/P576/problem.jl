@@ -3,7 +3,7 @@ module Problem576
 
 title = "Problem 576: Irrational jumps"
 published_on = "Saturday, 29th October 2016, 04:00 pm"
-solved_by = 235
+solved_by = 236
 difficulty_rating = "55%"
 content = """
 

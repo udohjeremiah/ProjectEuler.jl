@@ -3,7 +3,7 @@ module Problem698
 
 title = "Problem 698: 123 Numbers"
 published_on = "Sunday, 19th January 2020, 07:00 am"
-solved_by = 415
+solved_by = 422
 difficulty_rating = "30%"
 content = """
 We define 123-numbers as follows:

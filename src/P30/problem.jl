@@ -3,7 +3,7 @@ module Problem30
 
 title = "Problem 30: Digit fifth powers"
 published_on = "Friday, 8th November 2002, 06:00 pm"
-solved_by = 113742
+solved_by = 113892
 difficulty_rating = "5%"
 content = """
 Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:

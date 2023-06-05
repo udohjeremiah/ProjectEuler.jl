@@ -3,7 +3,7 @@ module Problem451
 
 title = "Problem 451: Modular inverses"
 published_on = "Sunday, 22nd December 2013, 10:00 am"
-solved_by = 1460
+solved_by = 1463
 difficulty_rating = "30%"
 content = """
 Consider the number 15.

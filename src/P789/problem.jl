@@ -3,7 +3,7 @@ module Problem789
 
 title = "Problem 789: Minimal pairing modulo p"
 published_on = "Saturday, 12th March 2022, 07:00 pm"
-solved_by = 171
+solved_by = 174
 difficulty_rating = "50%"
 content = """
 Given an odd prime p, put the numbers 1,...,p-1 into \\frac{p-1}{2} pairs such that each number appears exactly once. Each pair (a,b) has a cost of ab \\bmod p. For example, if p=5 the pair (3,4) has a cost of 12 \\bmod 5 = 2.

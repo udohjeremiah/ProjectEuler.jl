@@ -3,7 +3,7 @@ module Problem636
 
 title = "Problem 636: Restricted Factorisations"
 published_on = "Saturday, 8th September 2018, 10:00 pm"
-solved_by = 189
+solved_by = 190
 difficulty_rating = "90%"
 content = """
 Consider writing a natural number as product of powers of natural numbers with given exponents, additionally requiring

@@ -3,7 +3,7 @@ module Problem665
 
 title = "Problem 665: Proportionate Nim"
 published_on = "Sunday, 14th April 2019, 10:00 am"
-solved_by = 252
+solved_by = 255
 difficulty_rating = "55%"
 content = """
 Two players play a game with two piles of stones, alternating turns.

@@ -3,7 +3,7 @@ module Problem814
 
 title = "Problem 814: Mezzo-forte"
 published_on = "Saturday, 29th October 2022, 11:00 pm"
-solved_by = 184
+solved_by = 192
 difficulty_rating = "50%"
 content = """
 4n people stand in a circle with their heads down. When the bell rings they all raise their heads and either look at the person

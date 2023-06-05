@@ -3,7 +3,7 @@ module Problem331
 
 title = "Problem 331: Cross flips"
 published_on = "Sunday, 3rd April 2011, 08:00 am"
-solved_by = 417
+solved_by = 420
 difficulty_rating = "100%"
 content = """
 N

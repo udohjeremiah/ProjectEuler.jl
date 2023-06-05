@@ -3,7 +3,7 @@ module Problem562
 
 title = "Problem 562: Maximal perimeter"
 published_on = "Sunday, 29th May 2016, 01:00 am"
-solved_by = 190
+solved_by = 191
 difficulty_rating = "75%"
 content = """
 Construct triangle ABC such that:

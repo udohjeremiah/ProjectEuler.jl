@@ -3,7 +3,7 @@ module Problem135
 
 title = "Problem 135: Same differences"
 published_on = "Friday, 29th December 2006, 06:00 pm"
-solved_by = 6614
+solved_by = 6638
 difficulty_rating = "45%"
 content = """
 Given the positive integers, x, y, and z, are consecutive terms of an arithmetic progression, the least value of the positive

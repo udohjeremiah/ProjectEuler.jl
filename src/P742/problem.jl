@@ -3,7 +3,7 @@ module Problem742
 
 title = "Problem 742: Minimum area of a convex grid polygon"
 published_on = "Saturday, 9th January 2021, 07:00 pm"
-solved_by = 154
+solved_by = 159
 difficulty_rating = "75%"
 content = """
 A 

@@ -3,7 +3,7 @@ module Problem517
 
 title = "Problem 517: A real recursion"
 published_on = "Saturday, 23rd May 2015, 01:00 pm"
-solved_by = 463
+solved_by = 466
 difficulty_rating = "45%"
 content = """
 

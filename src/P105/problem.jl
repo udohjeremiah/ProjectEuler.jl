@@ -3,7 +3,7 @@ module Problem105
 
 title = "Problem 105: Special subset sums: testing"
 published_on = "Friday, 23rd September 2005, 06:00 pm"
-solved_by = 8379
+solved_by = 8400
 difficulty_rating = "45%"
 content = """
 Let S(A) represent the sum of elements in set A of size n. We shall call it a special sum set if for any two non-empty disjoint

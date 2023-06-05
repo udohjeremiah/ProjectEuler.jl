@@ -3,7 +3,7 @@ module Problem336
 
 title = "Problem 336: Maximix Arrangements"
 published_on = "Saturday, 30th April 2011, 07:00 pm"
-solved_by = 2115
+solved_by = 2127
 difficulty_rating = "25%"
 content = """
 A train is used to transport four carriages in the order: ABCD. However, sometimes when the train arrives to collect the carriages they are not in the correct order. 

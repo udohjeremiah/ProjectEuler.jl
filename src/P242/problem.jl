@@ -3,7 +3,7 @@ module Problem242
 
 title = "Problem 242: Odd Triplets"
 published_on = "Saturday, 25th April 2009, 06:00 am"
-solved_by = 1068
+solved_by = 1073
 difficulty_rating = "75%"
 content = """
 Given the set {1,2,...,n}, we define f(n,k) as the number of its k-element subsets with an odd sum of elements. For example, 

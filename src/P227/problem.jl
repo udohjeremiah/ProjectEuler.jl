@@ -3,7 +3,7 @@ module Problem227
 
 title = "Problem 227: The Chase"
 published_on = "Saturday, 10th January 2009, 01:00 am"
-solved_by = 2161
+solved_by = 2166
 difficulty_rating = "65%"
 content = """
 The Chase is a game played with two dice and an even number of players.

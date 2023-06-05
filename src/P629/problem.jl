@@ -3,7 +3,7 @@ module Problem629
 
 title = "Problem 629: Scatterstone Nim"
 published_on = "Sunday, 17th June 2018, 04:00 am"
-solved_by = 238
+solved_by = 241
 difficulty_rating = "55%"
 content = """
 Alice and Bob are playing a modified game of Nim called Scatterstone Nim, with Alice going first, alternating turns with Bob.

@@ -3,7 +3,7 @@ module Problem555
 
 title = "Problem 555: McCarthy 91 function"
 published_on = "Sunday, 10th April 2016, 04:00 am"
-solved_by = 696
+solved_by = 700
 difficulty_rating = "30%"
 content = """
 

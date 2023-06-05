@@ -3,7 +3,7 @@ module Problem109
 
 title = "Problem 109: Darts"
 published_on = "Friday, 18th November 2005, 06:00 pm"
-solved_by = 8476
+solved_by = 8499
 difficulty_rating = "45%"
 content = """
 In the game of darts a player throws three darts at a target board which is split into twenty equal sized sections numbered one to twenty.

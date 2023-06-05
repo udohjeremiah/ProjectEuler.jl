@@ -3,7 +3,7 @@ module Problem458
 
 title = "Problem 458: Permutations of Project"
 published_on = "Sunday, 9th February 2014, 07:00 am"
-solved_by = 939
+solved_by = 943
 difficulty_rating = "30%"
 content = """
 Consider the alphabet A made out of the letters of the word "project": A={c,e,j,o,p,r,t}.

@@ -3,7 +3,7 @@ module Problem462
 
 title = "Problem 462: Permutation of 3-smooth numbers"
 published_on = "Saturday, 8th March 2014, 07:00 pm"
-solved_by = 319
+solved_by = 322
 difficulty_rating = "60%"
 content = """
 A \e[1m3-smooth number\e[0m is an integer which has no prime factor larger than 3. For an integer N, we define S(N) as the set of 3-

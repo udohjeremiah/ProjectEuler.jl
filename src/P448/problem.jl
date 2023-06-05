@@ -3,7 +3,7 @@ module Problem448
 
 title = "Problem 448: Average least common multiple"
 published_on = "Sunday, 24th November 2013, 01:00 am"
-solved_by = 349
+solved_by = 351
 difficulty_rating = "80%"
 content = """
 The function \e[1mlcm\e[0m(a,b) denotes the least common multiple of a and b.

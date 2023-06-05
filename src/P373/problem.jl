@@ -3,7 +3,7 @@ module Problem373
 
 title = "Problem 373: Circumscribed Circles"
 published_on = "Saturday, 25th February 2012, 04:00 pm"
-solved_by = 342
+solved_by = 348
 difficulty_rating = "75%"
 content = """
 Every triangle has a circumscribed circle that goes through the three vertices. Consider all integer sided triangles for which the

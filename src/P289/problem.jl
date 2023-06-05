@@ -3,7 +3,7 @@ module Problem289
 
 title = "Problem 289: Eulerian Cycles"
 published_on = "Friday, 23rd April 2010, 01:00 pm"
-solved_by = 506
+solved_by = 510
 difficulty_rating = "90%"
 content = """
 Let C(

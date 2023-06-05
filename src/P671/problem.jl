@@ -3,7 +3,7 @@ module Problem671
 
 title = "Problem 671: Colouring a Loop"
 published_on = "Sunday, 19th May 2019, 01:00 am"
-solved_by = 163
+solved_by = 164
 difficulty_rating = "80%"
 content = """
 A certain type of flexible tile comes in three different sizes - 1×1, 1×2, and 1×3 - and in k different colours. There is an unlimited number of tiles available in each combination of size and colour.

@@ -3,7 +3,7 @@ module Problem705
 
 title = "Problem 705: Total Inversion Count of Divided Sequences"
 published_on = "Sunday, 8th March 2020, 04:00 am"
-solved_by = 417
+solved_by = 422
 difficulty_rating = "25%"
 content = """
 The inversion count of a sequence of digits is the smallest number of adjacent pairs that must be swapped to sort the

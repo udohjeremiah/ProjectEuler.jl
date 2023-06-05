@@ -3,7 +3,7 @@ module Problem84
 
 title = "Problem 84: Monopoly odds"
 published_on = "Friday, 3rd December 2004, 06:00 pm"
-solved_by = 13263
+solved_by = 13307
 difficulty_rating = "35%"
 content = """
 In the game, 

@@ -3,7 +3,7 @@ module Problem652
 
 title = "Problem 652: Distinct values of a proto-logarithmic function"
 published_on = "Saturday, 19th January 2019, 10:00 pm"
-solved_by = 165
+solved_by = 171
 difficulty_rating = "70%"
 content = """
 Consider the values of log₂(8), log₄(64) and log₃(27). All three are equal to 3.

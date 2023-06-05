@@ -3,7 +3,7 @@ module Problem388
 
 title = "Problem 388: Distinct Lines"
 published_on = "Saturday, 9th June 2012, 02:00 pm"
-solved_by = 588
+solved_by = 592
 difficulty_rating = "55%"
 content = """
 Consider all lattice points (a,b,c) with 0 ≤ a,b,c ≤ N.

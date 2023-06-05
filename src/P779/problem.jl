@@ -3,7 +3,7 @@ module Problem779
 
 title = "Problem 779: Prime Factor and Exponent"
 published_on = "Saturday, 1st January 2022, 01:00 pm"
-solved_by = 430
+solved_by = 435
 difficulty_rating = "25%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem693
 
 title = "Problem 693: Finite Sequence Generator"
 published_on = "Saturday, 14th December 2019, 04:00 pm"
-solved_by = 279
+solved_by = 283
 difficulty_rating = "40%"
 content = """
 Two positive integers x and y (x > y) can generate a sequence in the following manner:

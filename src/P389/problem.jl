@@ -3,7 +3,7 @@ module Problem389
 
 title = "Problem 389: Platonic Dice"
 published_on = "Saturday, 16th June 2012, 05:00 pm"
-solved_by = 1560
+solved_by = 1566
 difficulty_rating = "30%"
 content = """
 An unbiased single 4-sided die is thrown and its value, T, is noted.

@@ -3,7 +3,7 @@ module Problem183
 
 title = "Problem 183: Maximum product of parts"
 published_on = "Friday, 22nd February 2008, 05:00 pm"
-solved_by = 4791
+solved_by = 4809
 difficulty_rating = "45%"
 content = """
 Let N be a positive integer and let N be split into k equal parts, r = N/k, so that N = r + r + ... + r.

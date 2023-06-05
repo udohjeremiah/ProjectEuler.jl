@@ -3,7 +3,7 @@ module Problem725
 
 title = "Problem 725: Digit sum numbers"
 published_on = "Saturday, 12th September 2020, 05:00 pm"
-solved_by = 963
+solved_by = 980
 difficulty_rating = "10%"
 content = """
 A number where one digit is the sum of the \e[1mother\e[0m digits is called a digit sum number or DS-number for short. For example, 352,

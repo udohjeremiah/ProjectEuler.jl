@@ -3,7 +3,7 @@ module Problem350
 
 title = "Problem 350: Constraining the least greatest and the greatest least"
 published_on = "Saturday, 10th September 2011, 07:00 pm"
-solved_by = 469
+solved_by = 473
 difficulty_rating = "60%"
 content = """
 A list of size n is a sequence of n natural numbers.

@@ -3,7 +3,7 @@ module Problem402
 
 title = "Problem 402: Integer-valued polynomials"
 published_on = "Saturday, 17th November 2012, 07:00 pm"
-solved_by = 414
+solved_by = 417
 difficulty_rating = "55%"
 content = """
 It can be shown that the polynomial n⁴ + 4n³ + 2n² + 5n is a multiple of 6 for every integer n. It can also be shown that 6 is the

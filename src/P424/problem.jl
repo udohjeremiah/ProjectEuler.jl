@@ -3,7 +3,7 @@ module Problem424
 
 title = "Problem 424: Kakuro"
 published_on = "Saturday, 20th April 2013, 01:00 pm"
-solved_by = 416
+solved_by = 419
 difficulty_rating = "60%"
 content = """
 The above is an example of a cryptic kakuro (also known as cross sums, or even sums cross) puzzle, with its final solution on the right. (The common rules of kakuro puzzles can be found easily on numerous internet sites. Other related information can also be currently found at 

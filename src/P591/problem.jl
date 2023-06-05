@@ -3,7 +3,7 @@ module Problem591
 
 title = "Problem 591: Best Approximations by Quadratic Integers"
 published_on = "Saturday, 18th February 2017, 01:00 pm"
-solved_by = 196
+solved_by = 197
 difficulty_rating = "95%"
 content = """
 Given a non-square integer d, any real x can be approximated arbitrarily close by \e[1mquadratic integers\e[0m a + b√d, where a, b are

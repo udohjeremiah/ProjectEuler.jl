@@ -3,7 +3,7 @@ module Problem690
 
 title = "Problem 690: Tom and Jerry"
 published_on = "Sunday, 24th November 2019, 07:00 am"
-solved_by = 195
+solved_by = 198
 difficulty_rating = "60%"
 content = """
 Tom (the cat) and Jerry (the mouse) are playing on a simple graph G.

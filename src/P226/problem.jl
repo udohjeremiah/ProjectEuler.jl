@@ -3,7 +3,7 @@ module Problem226
 
 title = "Problem 226: A Scoop of Blancmange"
 published_on = "Friday, 2nd January 2009, 09:00 pm"
-solved_by = 1784
+solved_by = 1790
 difficulty_rating = "65%"
 content = """
 The 

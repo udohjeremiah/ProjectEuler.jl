@@ -3,7 +3,7 @@ module Problem732
 
 title = "Problem 732: Standing on the shoulders of trolls"
 published_on = "Saturday, 31st October 2020, 01:00 pm"
-solved_by = 199
+solved_by = 202
 difficulty_rating = "40%"
 content = """
 

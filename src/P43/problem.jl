@@ -3,7 +3,7 @@ module Problem43
 
 title = "Problem 43: Sub-string divisibility"
 published_on = "Friday, 9th May 2003, 06:00 pm"
-solved_by = 62318
+solved_by = 62417
 difficulty_rating = "5%"
 content = """
 The number, 1406357289, is a 0 to 9 pandigital number because it is made up of each of the digits 0 to 9 in some order, but it

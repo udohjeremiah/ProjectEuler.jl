@@ -3,7 +3,7 @@ module Problem443
 
 title = "Problem 443: GCD sequence"
 published_on = "Saturday, 2nd November 2013, 04:00 pm"
-solved_by = 1145
+solved_by = 1154
 difficulty_rating = "30%"
 content = """
 Let g(n) be a sequence defined as follows:

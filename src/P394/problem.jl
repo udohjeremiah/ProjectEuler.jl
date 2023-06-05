@@ -3,7 +3,7 @@ module Problem394
 
 title = "Problem 394: Eating pie"
 published_on = "Saturday, 15th September 2012, 08:00 pm"
-solved_by = 540
+solved_by = 544
 difficulty_rating = "55%"
 content = """
 

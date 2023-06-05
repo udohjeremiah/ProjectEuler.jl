@@ -3,7 +3,7 @@ module Problem786
 
 title = "Problem 786: Billiard"
 published_on = "Sunday, 20th February 2022, 10:00 am"
-solved_by = 110
+solved_by = 113
 difficulty_rating = "95%"
 content = """
 

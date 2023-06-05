@@ -3,7 +3,7 @@ module Problem293
 
 title = "Problem 293: Pseudo-Fortunate Numbers"
 published_on = "Saturday, 22nd May 2010, 05:00 am"
-solved_by = 3043
+solved_by = 3055
 difficulty_rating = "30%"
 content = """
 An even positive integer N will be called admissible, if it is a power of 2 or its distinct prime factors are consecutive primes.

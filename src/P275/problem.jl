@@ -3,7 +3,7 @@ module Problem275
 
 title = "Problem 275: Balanced Sculptures"
 published_on = "Friday, 22nd January 2010, 05:00 pm"
-solved_by = 621
+solved_by = 624
 difficulty_rating = "85%"
 content = """
 Let us define a 

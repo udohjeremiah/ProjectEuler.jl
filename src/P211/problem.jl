@@ -3,7 +3,7 @@ module Problem211
 
 title = "Problem 211: Divisor Square Sum"
 published_on = "Saturday, 4th October 2008, 02:00 am"
-solved_by = 4283
+solved_by = 4300
 difficulty_rating = "50%"
 content = """
 For a positive integer n, let σ₂(n) be the sum of the squares of its divisors. For example,

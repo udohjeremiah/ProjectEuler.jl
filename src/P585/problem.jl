@@ -3,7 +3,7 @@ module Problem585
 
 title = "Problem 585: Nested square roots"
 published_on = "Saturday, 7th January 2017, 07:00 pm"
-solved_by = 173
+solved_by = 174
 difficulty_rating = "100%"
 content = """
 Consider the term \\small \\sqrt{x+\\sqrt{y}+\\sqrt{z}} that is representing a 

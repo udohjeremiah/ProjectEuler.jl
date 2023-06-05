@@ -3,7 +3,7 @@ module Problem237
 
 title = "Problem 237: Tours on a 4 x n playing board"
 published_on = "Saturday, 21st March 2009, 01:00 pm"
-solved_by = 1601
+solved_by = 1610
 difficulty_rating = "70%"
 content = """
 Let T(

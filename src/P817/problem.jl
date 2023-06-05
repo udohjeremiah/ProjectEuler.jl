@@ -3,7 +3,7 @@ module Problem817
 
 title = "Problem 817: Digits in Squares"
 published_on = "Sunday, 20th November 2022, 07:00 am"
-solved_by = 355
+solved_by = 372
 difficulty_rating = "20%"
 content = """
 

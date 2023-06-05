@@ -3,7 +3,7 @@ module Problem302
 
 title = "Problem 302: Strong Achilles Numbers"
 published_on = "Saturday, 18th September 2010, 07:00 pm"
-solved_by = 760
+solved_by = 763
 difficulty_rating = "60%"
 content = """
 A positive integer n is \e[1mpowerful\e[0m if p² is a divisor of n for every prime factor p in n.

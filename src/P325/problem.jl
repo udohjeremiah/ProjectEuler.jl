@@ -3,7 +3,7 @@ module Problem325
 
 title = "Problem 325: Stone Game II"
 published_on = "Saturday, 19th February 2011, 01:00 pm"
-solved_by = 613
+solved_by = 614
 difficulty_rating = "80%"
 content = """
 A game is played with two piles of stones and two players.

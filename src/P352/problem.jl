@@ -3,7 +3,7 @@ module Problem352
 
 title = "Problem 352: Blood tests"
 published_on = "Sunday, 2nd October 2011, 01:00 am"
-solved_by = 619
+solved_by = 622
 difficulty_rating = "55%"
 content = """
 Each one of the 25 sheep in a flock must be tested for a rare virus, known to affect 2% of the sheep population. An accurate

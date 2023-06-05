@@ -3,7 +3,7 @@ module Problem157
 
 title = "Problem 157: Solving the diophantine equation ¹/a + ¹/b = ᵖ/₁₀ⁿ"
 published_on = "Friday, 1st June 2007, 06:00 pm"
-solved_by = 2808
+solved_by = 2823
 difficulty_rating = "65%"
 content = """
 Consider the diophantine equation ¹/a + ¹/b = ᵖ/₁₀ⁿ with a, b, p, n positive integers and a ≤ b.

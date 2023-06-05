@@ -3,7 +3,7 @@ module Problem303
 
 title = "Problem 303: Multiples with small digits"
 published_on = "Saturday, 25th September 2010, 10:00 pm"
-solved_by = 3700
+solved_by = 3712
 difficulty_rating = "35%"
 content = """
 

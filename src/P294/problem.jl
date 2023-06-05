@@ -3,7 +3,7 @@ module Problem294
 
 title = "Problem 294: Sum of digits - experience #23"
 published_on = "Saturday, 29th May 2010, 09:00 am"
-solved_by = 938
+solved_by = 949
 difficulty_rating = "45%"
 content = """
 For a positive integer k, define d(k) as the sum of the digits of k in its usual decimal representation. Thus d(42) = 4+2 = 6.

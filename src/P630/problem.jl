@@ -3,7 +3,7 @@ module Problem630
 
 title = "Problem 630: Crossed lines"
 published_on = "Sunday, 1st July 2018, 07:00 am"
-solved_by = 1000
+solved_by = 1006
 difficulty_rating = "20%"
 content = """
 Given a set, L, of unique lines, let M(L) be the number of lines in the set and let S(L) be the sum over every line of the number of times that line is crossed by another line in the set.  For example, two sets of three lines are shown below:

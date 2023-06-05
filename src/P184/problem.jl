@@ -3,7 +3,7 @@ module Problem184
 
 title = "Problem 184: Triangles containing the origin"
 published_on = "Friday, 29th February 2008, 09:00 pm"
-solved_by = 1696
+solved_by = 1702
 difficulty_rating = "75%"
 content = """
 Consider the set 

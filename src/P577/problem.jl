@@ -3,7 +3,7 @@ module Problem577
 
 title = "Problem 577: Counting hexagons"
 published_on = "Saturday, 12th November 2016, 07:00 pm"
-solved_by = 1586
+solved_by = 1591
 difficulty_rating = "20%"
 content = """
 An equilateral triangle with integer side length n \\ge 3 is divided into n^2 equilateral triangles with side length 1 as shown in the diagram below.

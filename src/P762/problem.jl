@@ -3,7 +3,7 @@ module Problem762
 
 title = "Problem 762: Amoebas in a 2D grid"
 published_on = "Saturday, 4th September 2021, 02:00 pm"
-solved_by = 183
+solved_by = 191
 difficulty_rating = "50%"
 content = """
 Consider a two dimensional grid of squares. The grid has 4 rows but infinitely many columns.

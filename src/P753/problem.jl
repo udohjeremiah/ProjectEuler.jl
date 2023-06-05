@@ -3,7 +3,7 @@ module Problem753
 
 title = "Problem 753: Fermat Equation"
 published_on = "Sunday, 28th March 2021, 05:00 am"
-solved_by = 364
+solved_by = 372
 difficulty_rating = "40%"
 content = """
 Fermat's Last Theorem states that no three positive integers a, b, c satisfy the equation

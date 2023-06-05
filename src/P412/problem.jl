@@ -3,7 +3,7 @@ module Problem412
 
 title = "Problem 412: Gnomon numbering"
 published_on = "Sunday, 27th January 2013, 01:00 am"
-solved_by = 501
+solved_by = 506
 difficulty_rating = "50%"
 content = """
 For integers m, n (0 ≤ n < m), let L(m, n) be an m×m grid with the top-right n×n grid removed.

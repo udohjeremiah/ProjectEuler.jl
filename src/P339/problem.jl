@@ -3,7 +3,7 @@ module Problem339
 
 title = "Problem 339: Peredur fab Efrawg"
 published_on = "Sunday, 22nd May 2011, 04:00 am"
-solved_by = 564
+solved_by = 569
 difficulty_rating = "70%"
 content = """
 "And he came towards a valley, through which ran a river; and the borders of the valley were wooded, and on each side of

@@ -3,7 +3,7 @@ module Problem68
 
 title = "Problem 68: Magic 5-gon ring"
 published_on = "Friday, 23rd April 2004, 06:00 pm"
-solved_by = 21770
+solved_by = 21826
 difficulty_rating = "25%"
 content = """
 Consider the following "magic" 3-gon ring, filled with the numbers 1 to 6, and each line adding to nine.

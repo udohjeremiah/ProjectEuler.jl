@@ -3,7 +3,7 @@ module Problem796
 
 title = "Problem 796: A Grand Shuffle"
 published_on = "Saturday, 30th April 2022, 05:00 pm"
-solved_by = 182
+solved_by = 187
 difficulty_rating = "55%"
 content = """
 A standard 52 card deck comprises thirteen ranks in four suits. However, modern decks have two additional Jokers, which

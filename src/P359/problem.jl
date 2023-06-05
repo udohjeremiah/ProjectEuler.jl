@@ -3,7 +3,7 @@ module Problem359
 
 title = "Problem 359: Hilbert's New Hotel"
 published_on = "Saturday, 19th November 2011, 10:00 pm"
-solved_by = 1565
+solved_by = 1569
 difficulty_rating = "25%"
 content = """
 An infinite number of people (numbered 1, 2, 3, etc.) are lined up to get a room at Hilbert's newest infinite hotel. The hotel

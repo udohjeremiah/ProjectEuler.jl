@@ -3,7 +3,7 @@ module Problem273
 
 title = "Problem 273: Sum of Squares"
 published_on = "Saturday, 9th January 2010, 01:00 pm"
-solved_by = 1413
+solved_by = 1416
 difficulty_rating = "70%"
 content = """
 Consider equations of the form: a² + b² = N, 0 ≤ a ≤ b, a, b and N integer.

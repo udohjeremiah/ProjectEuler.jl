@@ -3,7 +3,7 @@ module Problem326
 
 title = "Problem 326: Modulo Summations"
 published_on = "Saturday, 26th February 2011, 04:00 pm"
-solved_by = 532
+solved_by = 540
 difficulty_rating = "55%"
 content = """
 

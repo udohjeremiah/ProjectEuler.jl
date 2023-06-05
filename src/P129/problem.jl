@@ -3,7 +3,7 @@ module Problem129
 
 title = "Problem 129: Repunit divisibility"
 published_on = "Friday, 27th October 2006, 06:00 pm"
-solved_by = 6522
+solved_by = 6543
 difficulty_rating = "45%"
 content = """
 A number consisting entirely of ones is called a repunit. We shall define R(k) to be a repunit of length k; for example, R(6) =

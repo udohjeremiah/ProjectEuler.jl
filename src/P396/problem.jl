@@ -3,7 +3,7 @@ module Problem396
 
 title = "Problem 396: Weak Goodstein sequence"
 published_on = "Sunday, 30th September 2012, 02:00 am"
-solved_by = 673
+solved_by = 675
 difficulty_rating = "40%"
 content = """
 For any positive integer n, the \e[1mnth weak Goodstein sequence\e[0m {g₁, g₂, g₃, ...} is defined as:

@@ -3,7 +3,7 @@ module Problem194
 
 title = "Problem 194: Coloured Configurations"
 published_on = "Saturday, 17th May 2008, 10:00 am"
-solved_by = 1446
+solved_by = 1452
 difficulty_rating = "75%"
 content = """
 Consider graphs built with the units A: 

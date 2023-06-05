@@ -3,7 +3,7 @@ module Problem506
 
 title = "Problem 506: Clock sequence"
 published_on = "Sunday, 8th March 2015, 04:00 am"
-solved_by = 881
+solved_by = 887
 difficulty_rating = "30%"
 content = """
 Consider the infinite repeating sequence of digits:

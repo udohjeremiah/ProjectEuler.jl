@@ -3,7 +3,7 @@ module Problem22
 
 title = "Problem 22: Names scores"
 published_on = "Friday, 19th July 2002, 06:00 pm"
-solved_by = 138955
+solved_by = 139114
 difficulty_rating = "5%"
 content = """
 Using\e[1;35m https://projecteuler.net/project/resources/p022_names.txt \e[0m, a 46K text file containing over five-thousand first names, begin by

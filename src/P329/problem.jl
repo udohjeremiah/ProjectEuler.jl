@@ -3,7 +3,7 @@ module Problem329
 
 title = "Problem 329: Prime Frog"
 published_on = "Sunday, 20th March 2011, 01:00 am"
-solved_by = 2569
+solved_by = 2582
 difficulty_rating = "25%"
 content = """
 Susan has a prime frog.

@@ -3,7 +3,7 @@ module Problem539
 
 title = "Problem 539: Odd elimination"
 published_on = "Sunday, 20th December 2015, 04:00 am"
-solved_by = 824
+solved_by = 826
 difficulty_rating = "35%"
 content = """
 

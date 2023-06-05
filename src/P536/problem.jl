@@ -3,7 +3,7 @@ module Problem536
 
 title = "Problem 536: Modulo power identity"
 published_on = "Saturday, 28th November 2015, 07:00 pm"
-solved_by = 288
+solved_by = 289
 difficulty_rating = "60%"
 content = """
 Let S(n) be the sum of all positive integers m not exceeding n having the following property:

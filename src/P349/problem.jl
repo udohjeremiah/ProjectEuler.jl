@@ -3,7 +3,7 @@ module Problem349
 
 title = "Problem 349: Langton's ant"
 published_on = "Saturday, 3rd September 2011, 04:00 pm"
-solved_by = 1961
+solved_by = 1972
 difficulty_rating = "35%"
 content = """
 An ant moves on a regular grid of squares that are coloured either black or white.

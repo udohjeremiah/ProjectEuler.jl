@@ -3,7 +3,7 @@ module Problem399
 
 title = "Problem 399: Squarefree Fibonacci Numbers"
 published_on = "Sunday, 21st October 2012, 11:00 am"
-solved_by = 576
+solved_by = 579
 difficulty_rating = "45%"
 content = """
 The first 15 fibonacci numbers are:

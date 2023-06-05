@@ -3,7 +3,7 @@ module Problem31
 
 title = "Problem 31: Coin sums"
 published_on = "Friday, 22nd November 2002, 06:00 pm"
-solved_by = 88390
+solved_by = 88516
 difficulty_rating = "5%"
 content = """
 In the United Kingdom the currency is made up of pound (£) and pence (p). There are eight coins in general circulation:

@@ -3,7 +3,7 @@ module Problem73
 
 title = "Problem 73: Counting fractions in a range"
 published_on = "Friday, 2nd July 2004, 06:00 pm"
-solved_by = 26094
+solved_by = 26155
 difficulty_rating = "15%"
 content = """
 Consider the fraction, n/d, where n and d are positive integers. If n<d and HCF(n,d)=1, it is called a reduced proper fraction.

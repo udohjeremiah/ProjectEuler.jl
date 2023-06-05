@@ -3,7 +3,7 @@ module Problem47
 
 title = "Problem 47: Distinct primes factors"
 published_on = "Friday, 4th July 2003, 06:00 pm"
-solved_by = 60403
+solved_by = 60495
 difficulty_rating = "5%"
 content = """
 The first two consecutive numbers to have two distinct prime factors are:

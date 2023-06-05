@@ -3,7 +3,7 @@ module Problem717
 
 title = "Problem 717: Summation of a Modular Formula"
 published_on = "Saturday, 23rd May 2020, 02:00 pm"
-solved_by = 455
+solved_by = 470
 difficulty_rating = "25%"
 content = """
 For an odd prime p, define f(p) = \\left\\lfloor\\frac{2^{(2^p)}}{p}\\right\\rfloor\\bmod{2^p}

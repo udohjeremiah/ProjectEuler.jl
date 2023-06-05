@@ -3,7 +3,7 @@ module Problem20
 
 title = "Problem 20: Factorial digit sum"
 published_on = "Friday, 21st June 2002, 06:00 pm"
-solved_by = 203576
+solved_by = 203753
 difficulty_rating = "5%"
 content = """
 n! means n × (n − 1) × ... × 3 × 2 × 1

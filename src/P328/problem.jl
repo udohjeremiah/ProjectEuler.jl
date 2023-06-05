@@ -3,7 +3,7 @@ module Problem328
 
 title = "Problem 328: Lowest-cost Search"
 published_on = "Saturday, 12th March 2011, 10:00 pm"
-solved_by = 440
+solved_by = 441
 difficulty_rating = "95%"
 content = """
 We are trying to find a hidden number selected from the set of integers {1, 2, ..., 

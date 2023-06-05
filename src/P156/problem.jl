@@ -3,7 +3,7 @@ module Problem156
 
 title = "Problem 156: Counting Digits"
 published_on = "Friday, 25th May 2007, 10:00 pm"
-solved_by = 2510
+solved_by = 2519
 difficulty_rating = "70%"
 content = """
 Starting from zero the natural numbers are written down in base 10 like this:

@@ -3,7 +3,7 @@ module Problem315
 
 title = "Problem 315: Digital root clocks"
 published_on = "Sunday, 19th December 2010, 10:00 am"
-solved_by = 3477
+solved_by = 3493
 difficulty_rating = "20%"
 content = """
 Sam and Max are asked to transform two digital clocks into two "digital root" clocks.

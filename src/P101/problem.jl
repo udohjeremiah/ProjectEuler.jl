@@ -3,7 +3,7 @@ module Problem101
 
 title = "Problem 101: Optimum polynomial"
 published_on = "Friday, 29th July 2005, 06:00 pm"
-solved_by = 12016
+solved_by = 12055
 difficulty_rating = "35%"
 content = """
 If we are presented with the first k terms of a sequence it is impossible to say with certainty the value of the next term, as there

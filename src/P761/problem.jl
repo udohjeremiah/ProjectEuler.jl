@@ -3,7 +3,7 @@ module Problem761
 
 title = "Problem 761: Runner and Swimmer"
 published_on = "Sunday, 11th July 2021, 05:00 am"
-solved_by = 142
+solved_by = 144
 difficulty_rating = "90%"
 content = """
 Two friends, a runner and a swimmer, are playing a sporting game: The swimmer is swimming within a circular pool while the

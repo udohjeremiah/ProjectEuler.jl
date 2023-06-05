@@ -3,7 +3,7 @@ module Problem595
 
 title = "Problem 595: Incremental Random Sort"
 published_on = "Sunday, 19th March 2017, 01:00 am"
-solved_by = 626
+solved_by = 628
 difficulty_rating = "35%"
 content = """
 A deck of cards numbered from 1 to n is shuffled randomly such that each permutation is equally likely.

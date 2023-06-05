@@ -3,7 +3,7 @@ module Problem26
 
 title = "Problem 26: Reciprocal cycles"
 published_on = "Friday, 13th September 2002, 06:00 pm"
-solved_by = 87326
+solved_by = 87456
 difficulty_rating = "5%"
 content = """
 A unit fraction contains 1 in the numerator. The decimal representation of the unit fractions with denominators 2 to 10 are given:

@@ -3,7 +3,7 @@ module Problem604
 
 title = "Problem 604: Convex path in square"
 published_on = "Sunday, 21st May 2017, 04:00 am"
-solved_by = 504
+solved_by = 510
 difficulty_rating = "40%"
 content = """
 

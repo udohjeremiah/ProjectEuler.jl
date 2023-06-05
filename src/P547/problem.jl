@@ -3,7 +3,7 @@ module Problem547
 
 title = "Problem 547: Distance of random points within hollow square laminae"
 published_on = "Sunday, 14th February 2016, 04:00 am"
-solved_by = 221
+solved_by = 223
 difficulty_rating = "70%"
 content = """
 Assuming that two points are chosen randomly (with \e[1muniform distribution\e[0m]) within a rectangle, it is possible to determine the

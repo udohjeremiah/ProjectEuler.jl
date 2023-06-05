@@ -3,7 +3,7 @@ module Problem96
 
 title = "Problem 96: Su Doku"
 published_on = "Friday, 27th May 2005, 06:00 pm"
-solved_by = 17936
+solved_by = 17987
 difficulty_rating = "25%"
 content = """
 Su Doku (Japanese meaning number place) is the name given to a popular puzzle concept. Its origin is unclear, but credit must

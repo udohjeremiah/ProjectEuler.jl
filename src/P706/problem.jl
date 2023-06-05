@@ -3,7 +3,7 @@ module Problem706
 
 title = "Problem 706: 3-Like Numbers"
 published_on = "Sunday, 15th March 2020, 07:00 am"
-solved_by = 525
+solved_by = 531
 difficulty_rating = "20%"
 content = """
 For a positive integer n, define f(n) to be the number of non-empty substrings of n that are divisible by 3. For example,

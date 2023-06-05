@@ -3,7 +3,7 @@ module Problem356
 
 title = "Problem 356: Largest roots of cubic polynomials"
 published_on = "Saturday, 29th October 2011, 01:00 pm"
-solved_by = 609
+solved_by = 611
 difficulty_rating = "60%"
 content = """
 

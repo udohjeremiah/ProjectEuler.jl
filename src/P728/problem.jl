@@ -3,7 +3,7 @@ module Problem728
 
 title = "Problem 728: Circle of Coins"
 published_on = "Sunday, 4th October 2020, 02:00 am"
-solved_by = 263
+solved_by = 267
 difficulty_rating = "40%"
 content = """
 Consider n coins arranged in a circle where each coin shows heads or tails. A move consists of turning over k consecutive coins: tail-head or head-tail. Using a sequence of these moves the objective is to get all the coins showing heads.

@@ -3,7 +3,7 @@ module Problem679
 
 title = "Problem 679: Freefarea"
 published_on = "Sunday, 15th September 2019, 01:00 am"
-solved_by = 833
+solved_by = 848
 difficulty_rating = "20%"
 content = """
 Let S be the set consisting of the four letters \\{\\texttt{`A'},\\texttt{`E'},\\texttt{`F'},\\texttt{`R'}\\}.

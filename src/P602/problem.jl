@@ -3,7 +3,7 @@ module Problem602
 
 title = "Problem 602: Product of Head Counts"
 published_on = "Saturday, 6th May 2017, 10:00 pm"
-solved_by = 494
+solved_by = 497
 difficulty_rating = "35%"
 content = """
 Alice enlists the help of some friends to generate a random number, using a single unfair coin. She and her friends sit around a

@@ -3,7 +3,7 @@ module Problem813
 
 title = "Problem 813: XOR-Powers"
 published_on = "Saturday, 22nd October 2022, 08:00 pm"
-solved_by = 405
+solved_by = 431
 difficulty_rating = "20%"
 content = """
 We use x\\oplus y to be the bitwise XOR of x and y.

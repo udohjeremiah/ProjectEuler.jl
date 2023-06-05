@@ -3,7 +3,7 @@ module Problem593
 
 title = "Problem 593: Fleeting Medians"
 published_on = "Saturday, 4th March 2017, 07:00 pm"
-solved_by = 539
+solved_by = 542
 difficulty_rating = "35%"
 content = """
 We define two sequences S = \\{S(1), S(2), ..., S(n)\\} and S_2 = \\{S_2(1), S_2(2), ..., S_2(n)\\}:

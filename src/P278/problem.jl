@@ -3,7 +3,7 @@ module Problem278
 
 title = "Problem 278: Linear Combinations of Semiprimes"
 published_on = "Saturday, 13th February 2010, 05:00 am"
-solved_by = 1071
+solved_by = 1075
 difficulty_rating = "50%"
 content = """
 

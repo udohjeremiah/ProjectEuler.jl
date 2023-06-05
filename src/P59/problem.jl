@@ -3,7 +3,7 @@ module Problem59
 
 title = "Problem 59: XOR decryption"
 published_on = "Friday, 19th December 2003, 06:00 pm"
-solved_by = 42940
+solved_by = 43019
 difficulty_rating = "5%"
 content = """
 Each character on a computer is assigned a unique code and the preferred standard is ASCII (American Standard Code for

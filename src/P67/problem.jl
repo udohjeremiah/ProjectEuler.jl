@@ -3,7 +3,7 @@ module Problem67
 
 title = "Problem 67: Maximum path sum II"
 published_on = "Friday, 9th April 2004, 06:00 pm"
-solved_by = 98817
+solved_by = 98948
 difficulty_rating = "5%"
 content = """
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to

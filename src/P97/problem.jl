@@ -3,7 +3,7 @@ module Problem97
 
 title = "Problem 97: Large non-Mersenne prime"
 published_on = "Friday, 10th June 2005, 06:00 pm"
-solved_by = 44647
+solved_by = 44732
 difficulty_rating = "5%"
 content = """
 The first known prime found to exceed one million digits was discovered in 1999, and is a Mersenne prime of the form

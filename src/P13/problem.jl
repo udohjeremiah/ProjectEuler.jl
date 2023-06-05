@@ -3,7 +3,7 @@ module Problem13
 
 title = "Problem 13: Large sum"
 published_on = "Friday, 22nd March 2002, 06:00 pm"
-solved_by = 232497
+solved_by = 232713
 difficulty_rating = "5%"
 content = """
 Work out the first ten digits of the sum of the following one-hundred 50-digit numbers.

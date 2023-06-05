@@ -3,7 +3,7 @@ module Problem803
 
 title = "Problem 803: Pseudorandom sequence"
 published_on = "Saturday, 18th June 2022, 02:00 pm"
-solved_by = 193
+solved_by = 198
 difficulty_rating = "55%"
 content = """
 \e[1mRand48\e[0m is a pseudorandom number generator used by some programming languages. It generates a sequence from any given

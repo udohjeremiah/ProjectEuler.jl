@@ -3,7 +3,7 @@ module Problem145
 
 title = "Problem 145: How many reversible numbers are there below one-billion?"
 published_on = "Friday, 16th March 2007, 01:00 pm"
-solved_by = 17194
+solved_by = 17243
 difficulty_rating = "20%"
 content = """
 Some positive integers n have the property that the sum [ n + reverse(n) ] consists entirely of odd (decimal) digits. For instance,

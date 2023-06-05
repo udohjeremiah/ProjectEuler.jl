@@ -3,7 +3,7 @@ module Problem32
 
 title = "Problem 32: Pandigital products"
 published_on = "Friday, 6th December 2002, 06:00 pm"
-solved_by = 74156
+solved_by = 74274
 difficulty_rating = "5%"
 content = """
 We shall say that an n-digit number is pandigital if it makes use of all the digits 1 to n exactly once; for example, the 5-digit

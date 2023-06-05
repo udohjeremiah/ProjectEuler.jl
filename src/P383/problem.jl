@@ -3,7 +3,7 @@ module Problem383
 
 title = "Problem 383: Divisibility comparison between factorials"
 published_on = "Saturday, 5th May 2012, 11:00 pm"
-solved_by = 482
+solved_by = 488
 difficulty_rating = "50%"
 content = """
 Let f₅(n) be the largest integer x for which 5ˣ divides n.

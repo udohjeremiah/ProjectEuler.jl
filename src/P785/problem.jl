@@ -3,7 +3,7 @@ module Problem785
 
 title = "Problem 785: Symmetric Diophantine equation"
 published_on = "Sunday, 13th February 2022, 07:00 am"
-solved_by = 175
+solved_by = 178
 difficulty_rating = "55%"
 content = """
 Consider the following Diophantine equation:

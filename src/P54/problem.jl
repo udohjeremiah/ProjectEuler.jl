@@ -3,7 +3,7 @@ module Problem54
 
 title = "Problem 54: Poker hands"
 published_on = "Friday, 10th October 2003, 06:00 pm"
-solved_by = 37739
+solved_by = 37817
 difficulty_rating = "10%"
 content = """
 In the card game poker, a hand consists of five cards and are ranked, from lowest to highest, in the following way:

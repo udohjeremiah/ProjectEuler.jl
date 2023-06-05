@@ -3,7 +3,7 @@ module Problem806
 
 title = "Problem 806: Nim on Towers of Hanoi"
 published_on = "Saturday, 9th July 2022, 11:00 pm"
-solved_by = 101
+solved_by = 104
 difficulty_rating = "100%"
 content = """
 This problem combines the game of Nim with the Towers of Hanoi. For a brief introduction to the rules of these games, please

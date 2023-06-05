@@ -3,7 +3,7 @@ module Problem374
 
 title = "Problem 374: Maximum Integer Partition Product"
 published_on = "Saturday, 3rd March 2012, 07:00 pm"
-solved_by = 690
+solved_by = 697
 difficulty_rating = "40%"
 content = """
 An integer partition of a number n is a way of writing n as a sum of positive integers.

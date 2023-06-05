@@ -3,7 +3,7 @@ module Problem285
 
 title = "Problem 285: Pythagorean odds"
 published_on = "Saturday, 3rd April 2010, 05:00 am"
-solved_by = 1240
+solved_by = 1252
 difficulty_rating = "55%"
 content = """
 Albert chooses a positive integer k, then two real numbers a, b are randomly chosen in the interval [0,1] with uniform

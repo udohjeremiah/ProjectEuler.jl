@@ -3,7 +3,7 @@ module Problem57
 
 title = "Problem 57: Square root convergents"
 published_on = "Friday, 21st November 2003, 06:00 pm"
-solved_by = 43431
+solved_by = 43512
 difficulty_rating = "5%"
 content = """
 It is possible to show that the square root of two can be expressed as an infinite continued fraction.

@@ -3,7 +3,7 @@ module Problem186
 
 title = "Problem 186: Connectedness of a network"
 published_on = "Saturday, 15th March 2008, 05:00 am"
-solved_by = 2942
+solved_by = 2959
 difficulty_rating = "60%"
 content = """
 Here are the records from a busy telephone system with one million users:

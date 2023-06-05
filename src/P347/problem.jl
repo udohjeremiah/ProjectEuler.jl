@@ -3,7 +3,7 @@ module Problem347
 
 title = "Problem 347: Largest integer divisible by two primes"
 published_on = "Saturday, 3rd September 2011, 04:00 pm"
-solved_by = 4687
+solved_by = 4701
 difficulty_rating = "15%"
 content = """
 The largest integer ≤ 100 that is only divisible by both the primes 2 and 3 is 96, as 96=32*3=2⁵*3. For two distinct primes p and

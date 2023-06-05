@@ -3,7 +3,7 @@ module Problem205
 
 title = "Problem 205: Dice Game"
 published_on = "Saturday, 6th September 2008, 02:00 pm"
-solved_by = 15257
+solved_by = 15290
 difficulty_rating = "15%"
 content = """
 Peter has nine four-sided (pyramidal) dice, each with faces numbered 1, 2, 3, 4.

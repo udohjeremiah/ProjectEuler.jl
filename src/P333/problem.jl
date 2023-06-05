@@ -3,7 +3,7 @@ module Problem333
 
 title = "Problem 333: Special partitions"
 published_on = "Saturday, 16th April 2011, 01:00 pm"
-solved_by = 1263
+solved_by = 1270
 difficulty_rating = "35%"
 content = """
 All positive integers can be partitioned in such a way that each and every term of the partition can be expressed as 2ⁱx3ʲ, where

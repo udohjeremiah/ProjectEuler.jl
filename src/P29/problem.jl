@@ -3,7 +3,7 @@ module Problem29
 
 title = "Problem 29: Distinct powers"
 published_on = "Friday, 25th October 2002, 06:00 pm"
-solved_by = 109160
+solved_by = 109318
 difficulty_rating = "5%"
 content = """
 Consider all integer combinations of aᵇ for 2 ≤ a ≤ 5 and 2 ≤ b ≤ 5:

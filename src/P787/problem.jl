@@ -3,7 +3,7 @@ module Problem787
 
 title = "Problem 787: Bézout's Game"
 published_on = "Saturday, 26th February 2022, 01:00 pm"
-solved_by = 181
+solved_by = 184
 difficulty_rating = "40%"
 content = """
 Two players play a game with two piles of stones. They take alternating turns. If there are currently a stones in the first pile and

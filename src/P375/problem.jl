@@ -3,7 +3,7 @@ module Problem375
 
 title = "Problem 375: Minimum of subsequences"
 published_on = "Saturday, 10th March 2012, 10:00 pm"
-solved_by = 900
+solved_by = 906
 difficulty_rating = "40%"
 content = """
 Let Sₙ be an integer sequence produced with the following pseudo-random number generator:

@@ -3,7 +3,7 @@ module Problem108
 
 title = "Problem 108: Diophantine reciprocals I"
 published_on = "Friday, 4th November 2005, 06:00 pm"
-solved_by = 13102
+solved_by = 13144
 difficulty_rating = "30%"
 content = """
 In the following equation 

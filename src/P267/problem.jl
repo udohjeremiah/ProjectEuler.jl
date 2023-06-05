@@ -3,7 +3,7 @@ module Problem267
 
 title = "Problem 267: Billionaire"
 published_on = "Friday, 4th December 2009, 01:00 pm"
-solved_by = 3485
+solved_by = 3500
 difficulty_rating = "50%"
 content = """
 You are given a unique investment opportunity.

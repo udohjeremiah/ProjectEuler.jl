@@ -3,7 +3,7 @@ module Problem565
 
 title = "Problem 565: Divisibility of sum of divisors"
 published_on = "Sunday, 19th June 2016, 10:00 am"
-solved_by = 620
+solved_by = 626
 difficulty_rating = "35%"
 content = """
 Let σ(n) be the sum of the divisors of n.

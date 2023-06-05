@@ -3,7 +3,7 @@ module Problem212
 
 title = "Problem 212: Combined Volume of Cuboids"
 published_on = "Saturday, 11th October 2008, 06:00 am"
-solved_by = 1418
+solved_by = 1423
 difficulty_rating = "70%"
 content = """
 An axis-aligned cuboid, specified by parameters { (x₀,y₀,z₀), (dx,dy,dz) }, consists of all points (X,Y,Z) such that x₀ ≤ X ≤ x₀+dx,

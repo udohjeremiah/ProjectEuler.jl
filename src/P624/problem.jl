@@ -3,7 +3,7 @@ module Problem624
 
 title = "Problem 624: Two heads are better than one"
 published_on = "Saturday, 7th April 2018, 01:00 pm"
-solved_by = 626
+solved_by = 634
 difficulty_rating = "30%"
 content = """
 

@@ -3,7 +3,7 @@ module Problem221
 
 title = "Problem 221: Alexandrian Integers"
 published_on = "Saturday, 13th December 2008, 01:00 pm"
-solved_by = 2133
+solved_by = 2140
 difficulty_rating = "65%"
 content = """
 We shall call a positive integer 

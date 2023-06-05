@@ -3,7 +3,7 @@ module Problem252
 
 title = "Problem 252: Convex Holes"
 published_on = "Saturday, 27th June 2009, 01:00 pm"
-solved_by = 852
+solved_by = 859
 difficulty_rating = "80%"
 content = """
 

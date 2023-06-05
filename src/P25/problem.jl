@@ -3,7 +3,7 @@ module Problem25
 
 title = "Problem 25: 1000-digit Fibonacci number"
 published_on = "Friday, 30th August 2002, 06:00 pm"
-solved_by = 160128
+solved_by = 160305
 difficulty_rating = "5%"
 content = """
 The Fibonacci sequence is defined by the recurrence relation:

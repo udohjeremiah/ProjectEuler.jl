@@ -3,7 +3,7 @@ module Problem580
 
 title = "Problem 580: Squarefree Hilbert numbers"
 published_on = "Sunday, 4th December 2016, 04:00 am"
-solved_by = 248
+solved_by = 250
 difficulty_rating = "75%"
 content = """
 A \e[1mHilbert number\e[0m is any positive integer of the form 4k+1 for integer k ≥ 0.  We shall define a squarefree Hilbert number as

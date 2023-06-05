@@ -3,7 +3,7 @@ module Problem50
 
 title = "Problem 50: Consecutive prime sum"
 published_on = "Friday, 15th August 2003, 06:00 pm"
-solved_by = 64956
+solved_by = 65067
 difficulty_rating = "5%"
 content = """
 The prime 41, can be written as the sum of six consecutive primes:

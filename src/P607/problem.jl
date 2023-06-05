@@ -3,7 +3,7 @@ module Problem607
 
 title = "Problem 607: Marsh Crossing"
 published_on = "Saturday, 10th June 2017, 01:00 pm"
-solved_by = 1712
+solved_by = 1729
 difficulty_rating = "20%"
 content = """
 

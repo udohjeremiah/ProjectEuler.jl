@@ -3,7 +3,7 @@ module Problem213
 
 title = "Problem 213: Flea Circus"
 published_on = "Saturday, 18th October 2008, 10:00 am"
-solved_by = 2391
+solved_by = 2401
 difficulty_rating = "60%"
 content = """
 A 30×30 grid of squares contains 900 fleas, initially one flea per square.

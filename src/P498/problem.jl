@@ -3,7 +3,7 @@ module Problem498
 
 title = "Problem 498: Remainder of polynomial division"
 published_on = "Sunday, 18th January 2015, 07:00 am"
-solved_by = 523
+solved_by = 526
 difficulty_rating = "40%"
 content = """
 For positive integers n and m, we define two polynomials Fₙ(x) = xⁿ and Gₘ(x) = (x-1)ᵐ.

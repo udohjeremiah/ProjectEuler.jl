@@ -3,7 +3,7 @@ module Problem201
 
 title = "Problem 201: Subsets with a unique sum"
 published_on = "Saturday, 5th July 2008, 02:00 pm"
-solved_by = 2374
+solved_by = 2378
 difficulty_rating = "65%"
 content = """
 For any set A of numbers, let sum(A) be the sum of the elements of A.

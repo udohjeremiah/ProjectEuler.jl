@@ -3,7 +3,7 @@ module Problem543
 
 title = "Problem 543: Prime-Sum Numbers"
 published_on = "Saturday, 16th January 2016, 04:00 pm"
-solved_by = 692
+solved_by = 698
 difficulty_rating = "30%"
 content = """
 Define function P(n,k) = 1 if n can be written as the sum of k prime numbers (with repetitions allowed), and P(n,k) = 0

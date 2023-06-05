@@ -3,7 +3,7 @@ module Problem281
 
 title = "Problem 281: Pizza Toppings"
 published_on = "Friday, 5th March 2010, 01:00 pm"
-solved_by = 1000
+solved_by = 1002
 difficulty_rating = "55%"
 content = """
 You are given a pizza (perfect circle) that has been cut into 

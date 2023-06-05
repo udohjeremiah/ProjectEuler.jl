@@ -3,7 +3,7 @@ module Problem381
 
 title = "Problem 381: (prime-k) factorial"
 published_on = "Saturday, 21st April 2012, 05:00 pm"
-solved_by = 4326
+solved_by = 4348
 difficulty_rating = "15%"
 content = """
 For a prime p let S(p) = (∑ (p-k)!) mod(p) for 1 ≤ k ≤ 5.

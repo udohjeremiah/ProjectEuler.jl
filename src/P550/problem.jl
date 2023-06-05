@@ -3,7 +3,7 @@ module Problem550
 
 title = "Problem 550: Divisor game"
 published_on = "Saturday, 5th March 2016, 01:00 pm"
-solved_by = 347
+solved_by = 348
 difficulty_rating = "60%"
 content = """
 Two players are playing a game, alternating turns. There are k piles of stones. On each turn, a player has to choose a pile and

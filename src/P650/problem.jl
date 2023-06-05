@@ -3,7 +3,7 @@ module Problem650
 
 title = "Problem 650: Divisors of Binomial Product"
 published_on = "Saturday, 5th January 2019, 04:00 pm"
-solved_by = 1618
+solved_by = 1631
 difficulty_rating = "10%"
 content = """
 

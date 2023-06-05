@@ -3,7 +3,7 @@ module Problem646
 
 title = "Problem 646: Bounded Divisors"
 published_on = "Sunday, 9th December 2018, 04:00 am"
-solved_by = 273
+solved_by = 278
 difficulty_rating = "40%"
 content = """
 

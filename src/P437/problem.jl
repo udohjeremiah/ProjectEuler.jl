@@ -3,7 +3,7 @@ module Problem437
 
 title = "Problem 437: Fibonacci primitive roots"
 published_on = "Saturday, 21st September 2013, 10:00 pm"
-solved_by = 805
+solved_by = 810
 difficulty_rating = "35%"
 content = """
 When we calculate 8ⁿ modulo 11 for n=0 to 9 we get: 1, 8, 9, 6, 4, 10, 3, 2, 5, 7.

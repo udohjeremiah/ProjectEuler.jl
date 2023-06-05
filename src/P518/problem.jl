@@ -3,7 +3,7 @@ module Problem518
 
 title = "Problem 518: Prime triples and geometric sequences"
 published_on = "Saturday, 30th May 2015, 04:00 pm"
-solved_by = 1625
+solved_by = 1637
 difficulty_rating = "20%"
 content = """
 Let S(n) = Σ a+b+c over all triples (a,b,c) such that:

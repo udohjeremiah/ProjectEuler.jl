@@ -3,7 +3,7 @@ module Problem384
 
 title = "Problem 384: Rudin-Shapiro sequence"
 published_on = "Sunday, 13th May 2012, 02:00 am"
-solved_by = 334
+solved_by = 335
 difficulty_rating = "65%"
 content = """
 Define the sequence a(n) as the number of adjacent pairs of ones in the binary expansion of n (possibly overlapping).

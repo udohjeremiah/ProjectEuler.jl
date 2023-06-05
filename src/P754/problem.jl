@@ -3,7 +3,7 @@ module Problem754
 
 title = "Problem 754: Product of Gauss Factorials"
 published_on = "Sunday, 4th April 2021, 08:00 am"
-solved_by = 605
+solved_by = 617
 difficulty_rating = "20%"
 content = """
 The 

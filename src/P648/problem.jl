@@ -3,7 +3,7 @@ module Problem648
 
 title = "Problem 648: Skipping Squares"
 published_on = "Sunday, 23rd December 2018, 10:00 am"
-solved_by = 281
+solved_by = 287
 difficulty_rating = "45%"
 content = """
 For some fixed ρ ∈ [0, 1], we begin a sum s at 0 and repeatedly apply a process: With probability ρ, we add 1 to s, otherwise

@@ -3,7 +3,7 @@ module Problem269
 
 title = "Problem 269: Polynomials with at least one integer root"
 published_on = "Saturday, 19th December 2009, 09:00 am"
-solved_by = 708
+solved_by = 718
 difficulty_rating = "80%"
 content = """
 A root or zero of a polynomial P(x) is a solution to the equation P(x) = 0. 

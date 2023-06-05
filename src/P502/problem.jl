@@ -3,7 +3,7 @@ module Problem502
 
 title = "Problem 502: Counting Castles"
 published_on = "Saturday, 7th February 2015, 04:00 pm"
-solved_by = 292
+solved_by = 295
 difficulty_rating = "100%"
 content = """
 We define a 

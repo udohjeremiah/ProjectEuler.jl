@@ -3,7 +3,7 @@ module Problem182
 
 title = "Problem 182: RSA encryption"
 published_on = "Friday, 15th February 2008, 01:00 pm"
-solved_by = 2672
+solved_by = 2676
 difficulty_rating = "60%"
 content = """
 The RSA encryption is based on the following procedure:

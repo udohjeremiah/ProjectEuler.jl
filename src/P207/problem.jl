@@ -3,7 +3,7 @@ module Problem207
 
 title = "Problem 207: Integer partition equations"
 published_on = "Saturday, 6th September 2008, 02:00 pm"
-solved_by = 4813
+solved_by = 4821
 difficulty_rating = "40%"
 content = """
 For some positive integers k, there exists an integer partition of the form 4ᵗ = 2ᵗ + k,

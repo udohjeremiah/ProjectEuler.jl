@@ -3,7 +3,7 @@ module Problem790
 
 title = "Problem 790: Clock Grid"
 published_on = "Saturday, 19th March 2022, 10:00 pm"
-solved_by = 239
+solved_by = 242
 difficulty_rating = "45%"
 content = """
 There is a grid of length and width 50515093 points. A clock is placed on each grid point. The clocks are all analogue showing

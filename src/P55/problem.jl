@@ -3,7 +3,7 @@ module Problem55
 
 title = "Problem 55: Lychrel numbers"
 published_on = "Friday, 24th October 2003, 06:00 pm"
-solved_by = 55881
+solved_by = 55977
 difficulty_rating = "5%"
 content = """
 If we take 47, reverse and add, 47 + 74 = 121, which is palindromic.

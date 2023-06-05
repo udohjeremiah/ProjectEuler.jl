@@ -3,7 +3,7 @@ module Problem635
 
 title = "Problem 635: Subset sums"
 published_on = "Saturday, 25th August 2018, 07:00 pm"
-solved_by = 338
+solved_by = 341
 difficulty_rating = "40%"
 content = """
 Let A_q(n) be the number of subsets, B, of the set {1, 2, ..., q ⋅ n} that satisfy two conditions:

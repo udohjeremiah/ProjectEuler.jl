@@ -3,7 +3,7 @@ module Problem700
 
 title = "Problem 700: Eulercoin"
 published_on = "Saturday, 1st February 2020, 01:00 pm"
-solved_by = 3058
+solved_by = 3108
 difficulty_rating = "5%"
 content = """
 Leonhard Euler was born on 15 April 1707.

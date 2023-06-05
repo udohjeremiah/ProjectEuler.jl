@@ -3,7 +3,7 @@ module Problem509
 
 title = "Problem 509: Divisor Nim"
 published_on = "Saturday, 28th March 2015, 01:00 pm"
-solved_by = 572
+solved_by = 577
 difficulty_rating = "45%"
 content = """
 Anton and Bertrand love to play three pile Nim.

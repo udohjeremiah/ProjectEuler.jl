@@ -3,7 +3,7 @@ module Problem807
 
 title = "Problem 807: Loops of Ropes"
 published_on = "Sunday, 11th September 2022, 02:00 am"
-solved_by = 105
+solved_by = 107
 difficulty_rating = "90%"
 content = """
 Given a circle C and an integer n > 1, we perform the following operations.

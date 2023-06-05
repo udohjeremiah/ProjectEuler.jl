@@ -3,7 +3,7 @@ module Problem409
 
 title = "Problem 409: Nim Extreme"
 published_on = "Saturday, 5th January 2013, 04:00 pm"
-solved_by = 454
+solved_by = 458
 difficulty_rating = "55%"
 content = """
 Let n be a positive integer. Consider nim positions where:

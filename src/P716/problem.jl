@@ -3,7 +3,7 @@ module Problem716
 
 title = "Problem 716: Grid Graphs"
 published_on = "Sunday, 17th May 2020, 11:00 am"
-solved_by = 217
+solved_by = 220
 difficulty_rating = "45%"
 content = """
 

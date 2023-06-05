@@ -3,7 +3,7 @@ module Problem312
 
 title = "Problem 312: Cyclic paths on Sierpiński graphs"
 published_on = "Sunday, 28th November 2010, 01:00 am"
-solved_by = 858
+solved_by = 861
 difficulty_rating = "50%"
 content = """
 - A 

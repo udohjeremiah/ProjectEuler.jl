@@ -3,7 +3,7 @@ module Problem794
 
 title = "Problem 794: Seventeen Points"
 published_on = "Sunday, 17th April 2022, 11:00 am"
-solved_by = 280
+solved_by = 285
 difficulty_rating = "35%"
 content = """
 This problem uses half open interval notation where [a,b) represents a \\le x < b.

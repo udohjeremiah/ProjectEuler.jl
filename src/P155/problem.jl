@@ -3,7 +3,7 @@ module Problem155
 
 title = "Problem 155: Counting Capacitor Circuits"
 published_on = "Saturday, 19th May 2007, 02:00 am"
-solved_by = 3710
+solved_by = 3727
 difficulty_rating = "60%"
 content = """
 An electric circuit uses exclusively identical capacitors of the same value C.

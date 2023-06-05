@@ -3,7 +3,7 @@ module Problem477
 
 title = "Problem 477: Number Sequence Game"
 published_on = "Saturday, 23rd August 2014, 04:00 pm"
-solved_by = 264
+solved_by = 266
 difficulty_rating = "65%"
 content = """
 The number sequence game starts with a sequence S of N numbers written on a line.

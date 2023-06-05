@@ -3,7 +3,7 @@ module Problem597
 
 title = "Problem 597: Torpids"
 published_on = "Sunday, 2nd April 2017, 07:00 am"
-solved_by = 170
+solved_by = 172
 difficulty_rating = "100%"
 content = """
 The Torpids are rowing races held annually in Oxford, following some curious rules:

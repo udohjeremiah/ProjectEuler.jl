@@ -3,7 +3,7 @@ module Problem581
 
 title = "Problem 581: 47-smooth triangular numbers"
 published_on = "Sunday, 11th December 2016, 07:00 am"
-solved_by = 860
+solved_by = 869
 difficulty_rating = "30%"
 content = """
 A number is p-smooth if it has no prime factors larger than p.

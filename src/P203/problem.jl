@@ -3,7 +3,7 @@ module Problem203
 
 title = "Problem 203: Squarefree Binomial Coefficients"
 published_on = "Saturday, 6th September 2008, 02:00 pm"
-solved_by = 9350
+solved_by = 9374
 difficulty_rating = "25%"
 content = """
 The binomial coefficients \\displaystyle \\binom n k can be arranged in triangular form, Pascal's triangle, like this:

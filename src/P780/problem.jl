@@ -3,7 +3,7 @@ module Problem780
 
 title = "Problem 780: Toriangulations"
 published_on = "Saturday, 8th January 2022, 04:00 pm"
-solved_by = 67
+solved_by = 70
 difficulty_rating = "100%"
 content = """
 For positive real numbers a,b, an a\\times b 

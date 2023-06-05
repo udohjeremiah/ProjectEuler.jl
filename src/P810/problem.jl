@@ -3,7 +3,7 @@ module Problem810
 
 title = "Problem 810: XOR-Primes"
 published_on = "Sunday, 2nd October 2022, 11:00 am"
-solved_by = 547
+solved_by = 573
 difficulty_rating = "20%"
 content = """
 We use x ⊕ y for the bitwise XOR of x and y.

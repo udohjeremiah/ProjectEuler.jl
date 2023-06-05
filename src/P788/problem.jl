@@ -3,7 +3,7 @@ module Problem788
 
 title = "Problem 788: Dominating Numbers"
 published_on = "Saturday, 5th March 2022, 04:00 pm"
-solved_by = 912
+solved_by = 930
 difficulty_rating = "10%"
 content = """
 A dominating number is a positive integer that has more than half of its digits equal.

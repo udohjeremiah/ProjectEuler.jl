@@ -3,7 +3,7 @@ module Problem56
 
 title = "Problem 56: Powerful digit sum"
 published_on = "Friday, 7th November 2003, 06:00 pm"
-solved_by = 60337
+solved_by = 60444
 difficulty_rating = "5%"
 content = """
 A googol (10¹⁰⁰) is a massive number: one followed by one-hundred zeros; 100¹⁰⁰ is almost unimaginably large: one followed

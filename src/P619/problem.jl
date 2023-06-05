@@ -3,7 +3,7 @@ module Problem619
 
 title = "Problem 619: Square subsets"
 published_on = "Saturday, 27th January 2018, 10:00 pm"
-solved_by = 395
+solved_by = 400
 difficulty_rating = "45%"
 content = """
 For a set of positive integers {a, a+1, a+2, … , b}, let C(a,b) be the number of non-empty subsets in which the product of

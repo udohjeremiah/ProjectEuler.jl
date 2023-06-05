@@ -3,7 +3,7 @@ module Problem94
 
 title = "Problem 94: Almost equilateral triangles"
 published_on = "Friday, 29th April 2005, 06:00 pm"
-solved_by = 12970
+solved_by = 13010
 difficulty_rating = "35%"
 content = """
 It is easily proved that no equilateral triangle exists with integral length sides and integral area. However, the almost equilateral

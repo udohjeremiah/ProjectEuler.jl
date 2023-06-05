@@ -3,7 +3,7 @@ module Problem133
 
 title = "Problem 133: Repunit nonfactors"
 published_on = "Friday, 1st December 2006, 06:00 pm"
-solved_by = 5731
+solved_by = 5752
 difficulty_rating = "50%"
 content = """
 A number consisting entirely of ones is called a repunit. We shall define R(k) to be a repunit of length k; for example, R(6) =

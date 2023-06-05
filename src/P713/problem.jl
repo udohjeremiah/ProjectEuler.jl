@@ -3,7 +3,7 @@ module Problem713
 
 title = "Problem 713: Turán's water heating system"
 published_on = "Sunday, 26th April 2020, 02:00 am"
-solved_by = 669
+solved_by = 679
 difficulty_rating = "20%"
 content = """
 Turan has the electrical water heating system outside his house in a shed. The electrical system uses two fuses in series, one

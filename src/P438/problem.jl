@@ -3,7 +3,7 @@ module Problem438
 
 title = "Problem 438: Integer part of polynomial equation's solutions"
 published_on = "Sunday, 29th September 2013, 01:00 am"
-solved_by = 278
+solved_by = 279
 difficulty_rating = "95%"
 content = """
 For an n-tuple of integers t = (a₁, ..., aₙ), let (x₁, ..., xₙ) be the solutions of the polynomial equation xⁿ + a₁xⁿ⁻¹ + a₂xⁿ⁻² + ... + aₙ₋₁x + aₙ = 0.

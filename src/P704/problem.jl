@@ -3,7 +3,7 @@ module Problem704
 
 title = "Problem 704: Factors of Two in Binomial Coefficients"
 published_on = "Sunday, 1st March 2020, 01:00 am"
-solved_by = 863
+solved_by = 873
 difficulty_rating = "20%"
 content = """
 

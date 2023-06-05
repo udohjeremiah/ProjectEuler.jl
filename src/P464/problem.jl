@@ -3,7 +3,7 @@ module Problem464
 
 title = "Problem 464: Möbius function and intervals"
 published_on = "Sunday, 23rd March 2014, 01:00 am"
-solved_by = 325
+solved_by = 326
 difficulty_rating = "60%"
 content = """
 The \e[1mMöbius function,\e[0m denoted μ(n), is defined as:

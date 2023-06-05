@@ -3,7 +3,7 @@ module Problem123
 
 title = "Problem 123: Prime square remainders"
 published_on = "Friday, 16th June 2006, 06:00 pm"
-solved_by = 11937
+solved_by = 11971
 difficulty_rating = "30%"
 content = """
 Let pⁿ be the nth prime: 2, 3, 5, 7, 11, ..., and let r be the remainder when (pₙ-1)ⁿ + (pₙ+1)ⁿ is divided by pₙ².

@@ -3,7 +3,7 @@ module Problem253
 
 title = "Problem 253: Tidying up A"
 published_on = "Friday, 28th August 2009, 01:00 pm"
-solved_by = 1042
+solved_by = 1048
 difficulty_rating = "75%"
 content = """
 A small child has a “number caterpillar” consisting of forty jigsaw pieces, each with one number on it, which, when connected

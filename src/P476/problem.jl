@@ -3,7 +3,7 @@ module Problem476
 
 title = "Problem 476: Circle Packing II"
 published_on = "Saturday, 14th June 2014, 01:00 pm"
-solved_by = 424
+solved_by = 425
 difficulty_rating = "45%"
 content = """
 Let R(a, b, c) be the maximum area covered by three non-overlapping circles inside a triangle with edge lengths a, b and c.

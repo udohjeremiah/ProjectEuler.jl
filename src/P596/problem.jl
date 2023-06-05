@@ -3,7 +3,7 @@ module Problem596
 
 title = "Problem 596: Number of lattice points in a hyperball"
 published_on = "Sunday, 26th March 2017, 04:00 am"
-solved_by = 357
+solved_by = 362
 difficulty_rating = "50%"
 content = """
 Let T(r) be the number of integer quadruplets x, y, z, t such that x² + y² + z² + t² ≤ r². In other words, T(r) is the number of

@@ -3,7 +3,7 @@ module Problem614
 
 title = "Problem 614: Special partitions 2"
 published_on = "Sunday, 19th November 2017, 07:00 am"
-solved_by = 312
+solved_by = 313
 difficulty_rating = "55%"
 content = """
 An 

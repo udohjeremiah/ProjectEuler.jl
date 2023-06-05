@@ -3,7 +3,7 @@ module Problem449
 
 title = "Problem 449: Chocolate covered candy"
 published_on = "Sunday, 8th December 2013, 04:00 am"
-solved_by = 919
+solved_by = 926
 difficulty_rating = "40%"
 content = """
 Phil the confectioner is making a new batch of chocolate covered candy. Each candy centre is shaped like an ellipsoid of revolution defined by the equation:

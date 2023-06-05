@@ -3,7 +3,7 @@ module Problem386
 
 title = "Problem 386: Maximum length of an antichain"
 published_on = "Sunday, 27th May 2012, 08:00 am"
-solved_by = 742
+solved_by = 744
 difficulty_rating = "40%"
 content = """
 Let n be an integer and S(n) be the set of factors of n.

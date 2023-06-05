@@ -3,7 +3,7 @@ module Problem274
 
 title = "Problem 274: Divisibility Multipliers"
 published_on = "Friday, 15th January 2010, 01:00 pm"
-solved_by = 1437
+solved_by = 1438
 difficulty_rating = "65%"
 content = """
 For each integer p > 1 coprime to 10 there is a positive divisibility multiplier m < p which preserves divisibility by p for the

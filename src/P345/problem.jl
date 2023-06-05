@@ -3,7 +3,7 @@ module Problem345
 
 title = "Problem 345: Matrix Sum"
 published_on = "Saturday, 3rd September 2011, 04:00 pm"
-solved_by = 5813
+solved_by = 5839
 difficulty_rating = "15%"
 content = """
 We define the Matrix Sum of a matrix as the maximum possible sum of matrix elements such that none of the selected

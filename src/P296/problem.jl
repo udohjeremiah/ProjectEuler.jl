@@ -3,7 +3,7 @@ module Problem296
 
 title = "Problem 296: Angular Bisector and Tangent"
 published_on = "Friday, 11th June 2010, 01:00 pm"
-solved_by = 596
+solved_by = 597
 difficulty_rating = "60%"
 content = """
 

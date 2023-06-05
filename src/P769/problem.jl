@@ -3,7 +3,7 @@ module Problem769
 
 title = "Problem 769: Binary Quadratic Form II"
 published_on = "Sunday, 24th October 2021, 07:00 am"
-solved_by = 127
+solved_by = 131
 difficulty_rating = "90%"
 content = """
 Consider the following binary quadratic form:

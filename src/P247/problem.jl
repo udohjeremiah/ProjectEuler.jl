@@ -3,7 +3,7 @@ module Problem247
 
 title = "Problem 247: Squares under a hyperbola"
 published_on = "Friday, 29th May 2009, 09:00 pm"
-solved_by = 1491
+solved_by = 1507
 difficulty_rating = "65%"
 content = """
 Consider the region constrained by 1 ≤ 

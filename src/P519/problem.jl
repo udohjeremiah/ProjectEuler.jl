@@ -3,7 +3,7 @@ module Problem519
 
 title = "Problem 519: Tricoloured Coin Fountains"
 published_on = "Saturday, 6th June 2015, 07:00 pm"
-solved_by = 343
+solved_by = 345
 difficulty_rating = "50%"
 content = """
 An arrangement of coins in one or more rows with the bottom row being a block without gaps and every coin in a higher row touching exactly two coins in the row below is called a 

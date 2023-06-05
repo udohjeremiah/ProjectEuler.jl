@@ -3,8 +3,8 @@ module Problem834
 
 title = "Problem 834: Add and Divide"
 published_on = "Sunday, 19th March 2023, 10:00 am"
-solved_by = 239
-difficulty_rating = ""
+solved_by = 280
+difficulty_rating = "25%"
 content = """
 
 A sequence is created by starting with a positive integer n and incrementing by (n+m) at the m^{th} step. 

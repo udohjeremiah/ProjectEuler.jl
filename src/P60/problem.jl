@@ -3,7 +3,7 @@ module Problem60
 
 title = "Problem 60: Prime pair sets"
 published_on = "Friday, 2nd January 2004, 06:00 pm"
-solved_by = 28112
+solved_by = 28175
 difficulty_rating = "20%"
 content = """
 The primes 3, 7, 109, and 673, are quite remarkable. By taking any two primes and concatenating them in any order the result

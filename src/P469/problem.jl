@@ -3,7 +3,7 @@ module Problem469
 
 title = "Problem 469: Empty chairs"
 published_on = "Saturday, 26th April 2014, 04:00 pm"
-solved_by = 758
+solved_by = 761
 difficulty_rating = "40%"
 content = """
 In a room N chairs are placed around a round table.

@@ -3,7 +3,7 @@ module Problem749
 
 title = "Problem 749: Near Power Sums"
 published_on = "Saturday, 27th February 2021, 04:00 pm"
-solved_by = 614
+solved_by = 629
 difficulty_rating = "15%"
 content = """
 A positive integer, n, is a near power sum if there exists a positive integer, k, such that the sum of the kth powers of the digits

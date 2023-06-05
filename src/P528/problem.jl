@@ -3,7 +3,7 @@ module Problem528
 
 title = "Problem 528: Constrained Sums"
 published_on = "Saturday, 3rd October 2015, 07:00 pm"
-solved_by = 275
+solved_by = 276
 difficulty_rating = "60%"
 content = """
 Let S(n,k,b) represent the number of valid solutions to x₁ + x₂ + ... + xₖ ≤ n, where 0 ≤ xₘ ≤ bᵐ for all 1 ≤ m ≤ k.

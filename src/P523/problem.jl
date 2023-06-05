@@ -3,7 +3,7 @@ module Problem523
 
 title = "Problem 523: First Sort I"
 published_on = "Sunday, 6th September 2015, 07:00 am"
-solved_by = 1000
+solved_by = 1003
 difficulty_rating = "30%"
 content = """
 Consider the following algorithm for sorting a list:

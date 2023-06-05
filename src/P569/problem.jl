@@ -3,7 +3,7 @@ module Problem569
 
 title = "Problem 569: Prime Mountain Range"
 published_on = "Saturday, 10th September 2016, 07:00 pm"
-solved_by = 400
+solved_by = 402
 difficulty_rating = "45%"
 content = """
 A 

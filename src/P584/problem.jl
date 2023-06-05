@@ -3,7 +3,7 @@ module Problem584
 
 title = "Problem 584: Birthday Problem Revisited"
 published_on = "Saturday, 31st December 2016, 04:00 pm"
-solved_by = 208
+solved_by = 209
 difficulty_rating = "100%"
 content = """
 A long long time ago in a galaxy far far away, the Wimwians, inhabitants of planet WimWi, discovered an unmanned drone that

@@ -3,7 +3,7 @@ module Problem504
 
 title = "Problem 504: Square on the Inside"
 published_on = "Saturday, 21st February 2015, 10:00 pm"
-solved_by = 3113
+solved_by = 3124
 difficulty_rating = "15%"
 content = """
 Let ABCD be a quadrilateral whose vertices are lattice points lying on the coordinate axes as follows:

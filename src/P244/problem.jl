@@ -3,7 +3,7 @@ module Problem244
 
 title = "Problem 244: Sliders"
 published_on = "Saturday, 9th May 2009, 02:00 pm"
-solved_by = 1345
+solved_by = 1355
 difficulty_rating = "70%"
 content = """
 You probably know the game 

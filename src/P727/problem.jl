@@ -3,7 +3,7 @@ module Problem727
 
 title = "Problem 727: Triangle of Circular Arcs"
 published_on = "Saturday, 26th September 2020, 11:00 pm"
-solved_by = 474
+solved_by = 478
 difficulty_rating = "25%"
 content = """
 Let r_a, r_b and r_c be the radii of three circles that are mutually and externally tangent to each other. The three circles then form a 

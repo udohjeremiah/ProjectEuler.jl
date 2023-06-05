@@ -3,7 +3,7 @@ module Problem378
 
 title = "Problem 378: Triangle Triples"
 published_on = "Sunday, 1st April 2012, 07:00 am"
-solved_by = 882
+solved_by = 888
 difficulty_rating = "35%"
 content = """
 Let T(n) be the n

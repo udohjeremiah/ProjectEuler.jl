@@ -3,7 +3,7 @@ module Problem332
 
 title = "Problem 332: Spherical triangles"
 published_on = "Sunday, 10th April 2011, 10:00 am"
-solved_by = 625
+solved_by = 631
 difficulty_rating = "50%"
 content = """
 A 

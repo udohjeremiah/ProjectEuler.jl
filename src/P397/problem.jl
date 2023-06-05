@@ -3,7 +3,7 @@ module Problem397
 
 title = "Problem 397: Triangle on parabola"
 published_on = "Sunday, 7th October 2012, 05:00 am"
-solved_by = 272
+solved_by = 273
 difficulty_rating = "70%"
 content = """
 On the parabola y = x²/k, three points A(a, a²/k), B(b, b²/k) and C(c, c²/k) are chosen.

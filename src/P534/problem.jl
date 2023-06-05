@@ -3,7 +3,7 @@ module Problem534
 
 title = "Problem 534: Weak Queens"
 published_on = "Saturday, 14th November 2015, 01:00 pm"
-solved_by = 307
+solved_by = 311
 difficulty_rating = "55%"
 content = """
 The classical 

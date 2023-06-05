@@ -3,7 +3,7 @@ module Problem33
 
 title = "Problem 33: Digit cancelling fractions"
 published_on = "Friday, 20th December 2002, 06:00 pm"
-solved_by = 74506
+solved_by = 74618
 difficulty_rating = "5%"
 content = """
 The fraction ⁴⁹/₉₈ is a curious fraction, as an inexperienced mathematician in attempting to simplify it may incorrectly believe

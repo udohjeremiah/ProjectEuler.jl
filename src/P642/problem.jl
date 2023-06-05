@@ -3,7 +3,7 @@ module Problem642
 
 title = "Problem 642: Sum of largest prime factors"
 published_on = "Saturday, 10th November 2018, 04:00 pm"
-solved_by = 352
+solved_by = 358
 difficulty_rating = "45%"
 content = """
 Let f(n) be the largest prime factor of n and \\displaystyle F(n) = \\sum_{i=2}^{n}f(i).

@@ -3,7 +3,7 @@ module Problem428
 
 title = "Problem 428: Necklace of circles"
 published_on = "Sunday, 19th May 2013, 01:00 am"
-solved_by = 246
+solved_by = 248
 difficulty_rating = "90%"
 content = """
 Let 

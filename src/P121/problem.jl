@@ -3,7 +3,7 @@ module Problem121
 
 title = "Problem 121: Disc game prize fund"
 published_on = "Friday, 19th May 2006, 06:00 pm"
-solved_by = 10074
+solved_by = 10101
 difficulty_rating = "35%"
 content = """
 A bag contains one red disc and one blue disc. In a game of chance a player takes a disc at random and its colour is noted.

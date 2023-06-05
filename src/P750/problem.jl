@@ -3,7 +3,7 @@ module Problem750
 
 title = "Problem 750: Optimal Card Stacking"
 published_on = "Saturday, 6th March 2021, 07:00 pm"
-solved_by = 297
+solved_by = 302
 difficulty_rating = "35%"
 content = """
 

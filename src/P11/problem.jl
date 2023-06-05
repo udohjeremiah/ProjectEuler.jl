@@ -3,7 +3,7 @@ module Problem11
 
 title = "Problem 11: Largest product in a grid"
 published_on = "Friday, 22nd February 2002, 06:00 pm"
-solved_by = 240541
+solved_by = 240754
 difficulty_rating = "5%"
 content = """
 In the 20×20 grid below, four numbers along a diagonal line have been marked in red.

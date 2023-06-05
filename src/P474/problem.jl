@@ -3,7 +3,7 @@ module Problem474
 
 title = "Problem 474: Last digits of divisors"
 published_on = "Sunday, 1st June 2014, 07:00 am"
-solved_by = 421
+solved_by = 423
 difficulty_rating = "50%"
 content = """
 For a positive integer n and digits d, we define F(n, d) as the number of the divisors of n whose last digits equal d.

@@ -3,7 +3,7 @@ module Problem756
 
 title = "Problem 756: Approximating a Sum"
 published_on = "Saturday, 1st May 2021, 02:00 pm"
-solved_by = 311
+solved_by = 318
 difficulty_rating = "30%"
 content = """
 Consider a function f(k) defined for all positive integers k>0. Let S be the sum of the first n values of f. That is,

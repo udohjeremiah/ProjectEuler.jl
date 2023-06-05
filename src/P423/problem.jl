@@ -3,7 +3,7 @@ module Problem423
 
 title = "Problem 423: Consecutive die throws"
 published_on = "Sunday, 14th April 2013, 10:00 am"
-solved_by = 492
+solved_by = 496
 difficulty_rating = "45%"
 content = """
 Let n be a positive integer.

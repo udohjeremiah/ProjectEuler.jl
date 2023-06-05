@@ -3,7 +3,7 @@ module Problem111
 
 title = "Problem 111: Primes with runs"
 published_on = "Friday, 16th December 2005, 06:00 pm"
-solved_by = 7546
+solved_by = 7569
 difficulty_rating = "45%"
 content = """
 Considering 4-digit primes containing repeated digits it is clear that they cannot all be the same: 1111 is divisible by 11, 2222 is

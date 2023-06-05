@@ -3,7 +3,7 @@ module Problem365
 
 title = "Problem 365: A huge binomial coefficient"
 published_on = "Saturday, 31st December 2011, 04:00 pm"
-solved_by = 1292
+solved_by = 1299
 difficulty_rating = "40%"
 content = """
 

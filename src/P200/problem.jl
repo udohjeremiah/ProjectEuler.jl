@@ -3,7 +3,7 @@ module Problem200
 
 title = "Problem 200: Find the 200th prime-proof sqube containing the contiguous sub-string \"200\""
 published_on = "Saturday, 28th June 2008, 10:00 am"
-solved_by = 2437
+solved_by = 2448
 difficulty_rating = "65%"
 content = """
 We shall define a sqube to be a number of the form, p²q³, where p and q are distinct primes.

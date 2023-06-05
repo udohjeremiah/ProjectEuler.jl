@@ -3,7 +3,7 @@ module Problem627
 
 title = "Problem 627: Counting products"
 published_on = "Saturday, 19th May 2018, 10:00 pm"
-solved_by = 238
+solved_by = 240
 difficulty_rating = "60%"
 content = """
 Consider the set S of all possible products of n positive integers not exceeding m, that is

@@ -3,7 +3,7 @@ module Problem344
 
 title = "Problem 344: Silver dollar game"
 published_on = "Saturday, 25th June 2011, 07:00 pm"
-solved_by = 331
+solved_by = 330
 difficulty_rating = "100%"
 content = """
 One variant of N.G. de Bruijn's 

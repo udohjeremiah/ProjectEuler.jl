@@ -3,7 +3,7 @@ module Problem46
 
 title = "Problem 46: Goldbach's other conjecture"
 published_on = "Friday, 20th June 2003, 06:00 pm"
-solved_by = 64132
+solved_by = 64223
 difficulty_rating = "5%"
 content = """
 It was proposed by Christian Goldbach that every odd composite number can be written as the sum of a prime and twice a

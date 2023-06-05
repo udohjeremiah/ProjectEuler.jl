@@ -3,7 +3,7 @@ module Problem218
 
 title = "Problem 218: Perfect right-angled triangles"
 published_on = "Saturday, 22nd November 2008, 01:00 am"
-solved_by = 3097
+solved_by = 3109
 difficulty_rating = "55%"
 content = """
 Consider the right angled triangle with sides a=7, b=24 and c=25. The area of this triangle is 84, which is divisible by the perfect

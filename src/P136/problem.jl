@@ -3,7 +3,7 @@ module Problem136
 
 title = "Problem 136: Singleton difference"
 published_on = "Friday, 29th December 2006, 06:00 pm"
-solved_by = 5884
+solved_by = 5906
 difficulty_rating = "50%"
 content = """
 The positive integers, x, y, and z, are consecutive terms of an arithmetic progression. Given that n is a positive integer, the

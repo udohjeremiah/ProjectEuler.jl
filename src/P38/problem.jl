@@ -3,7 +3,7 @@ module Problem38
 
 title = "Problem 38: Pandigital multiples"
 published_on = "Friday, 28th February 2003, 06:00 pm"
-solved_by = 65570
+solved_by = 65661
 difficulty_rating = "5%"
 content = """
 Take the number 192 and multiply it by each of 1, 2, and 3:

@@ -3,7 +3,7 @@ module Problem515
 
 title = "Problem 515: Dissonant Numbers"
 published_on = "Sunday, 10th May 2015, 07:00 am"
-solved_by = 467
+solved_by = 470
 difficulty_rating = "40%"
 content = """
 Let d(p,n,0) be the multiplicative inverse of n modulo prime p, defined as n × d(p,n,0) = 1 mod p.

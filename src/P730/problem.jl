@@ -3,7 +3,7 @@ module Problem730
 
 title = "Problem 730: Shifted Pythagorean Triples"
 published_on = "Sunday, 18th October 2020, 08:00 am"
-solved_by = 172
+solved_by = 177
 difficulty_rating = "65%"
 content = """
 

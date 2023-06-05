@@ -3,7 +3,7 @@ module Problem767
 
 title = "Problem 767: Window into a Matrix II"
 published_on = "Sunday, 10th October 2021, 02:00 am"
-solved_by = 162
+solved_by = 167
 difficulty_rating = "60%"
 content = """
 A window into a matrix is a contiguous sub matrix.
